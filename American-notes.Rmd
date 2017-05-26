@@ -1,0 +1,55 @@
+---
+output: 
+  bookdown::pdf_document2:
+    toc: true
+    citation_package: natbib
+    keep_tex: false
+    fig_caption: true
+    latex_engine: pdflatex
+title: "American Comprehensive Exam Notes"
+author: 
+- Hao Wang
+- Arizona State University
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 12pt
+spacing: single
+papersize: letter
+bibliography: D:/Dropbox/bib/Haowang.bib
+biblio-style: apsr
+citecolor: blue
+header-includes: \usepackage{graphicx, longtable, float, subfigure}
+---
+
+
+\newpage
+
+# POS 530 American Politics
+
+## Week 1 Introduction 
+
+@Gilens2012 : Affluence and Influence (Book)
+
+**Cite Key** Gilens2012
+
+**Author** Martin Gilens
+
+**Year** 2012
+
+**Summary** 
+
+the association between government policy and public preferences could tell us something important about the responsiveness of our government to the public and the extent to which political influence is reserved for the affluent. Two questions: 1. under which conditions government is responsible 2. Who is among the governed that government respond to. 
+
+The author starts with the discussion of democracy and the citizen-government linkages. While Converse argue that American voters do not have conherent ideology and lacks political understandings, there are several ways that citizens can approach politics without sophisticated knowledge: 1. through cue-taking of the more-knowledgable citizens. 2. Although democratic participation requires some minimal knowledge, citizens only need to be knowledgable on some issues, not all of them. 
+
+
+**Main Findings** 
+
+Policy preference is measured by the actual policy outcomes. The main interest is the association between the policy outcomes and the degree of support expressed by the public/ or a subgroup.
+
+
+
+
+
+
