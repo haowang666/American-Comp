@@ -41,15 +41,37 @@ header-includes: \usepackage{graphicx, longtable, float, subfigure}
 
 the association between government policy and public preferences could tell us something important about the responsiveness of our government to the public and the extent to which political influence is reserved for the affluent. Two questions: 1. under which conditions government is responsible 2. Who is among the governed that government respond to. 
 
-The author starts with the discussion of democracy and the citizen-government linkages. While Converse argue that American voters do not have conherent ideology and lacks political understandings, there are several ways that citizens can approach politics without sophisticated knowledge: 1. through cue-taking of the more-knowledgable citizens. 2. Although democratic participation requires some minimal knowledge, citizens only need to be knowledgable on some issues, not all of them. 
+The author starts with the discussion of democracy and the citizen-government linkages. While Converse argue that American voters do not have coherent ideology and lacks political understandings, there are several ways that citizens can approach politics without sophisticated knowledge: 1. through cue-taking of the more-knowledgeable citizens. 2. Although democratic participation requires some minimal knowledge, citizens only need to be knowledgeable on some issues, not all of them. 
 
 
 **Main Findings** 
 
 Policy preference is measured by the actual policy outcomes. The main interest is the association between the policy outcomes and the degree of support expressed by the public/ or a subgroup.
 
+Comparing education and income classes, policy congruence is more salient with the increasing levels of incomes; Interest group is interrelated with income classes. But income is still dominant factor: on economic and tax domain, interest group is closely related with rich people, on social welfare, interest group is evenly distributed across income classes. On gun control and environment, interest group is running against public wishes.
 
 
+
+
+@Bartels2008 Unequal Democracy
+
+**Cite Key**: Bartels2008 
+
+**Author**: Larry Bartels
+
+**Year**: 2008
+
+**Summary**
+
+The major question of this book is to discuss political equality of a democracy. Economic growth, inequality and political accountability. How to explain the success of the Republican parties if Democrat party helps middle classes so dramatically over the past years? Increasing economic inequality has become a political issue. 
+
+**Findings**
+
+1. Partisan divisions, under R's control, the real income growth for lower and middle income classes has consistently lagged well behind D's administration, also lagged well behind the income growth rates of the rich. Lower unemployment rates under D, but almost identical inflation rates, according to Hibbs 1987
+
+2. Class divisions: Democrats lose support from the middle class and high-income class. However, the general public is not becoming more conservative. Working classes do not value cultural issues more either. (probably race? a US-them division?); Nor did the religious practice a deciding factor.
+
+3. How Rep. can win elections: voters are myopic and only focus on election year performance; 2. Election year income growth for affulent voters is much more consequential, even for low and middle income voters 3. voters are swayed by the balance of compaign spending between incumbents and challengers. 
 
 
 
