@@ -29,7 +29,7 @@ header-includes: \usepackage{graphicx, longtable, float, subfigure}
 
 ## Week 1 Introduction 
 
-@Gilens2012 : Affluence and Influence (Book)
+### @Gilens2012 : Affluence and Influence (Book)
 
 **Cite Key** Gilens2012
 
@@ -53,7 +53,7 @@ Comparing education and income classes, policy congruence is more salient with t
 
 
 
-@Bartels2008 Unequal Democracy
+### @Bartels2008 Unequal Democracy
 
 **Cite Key**: Bartels2008 
 
@@ -72,6 +72,70 @@ The major question of this book is to discuss political equality of a democracy.
 2. Class divisions: Democrats lose support from the middle class and high-income class. However, the general public is not becoming more conservative. Working classes do not value cultural issues more either. (probably race? a US-them division?); Nor did the religious practice a deciding factor.
 
 3. How Rep. can win elections: voters are myopic and only focus on election year performance; 2. Election year income growth for affulent voters is much more consequential, even for low and middle income voters 3. voters are swayed by the balance of compaign spending between incumbents and challengers. 
+
+
+## Week 2 Congress
+
+### @Sin2014 Separation of Powers and Legislative Organization
+
+**Cite Key** Sin2014
+
+**Author** Gisela Sin
+
+**Year** 2014
+
+**Summary**
+
+The goal is to explain the house rule changes in the Congress. The House majority has to anticipate the actions of Senate and the president, as predetermined by the constitution. Also, the House includes fractions of different goals and interests. Intraparty groups are important for the changes of the House rules as well.  
+
+Gephardt rule abolishment (Rep)
+
+Constituional Constraints: any bills requires approval of both House and Senate as well as the president, or a supermajority of both House and Senate. 
+
+Intraparty conflicts: conservative Rep. and progressive Rep.
+
+Constitutional Theory of Legislative Organization. Environment: by the Constitution, there are three players in determining the policy outcomes: House, Senate and the president. Two stages of game: the power-sharing game and the legislative game. In the power-sharing game, house fractions chooce rules and procedures that distribute power among themselves. In the legislative game, there are two steps, the bicameral agreement stage and the constitutional stage (require all agreements from House, Senate and the President). 
+
+
+**Findings**
+
+1. House rules changes as the set of constitutional actors changes. Even holding every House member's ideal point constant, a shift in the ideal point of the Senate or the president can change the constitutional set and the available policy choices of the House. 
+
+2. Constitutional set changes predict. Not the change of House median, the party homogeneity, the party polarization, party capacity nor the majority party size. 
+
+3. Centralization happens when the nonspeaker group now get closer to the speaker group, or has ally in Senate/president. Decentralization happens when the Senate and president closer to the speaker fraction/ or when House minority controls both Senate and the president. 
+
+### @Schickler2001: Disjointed Pluralism: Institutional Innovation and the Development of the US Congress
+
+**Cite Key** Schickler2001
+
+**Author** Eric Schickler
+
+**Year** 2011
+
+**Summary**
+
+What explains the institutional changes in Congress? Members have different interests, and different interests are effective at different time periods. 
+
+Pluralism: different coalitions promoting a wide range of collective interests drive processes of change. reelection interest, bolster the capacity, power and prestige of the chamber of Congress as a whole, interest of accessing to the institutional power bases, party-based interest, and policy-based interest. 
+
+Disjointed: the dynamics of institutional development derive from the interactions and tensions among competing coalitions promoting several different interests. 
+
+Predictions:
+1. Electoral interests will matter more as member careerism increases
+(Mayhew 1974).
+2. Congressional capacity and power will be more salient following episodes in which the president has gained influence at Congress's expense (Dodd 1977; Sundquist 1981).
+3. Members' interest in institutional power bases will generate pressure
+for decentralization following an influx of junior members that
+substantially alters the seniority distribution (Dodd 1986; Diermeier 1995).
+4. Majority party interests will be particularly important when the majority party is internally unified and has policy preferences that are
+sharply different from those of the minority (Rohde 1991).
+5. Policy-based interests will generate pressure for institutional changes
+when electoral shocks and other exogenous factors substantially
+shift the location of the median voter on the floor (Krehbiel 1998;
+Schickler 2000).
+
+**Findings**
 
 
 
