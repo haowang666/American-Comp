@@ -1,0 +1,94 @@
+---
+output: 
+  bookdown::pdf_document2:
+    toc: true
+    citation_package: natbib
+    keep_tex: false
+    fig_caption: true
+    latex_engine: pdflatex
+title: "American Comprehensive Exam Notes"
+author: 
+- Hao Wang
+- Arizona State University
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 12pt
+spacing: single
+papersize: letter
+bibliography: D:/Dropbox/bib/Haowang.bib
+biblio-style: apsr
+citecolor: blue
+header-includes: \usepackage{graphicx, longtable, float, subfigure}
+---
+
+
+\newpage
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+# POS550 Comparative Politics Core
+
+## Week 1
+
+### @BradyCollier2010 Rethinking Social Inquiry
+
+**Author** Henry Brady and David Collier
+
+**Year** 2010
+
+The difference between experiments and observational studies. 
+KKV: use statistical (regression) ideas and principles into political analysis. Three criteria: unbiaseness, efficiency and consistency. Unbiased estimates that those that are replicated as the average when the same methods of inference are applied again and again to an event. If a measure shifts in the estimate in one way or the other, it is called bias. One major source of bias is that the informants who answer poll questions over under- or over-state their estimates to questions(p. 64). Efficiency, on the other hand, is a relative concept measured by calculating the variance of the estimator across hypothetical replications; the more observations there are, the better (i.e. smaller)
+the variability.
+
+Conditional independence and specification assumption. The former one is the model of a statistical control. The later one is based on statistical models and restrictions. 
+
+Different from KKV: always increasing N is not a good idea. The later cases may be unrelevant to causal inference. Instead they argue for adding causal-process observations. (p.195)
+
+
+### @Mahoney2010 After KKV
+
+**Author** James Mahoney
+
+**Year** 2010
+
+**Summary**
+
+KKV's approach: process tracing as the search for intervening variables is useless. Their suggestion is to expand the size of N to achieve a determinate research design. 
+
+Brady and Collier: data-set observtion and causal-process observation. 
+
+Mahoney's approach: theory-testing usage of causal-process observation: independent variable CPOs, mechanism CPOs, and Auxiliary CPOs. Independent CPOs: provides information about the presence of an independent variable. Mechanism CPOs provides information about whether an intervening event posited by a theory is present. Auxiliary outcoe CPOs: information about particular occurences that should occur alongside the main outcome interest if in fact that outcome were caused in the way stipulated by the theory under investigation. Auxiliary outcomes are separate occurences that should be generated if the theory works. 
+
+### @Lijphart1971 Comparative Politics and Comparaative Method
+
+**Author** Lijphart
+
+**Year** 1971
+
+**Summary** 
+Comparative method as one methoe comparing to experimental, ans statistical method. Comparative method resembles statistical method, but the number of cases are much smaller. 
+
+Four suggestions:
+1. Increase the number of cases as much as possible. 2. Reduce the 'property-space' analysis: if the sample of cases cannot be increased, it may be possible to combine two or more variables that express an essentially similar underlying characteristic into a single variable. 3. Focus the comparative analysis on comparable cases. 4. Focus on key variables. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

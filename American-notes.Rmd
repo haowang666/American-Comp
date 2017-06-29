@@ -135,7 +135,157 @@ when electoral shocks and other exogenous factors substantially
 shift the location of the median voter on the floor (Krehbiel 1998;
 Schickler 2000).
 
+DV: Institutional changes, include leadership instruments, the committee system, and rules and procedures.  
+
 **Findings**
+
+1890 - 1910: the longest successful era of party government in congressional history, multiple collective interests shaped institutional development. Majority party interest, minority party interest, and concerns about congressional capacity also shaped House rules in 1891-95. 1909-1910 reforms even brought a cross-party coalitions for minority Democrats and insurgent Republicans that was united by a confluence of ideological, partisan, and power base concerns.
+
+1919 - 1932: the House majority party was once again more successful than the Senate majority in promoting interests. GOP majority, the institutional changes initiated by Republicans were at least partly intended to improve the GOP's effectiveness. Cross-party coalitions rooted in ideological and sectoral interests also shaped institutional changes during this period, particularly in the Senate. Even in the House, cross-party coalitions enjoyed notable victories in 1924 and in 1931. In both cases, ideological concerns interacted with members' personal power interests to promote reforms that loosened majority leaders' agenda control.
+
+1937 - 1952: majority party interest receded further in importance. The main collective interests were defending Congress from presidential aggrandizement and promoting the cross-party conservative coalition. e.g.: the Legislative Reorganization Act of 1946, which is due to the congressional-presidential rivalry.
+
+In the 1970s-1980s, party interests returned to prominence, but they interacted with junior members' power base interests and with a renewed concern that Congress had lost too much ground to the executive branch. The result was an array of institutional changes that augmented majority
+party influence and helped coordinate spending decisions, but also facilitated entrepreneurship by junior members. 
+
+### @Polsby1968 The Institutionalization of the U.S. House
+
+**Citekey** Polsby1968
+
+**Author** Nelson Polsby
+
+**Year** 1968
+
+**Summary**
+
+Institution: 1. it is relatively well-bounded, different from its environment. 2. The organization is relatively complex, its functions are internally separate on some regular and explicit basis. 3. The organization tends to use universalistic rather than particularistic criteria, and automatic rather than discretionary methods for conducting its internal business. Precedents and rules are followed; merit systems replace favoritism and nepotism; and impersonal codes supplant personal preferences as prescriptions for behavior. 
+
+
+**Findings**
+1. Harder to enter: increased years of members and speakers. 
+2. Increased complexity: in the growth in the autonomy and importance of committees, in the growth of specialized agencies of party leadership, and in the general increase in the provision of various emoluments and auxilary aids to members in the form of office space, salaries, allowances, staff aid and committee staffs. 
+3. A seniority system is always used.  
+
+### @Hibbing1991 Contours of the Modern Congressional Career
+
+**Citekey** Hibbing1991
+
+**Author** John Hibbing
+
+**Year** 1991
+
+**Summary**
+Study changes in four areas: the electoral career, the formal position career, the legislative activity career, and the constituency activity career. 
+Changes are standardized. Senior members are more active in rasing issues, but pay less attention to constituencies.
+
+Conclusion: Post-war congressional career electoral support improves; positions within the institution expand ro improve; legislative activity, specialization, and efficiency increase; and attention to district affairs diminishes. Specially, representatives used to do much better electorally as senior members than they were junior members, but now electoral performance is quite similair. Senior members used to axquire quality formal positions only after several terms of service, but now these positions are frequently obtained early in a career. Senior members used to do substantially less constituency service works, but now these differences are slight. Overall, the distinctiveness of particular career stages is much less than it used to be. 
+
+
+## Week 3 
+
+### @Brooks2013 He Runs She Runs
+
+**Citekey** Brooks2013
+
+**Author** Deborah Jordan Brooks
+
+**Year** 2013
+
+**Summary**
+
+Feminism, women and politics, performance of female politicians etc., are becoming increasingly important in modern democracies. Being systematically discriminated until 20th century, women's political voices are still weaker than males. Unlike Scandinavian countries where female MPs constitute a fairly large percentage (around 30 to 40\%) in the parliaments, there are only about 20 percent females in the Congress. Outside the political arena, females' salaries are significantly lower than males, and there are few female business leaders. Media commentators and journalists keep reminding us that these facts reflect the longstanding gender stereotypes in the United States: females are regarded inferior to males, with respect to politics, female politicians are harder to achieve political success. 
+
+This conventional wisdom becomes the core question of Brooks' book. Gender stereotypes are so prevalently perceived in the public that it is not systematically examined in academia. Confirmation bias states that people tend to find evidence to support their intuition, which helps explain why few scholars asking the question: does gender stereotypes harm female politicians in the same as common females? This book however addresses this issue directly using experimental designs, which are considered more rigorous than non-experimental designs and easier to ensure internal validity.
+
+Two confronting theories are examined in chapter 2. Double Standards Theory holds that female candidates will suffer from the descriptive stereotypes as being women; and they have to balance the potential conflicting identities as being women while acting as leaders; voters have higher standards for female politicians due to the prevailing gender discrimination. In other words, Double Standards Theory reflects the conventional wisdom. The author's argument leans towards the second theory: Leaders-Not-Ladies. This theory holds that being a political leader, female politicians do not suffer from the common gender stereotypes that common females will have. 'Female politicians will be evaluated by voters as 'politician' rather than female' (p. 29). Characteristics on 'good leadership' will outperform 'good femininity'. On the other hand, Brooks argues that female politicians have more information available to voters; and when voter receive more relevant information, stereotypical judgment goes down (p.41).
+    
+
+Brooks tests the two hypotheses with experimental methods. Fictional candidates are used rather than the actual political figures. Brooks argues that using fictional roles helps to isolate other confounding characteristics of that candidate which may interact with gender (p.47). On the other hand, experiments provide stronger control over the amount of information that voters will receive. Samples are drawn from YoGov subsample, as the author demonstrates that YoGov is more representative than commonly used student samples. Dependent variables are three questions: overall likeness; competence as a Senator; competence as the President ten years from now. 
+
+The core idea of the experimental design is to examine if voters form different opinions on the two fictional politicians with the same amount of information except for the gender difference. In the six experiments, respondents are required to read the articles with the same content  of the candidates other than the gender. These articles are manipulated across 6 different dimensions: political experience (chapter 4), crying, anger, empathy, and knowledge gaffes (chapters 5 - 7). Analysis is done with ANOVA, which is common in experimental designs (although not widely used in political science). ANOVA outperforms regression in the way that less assumptions are employed and beta coefficients need not to be constant. 
+
+The results support her argument of the Leaders-Not-Ladies. Overall, there is no statistically significant differences between male and female candidates. Instead, female candidates receive positive stereotypes in some aspects like being affirmative; and female politicians are in general regarded more intelligent when both candidates are inexperienced. Female candidates are not penalized particularly for being inexperienced; crying and showing anger; lack of empathy; and for knowledge gaffes. Overall, the results are consistent across different dimensions: female candidates do not suffer from gender stereotypes.   
+
+The experimental designs in this study dramatically enhance the interval validity. Not only in terms of causal inference, but the linkage between theory and experimentation as well. Brooks discusses the key concept of stereotypes in the beginning: `stereotypes allow people to quickly and efficiently - if not always accurately make assumptions about the likely characteristics and behaviors of people' (p.~17). Although she does not emphasize a lot about its theoretical implications, all the later experimentations are based on this very concept. Stereotypes are not necessarily undesirable, people use stereotypes everyday and in most conditions they are useful. For instance, hardcore partisans can vote efficiently on partisan lines even without looking at candidates' proposals. Without enough information and the intention to absorb the information, stereotypes reduce decision-making costs. 
+
+Then the experimental design in the book becomes extremely useful in controlling the amount of information voters receive. Regarding stereotype as a mechanism of efficient opinion formation without sufficient information, there is enough reason to believe that, female politicians who have more exposed information to the public than a common unknown female, may suffer less from gender stereotype. 
+
+Also related to this question, since the information shared by voters will increase with the running campaign, it will be interesting to see if the gender stereotype will diminish when voters know more about the female candidates (or maybe it will be strengthened as perception bias exist before the information processing mechanism, so opinions will skew further with more information). These hypotheses cannot be tested in a one-time design which is performed in this book, but will be available with a panel-tracing survey or multiple experiments with increasing information.
+
+Other than the strength of the book, there are a few points which makes the arguments weaker.
+The non-significant findings of gender stereotypes are very robust in different settings (with respect to emotion, experience, empathy, knowledge gaffe), but I am not sure about the effect of gender stimuli. Brooks did mention that about 85% respondents recognize the different names settings correctly, but does this mean the names trigger potential gender stereotypes effectively? 
+
+The other potential flaw comes from the leaders-not-ladies argument. Brooks argues that voters may have different subtypes for female politician as they are playing the leadership position instead of common females. However, on the other hand we see female politicians emphasizing their gender identity in the United States as well as in other countries. According to Hanna Pitkin's representation argument, female politicians have the descriptive representation value of being females, and thus should be expected to interact and communicate with females a lot more. These suggest that albeit voters may regard female politicians differently from the typical gender stereotype, female politicians are still connected with women. Future may focus on the interaction between female politicians as a subtype and the general gender stereotypes. 
+
+Putting electoral contexts into her study, with the absence of partisanship, the experimental designs suffer somewhat from external validity. Partisanship is playing important roles in politics. Some comparative studies show that with stricter partisan disciplines, female MPs are marginalized and cannot form cross-party alliance on women's issues (e.g. Ayata and Tutuncu 2008, Lovenduski 2001). On the other hand, female candidates from Democrats and Republicans seem to have different winning probabilities. Empirical statistics shows more Democratic females in the Congress. Party ID and winning odds for female politicians are worth analyzing in the future. 
+
+Overall, this study uses simulated experimental design to examine the conventional wisdom that female politicians suffer from gender stereotypes. The non-significant results are robust in different experimental settings. The solid evidence from the book strongly challenges conventional wisdom. Also, this study shows how experimental design can help figure out the causal mechanism of opinion formation.  
+
+
+## Week 4 Congress
+
+### @Burdenetal2014 Sore Loser Laws and Congressional Polarization
+
+**Author** Barry C. Burden and Bradley M. Jones and Michael S. Kang
+
+**Year** 2014
+
+**Summary**
+Sore loser law can explain the broadening ideology gaps. It is a constant effect that contribute an additional amount of polarization on top of more general trends.
+
+Sore loser law: a candidate who fails to win a party primary cannot appear on the general election ballots as either an independent candidate or nominee of another party.
+
+How: 1. by removing any subsequent reentry options for candidates, they place greater pressure on primary candidates to cater to the polarized preferences of party bases. 2. by preventing moderate candidates rejected by the party base from getting elected as sore losers. 
+
+Case: 2010 McCain Arizona Senate election: moving to right; 2006 Connecticut reelction, without sore loser law, Lieberman won based on his moderate positions.
+
+
+**Findings**
+
+Number of states with sore loser laws increased. Polarizing effects of sore loser laws using three sources: congressional candidate surveys, congressional roll-call records, and state legislative measures based on both survey and roll calls. Coding sore loser law as the dummy variable, it is significant. 
+
+### @Druckmanetal2009 Campaign Communications in U.S. Congressional Elections
+
+**Author** James N. Druckman and Martin J. Kifer and Michael Parkin
+
+**Year** 2009
+
+**Summary**
+Data is from candidate websites in the three election circles. Key idea is to identify the different compaign strategy adopted by incumbents and challengers. 
+Their predictions: 1. challenegers will employ significantly more negative rhetoric and provide more opportunities for voters to engage with campaign 2. challengers will put more emphasis on issues, personal features and party affiliations to distract voters from the incumbency to alternative criteria. 3. Incumbents will emphasize more on experience in public office, familarity, and providing district or state benefits. 
+
+**Findings**
+Predictions confirmed. Also challengers are more opt to take risky actions. 
+
+### @Brantonetal2012 Race, Ethnicity, and U.S. House Incumbent Evaluations
+
+**Author** Regina P. Branton and Erin C. Cassese and Bradford S. Jones
+
+**Year** 2012
+
+**Summary**
+Consider evaluations of U.S. house incumbents under conditions of racial/ethnic congruence and incongruence. whether different racial groups have ordered preferences among nondescriptive alternatives. 
+
+Descriptive representation: representative possesses an essential attribute linking her to a group whose members also possess that attribute. 
+
+**Findings**
+No evidence of race-based judgment among African Americans, while Latinos and Whites demostrates preferences based on race and ethnicity. 
+
+There is a "black-brown divide": competition for political economic resources among minority groups has contributed to intergroup animosities. Black and latinos do not support each other in this study. African American MCs are not the "next best choice" for Latinos. 
+
+
+### @Krehbriel2000 Party Discipline and Partisanship
+
+**Author** Keith Krehbriel
+
+**Year** 2000
+
+**Journal** AJPS
+
+**Summary**
+This article discuss different measurements of partisanship. Current measurement is roll-call vote-based measurement. The author propose a new measurement considering both the preferences of each individual MCs and partisanships.  
+
+A spatial cutpoint model: including parties, leadership positions, and minority/majority median voter positions. 
 
 
 
