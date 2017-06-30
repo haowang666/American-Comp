@@ -283,9 +283,97 @@ There is a "black-brown divide": competition for political economic resources am
 **Journal** AJPS
 
 **Summary**
-This article discuss different measurements of partisanship. Current measurement is roll-call vote-based measurement. The author propose a new measurement considering both the preferences of each individual MCs and partisanships.  
+This article discuss different measurements of partisanship. Current measurement is roll-call vote-based measurement. The author propose a new measurement considering both the preferences of each individual MCs and partisanships. Parties and individual level preferences are considered as exogenous variables, will be considered both in the behavioral stage. 
 
 A spatial cutpoint model: including parties, leadership positions, and minority/majority median voter positions. 
+
+Party-voting score is defined as the percenage of all roll calls in a Congress in which at least a majority of one party votes against at least a majority of the other party. 
+
+Still confused????
+
+
+### @Krehbiel1993 Where's the Party
+
+**Author** Keith Krehbriel
+
+**Year** 1993
+
+**Journal** BJPS
+
+**Summary**
+
+This article tries to find significant partisan behaviors in the U.S. congress. Question: how to define a significant partisan behavior: legialators of that party vote according to partisan lines in spite of personal disagreement. Test with data from the 99th Congress. Testing significant partisan behaviors independent of personal preferences with the formation of standing committee and the appointment of conferees. Partisan effects are rare. To sum, partisan influences in Congress diminishes.
+
+### @Krehbiel1999 Paradoxes of Parties in Congress
+
+**Author** Keith Krehbriel
+
+**Year** 1999
+
+**Journal** Legislative Studies Quarterly
+
+**Summary**
+
+This article introduces several paradoxes of parties in the congress. 1. Partisan strength: with introparty heterogeneity, partisan strength is not strong. Parties are said to be strong exactly when, viewed through a simple spatial model, they are superfluous. 2. Theories of lawmaking that differ greatly in their party assumptions are often observationally equivalent at the level of predicted outcomes. 3. Party voting occurs even when all legislators ignore completely their partisan identities. Futhermore, party-voting measures are fundamentally incapable of distinguishing between utterly partisan roll-call voting behavior and utterly non-partisan roll-call voting. 
+
+### @HagerTalbert2000 Party Influence on Voting in the House
+
+**Author** Gregory L. Hager and Jeffery C. Talbert
+
+**Year** 2000
+
+**Journal** LSQ
+
+**Summary**
+
+Using roll-call data from the House from the 1950s to 1990s, isolating the effects of parties, including members who switch parties. Regression analysis shows that party influence on voting has varied, but there is an effect, even controling for ideology. DVs are different different levels of party-important votes in Congress. Party shows an effect. On switchers, results show that voting behavior did change after members switched parties.
+
+### @CooperBrady1981 Leadership Style
+
+**Author** Joseph Cooper and David W. Brady
+
+**Year** 1981
+
+**Journal** APSR
+
+**Summary**
+
+A change of leadership style in House. A switch from a hierarchial style to a bargaining parttern. 
+They argue that it is the institutional context of the House that determine the leadership power and style. Style and effectiveness are contigent or situational, the impact of leadership style is conditioned on party strength. When strength is high, more hierarchial style, when strength is low, more bargaining style.
+
+**Findings**
+A strong correlation between the percentage vote sharing of parties and the centralized leadership style. Leadership style is more determined by institutional context rather than personal traits.
+
+### @Binderetal1999 Uncovering the Hidden Effect of Party
+
+**Author** Sarah A. Binder and Eric D. Lawrence and Forrest Maltzman
+
+**Year** 1999
+
+**Journal** JOP
+
+**Summary**
+Reexamining the 1994 'A to Z' discharge petition campaign in the U.S. House of Representatives. a case in which preferences rather than partisanships are said to provide the superior account of legislative behavior. Using the same spatial model which Krehbiel 1995 used, they found significant partisan effect. 
+
+**Findings**
+
+Separating individuals' policy preferences from the partisan labels, they found clear divergence of partisan effects. E.G. NTU (National Taxpayer Union) score, Concord Coaliation score, NOMINATE score...
+
+### @SnyderGroseclose2000 Estimating Party Influence of Roll-Call Voting
+
+**Author** James Snyder and Tim Groseclose
+
+**Year** 2000
+
+**Journal** AJPS
+
+**Summary**
+Diffferentiate partisan votings into substansive voting and procedural votings, over the post-war period, party influcence in the House occurs especially often on key procedural votes: the rule on a bill, motions to cut off debate, and motions to recommit. In terms of substantive issues, party influence appears most frequently on budget resolutions, tax policy, social security, social welfare policy, and national debt limit, while it is relatively rare on moral and religious issues and civil rights, and entirely absent on issues such as gun controls. On some issues, such as agriculture, public works, and nuclear energy, party influence has varied dramatically over the period (1871 - 1998).
+
+Definition of a partisan influence: direct pressure applied by the party leader or caucus, including rewards and punishments. 
+
+**Findings**
+Evidence from two stage regressions based on monte carlo simulations. Party pressure is vey high in close and very close roll-calls. No major differnce between the House and Senate votings. 
 
 
 
