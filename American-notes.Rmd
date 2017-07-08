@@ -376,4 +376,163 @@ Definition of a partisan influence: direct pressure applied by the party leader 
 Evidence from two stage regressions based on monte carlo simulations. Party pressure is vey high in close and very close roll-calls. No major differnce between the House and Senate votings. 
 
 
+### @CoxMcCubbins1993 Legislative Leviathan
+
+**Author** Gary Cox and Mathew McCubbins
+
+**Year** 1993
+
+**Summary**
+This book addresses the role of parties and legislative committees, and the relations between them. Parties in the House, especially the majority parties, are a species of legislative cartel. These cartels serze the power, theoretically resident in the House, to make rules governing the struture and process of legislation. Possession of this rule-making power leads to two main consequences. First, the legislative process in general - and the committee system in particular - is stacked in favor of majority-party interests. Second, because members of the majority party have all the structural advantages, the key players in most legislative deals are members of the majority party and the majority party's central agreements are facilitated by cartel rules and policed by the cartel's leadership. (p.2)
+
+Conditional party government (Rohde 1991): The reforms in the House in the early 1970s and the growth of partisanship in the 1980s are systematically related. Both were the result of important electoral changes, specifically the realignment of democratic constituencies in the South that led to increased intraparty homogeneity. The reforms of the 1970s were proposed by liberal Democrats frustrated by the inability to pass legislation favored by a majority of the rank and file. The reforms created incentives for party leaders to push legislation that reflected the interests of a majority of House Democrats. Following the reforms, further changes in the electorate brought coalitions of representatives that were more similar within parties and more different between them. Both the rules and the intraparty homogeneity brought about by elections set the conditions for strong party government. This book lays out the theory of conditional party government, whereby intraparty homogeneity and interparty heterogeneity determine the extent of partisanship in the House of Representatives.
+
+House committee is not autonomous. It also depends on institutional contexts. 
+
+Majority party has the power to set legislative agenda. Majority party caucus adds another layer of structure and process onto the committee structure studied by Sheplse-Weignast and Weingast-Marshall. The majority party in the House achieves stable policy outcomes by binding members to support a specific structure of agenda power represented by the speaker, the committe chairpersons, and the Rules Committes, a structure which then leads to committees choosing policies that, onaverage, benefit majority party members more than minority party members. 
+
+
+### @CoxMcCubbins1994 Bonding, Structure, and the Stability of Political Parties: Party Government in the House
+
+**Author** Gary Cox and Mathew McCubbins
+
+**Year** 1994
+
+**Journal** LSQ
+
+**Summary**
+The inability of rational choice theory in explaining political prties: the ultimate political rewards are shared by the democratic process of the state. Thus party institutions can be unstable coallition. How to explain the stability of the party system? stability is enforced by extra-legislative organization and bond posting. If a subset of legislators were all bonded by membership in a valuable extralegislative group, such as a political party, and if the cost of giving up the bond were expected to exceed most realistically imaginable benefits from defection, then legisaltors' choices over structure and hence policy might therewith be stabilized. 
+
+Key structural matters: the election of speakers, the design and staffing of the committee system. Caucus members must obey the caucus rules, which include key votes on speaker election, agenda setting rules. Violation will cause an automatic expulsion from the caucus. 
+
+### @SheplseWeignast1984 Political Solutions to Market Problems
+
+**Author** Kenneth Sheplse and Barry Weingast
+
+**Year** 1984
+
+**Journal** APSR
+
+**Summary**
+A cost-benefit analysis of the legislative political market. The geographic basis of representation encourages a truncated form of cost-benefit analysis in which the geographic calculation of policy looms large in the politician's calculus. 
+
+Didn't understand this article.
+
+### @Krehbiel1995 Cosponsors and Wafflers from A to Z
+
+**Author** Keith Krehbiel
+
+**Year** 1995
+
+**Journal** AJPS
+
+**Summary**
+Theory: A pre-voting, nonpartisan adaptation of Snyder(1991) 'vote-buying' and Groseclose(1995) 'favor-trading' theories implies that significant cosponsorship and discharge-petition behavior will be concentrated in the middle of the ideological spectrum, independent of legislators' partisan affiliations.
+
+Hypotheses: Bill cosponsorship should be a primarily preference-based phenomenon. Waffling -- defined as bill cosponsorship but refusal to sign a discharge petition for the bill -- should be negatively associated with preference extremity and unaffected, at the margin, by majority party membership.
+
+Findings: based on the 103rd House of the A to Z spending plan, results consisitent with the Snyder/Groseclose hypothese, cosponsorship and waffling are explained primarily by preferences, somewhat by membership and money committees, and only slightly by partisanship.
+
+
+### @Schiller1995 Senators as political entrepreneurs
+
+**Author** Wendy J. Schiller
+
+**Year** 1995
+
+**Journal** AJPS
+
+**Summary**
+
+Using regression analysis and interviews with Sentae legislative staffs, results show that a senator's use of bill sponsorship is a function of institutional and political variables including seniority, proximity of reelection, size of state economy, staff size, committee membership and committee positions. This suggests that Senate is not a place that lacks strcuture and predictability. 
+
+DV is number of bills introduced, positive relations: size of state economy, staff, ideology, number of cimmitte assignment, chair of committee, number of Senators' subcommittee chairs, member of finance committee. Negative: member of foreign relations committee. If differentating between committee bills and noncommittee bills. Committee bills related to variables like chairmanship, subcommittee chairemanship, and membership on finance or Appropriations Committees exert influcen over bills introduced to committees but not to outside committee. Committee bills are influenced by seniority, size of economy, staff, ideology, number of committee assignments, party committee membership etc. 
+ 
+### @Sinclair1992 The Emergence of Strong Leadership in the 1980s House of Representatives 
+
+**Author** Barbara Sinclair
+
+**Year** 1992
+  
+**Summary**
+Compared with the post-World War II leadership style, the 1980s style is more involved in and more decisive in organizing the party and chamber, setting the House agenda, and afftecting legislative outcomes. The study finds that, both over time and cross sectionally, the lieklihood of leadership involvement is greatest when the members most need help and when the costs of the leadership's  providing such help are lowest for majority party members and for the leadership itself and that leadership involvement does increase the probability of legislative success.
+
+### @PattersonCaldeira1988 Party Voting in the United States Congress
+
+**Author** Samuel Patterson and Gregory Caldeira
+
+**Year** 1988
+
+**Journal** BJPS
+
+**Summary**
+Partisan polarization in the House of Representatives reponds very sharply to shifts in the magnitude of external party conflict. Party voting in the Senate, by contrast, does not increase with a widening of partisan cleavages in the external environment. The authors believe that it is the staggered terms of senbators insulated them from electoral change in the short run and introduces considerable lags into the relationship between the debate within the party-in-government and the current set of controversies in the party-in-the-electorate. Overall, party voting is much more powerful in the House rather than the Senate. 
+
+
+### @Krehbiel1990 Congressional Committee Preference Outliers
+
+**Author** Keith Krehbiel
+
+**Year** 1990
+
+**Journal** APSR
+
+**Summary**
+The question is whether the standing committe is more extreme than the legislative as a whole. Data is from the 96th to 99th Congress. Measure is interest group ratings of members. Three types of preference outliers in the committee: 1. a classical homogenous high-demand outlier, a committee whose members have a common desire for high levels of benefits from policies within their committee's jurisdiction. e.g. representatives from farming districts dominate agriculture committees and oversee the provision of benefits to their farm constituents. 2. A bipolar outlier: a committee that has significant factions of members on both sides of its policy spectrum. 3. An intense or high-salience outlier is a committee whose members share a uniquely high level of intrinsic interest in the committee, perhaps because its policy domain is highly salient to members' constituents. Results show no significant differences between the standing committee and the legislative as a whole. 
+
+### @JacksonKingdon1992 Ideology, Interest Groups and Legislative Votes
+
+**Author** John Jackson and John Kingdon
+
+**Year** 1992
+
+**Journal** AJPS
+
+**Summary**
+The importance of ideology in the government decision making. What explains the legislative decision making? local constituents' economic interest of the legislators' ideological preferences? They critisize the studies that support to show that legislative decisions are the expressions of the personal ideological orientation of the members. They pointed out that the measurement of the ideological preferences, the ADA score, is flawed and lead to an overestimation of statistical results. (ADA: Americans for Democratic Action, an interest group). Using these socres in explaining voting behaviors is a tautology. It is explaining votes with votes. The problem is that, the inerest group score, the explanatory variable, and the votes being modeled, the dependent variable, are almost certain to be tapping the same or related dimensions. 
+
+### @Snyder1992 Committee-Power, Structure-Induced Equilibria, and Roll Call Votes  
+ 
+**Author** James M. Snyder
+
+**Year** 1992
+
+**Journal** AJPS
+
+**Summary**
+Concept: structure-induced equilibrium model: equilibria in the model are thus a function not only of legislators' preferences but also of the gatekeeping and monopoly proposal powers possessed by committees. Discussions based on formal model: 1. if some committees are 'preference outliers' relative to the legislature as a whole-- that is, if the median ideal point of the committee members is different from the median ideal point of the whole legislatur -- the  roll-call data are likely to be artifically unidimensional. It is because members will select roll calls on purpose. 2. The unidimensional bias generally persists even as the dimensionallity of the policy space becomes large 3. Even if committes are preference outliers, it may be impossible to discover this fact by looking at only roll call votes. That is, the roll call data may indicate thet committee are 'representative samples' even if they are not.
+
+## Public Opinion
+
+### @BafumiHerron2010 Leapfrog Representation and Extremism
+
+**Author** Joseph Bafumi and Michael Herron
+
+**Year** 2010
+
+**Journal** APSR
+
+**Summary**
+
+The research question the the congruence between voters and preferences of the U.S. legislators. Using an Internet-based, national opinion survey in conjunction with legislator voting records from 109th and 110th Congresses, we show that members of Congress are more extreme than their constituents. We also show that when a congressional legislator is replaced by a new member of the opposite party, one relative extremist is replaced by an opposing extremist (leapfrog representation). We see evidence of leapfrog representation in states and House disstricts in the aggregate as well: the median member of the 109th House was too conservative compared to the median Amercian voter, yet the median member of the 110th Congress was way too liberal compared to the public. The Senate appears to be a more moderate institution whose median member does not move as abruptly as that of the House. 
+
+###  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
