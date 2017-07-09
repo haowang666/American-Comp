@@ -516,7 +516,20 @@ Concept: structure-induced equilibrium model: equilibria in the model are thus a
 
 The research question the the congruence between voters and preferences of the U.S. legislators. Using an Internet-based, national opinion survey in conjunction with legislator voting records from 109th and 110th Congresses, we show that members of Congress are more extreme than their constituents. We also show that when a congressional legislator is replaced by a new member of the opposite party, one relative extremist is replaced by an opposing extremist (leapfrog representation). We see evidence of leapfrog representation in states and House disstricts in the aggregate as well: the median member of the 109th House was too conservative compared to the median Amercian voter, yet the median member of the 110th Congress was way too liberal compared to the public. The Senate appears to be a more moderate institution whose median member does not move as abruptly as that of the House. 
 
-###  
+## On Political Reasoning and Public Opinion
+
+**Question**
+Do citizens have stable political reasoning?
+No: Zaller, Zaller and Feldman, Converse
+Yes: Page and Sahpiro, in a collective sense, public opinion is stable and meaningful, individual level errors will be mitigated by the large number thereom. 
+Depends on measures: Achen 1975
+
+
+Zaller's two models: 1. the political awareness-political predisposition model: predisposition is a readiness sytematically to respond positively or negatively to a class of issue-objects. In this usage, attitudes are the preferences that respondents express about particular courses of public actions, whereas predispositions refer to underlying consistences in response to political choices: opinions about an isue like job programs for blacks are attitudes, ideological sets are examples of predispositions. Political awareness functions as the intermediate channel. 2. The consideration model of attitude construction; predispostion --> considerations <--> situational cues --> attitudes. Considerations are any reason that might induce an individua to decide a political issue one way or the other. The process is through ambivalence deduction. In this model, the situational and dispositional factors are at odds (long-term and short-term causes). 
+
+Snidermanm, Tetlocks and Elms: the situational factor and predispositional factor can be additive, rather than multually exclusive. The flaw of the stop-and-thinking design of Zaller: it is different from an attitude on a position and the reasons for taking that position. 
+
+
 
 
 
