@@ -530,9 +530,283 @@ Zaller's two models: 1. the political awareness-political predisposition model: 
 Snidermanm, Tetlocks and Elms: the situational factor and predispositional factor can be additive, rather than multually exclusive. The flaw of the stop-and-thinking design of Zaller: it is different from an attitude on a position and the reasons for taking that position. 
 
 
+### @ChongDruckman2010 Dynamic Public Opinion
+
+**Author** Dennis Chong and James Druckman
+
+**Year** 2010
+
+**Journal** APSR
+
+**Summary**
+
+Study the effect of competing messages during campaign. It showed by experiments that comepting messages received at the same time will neutralize each other. However, if received at different time points. Most individuals will give disproportionate wrights to the most recent messages. 
+
+Framing effect: (Druckman 2001, political behavior): when a communication changes people's attitudes toward a object by changing the relative weights thet give to competing considerations about the object. 
+
+Online and memory-based approach: When processed online, individuals routinely intergrate the various considerations contained in the message into an overall issue evaluation. Individuals then store all the summary evaluation in the memory. Possibly forgetting the original considerations that contributed to the tally. When asked subsequently for their attitude toward the issue, individual retrieve and report their overall online tally rather than reconstruct and evaluate the specific pieces of information that comprise this summary (Druckmand Lupia 2000). Individuals who use memory-based model, in contrast, store considerations about the issue in memory without necessarily forming an overall judgment, and subsequently, retrieve and evaluate accessible considertions when asked their poinions about this issue. 
+
+### @ZallerFeldman1992 A Simple Theory of the Survey Response
+
+**Author** John Zaller and Stanley Feldman
+
+**Year** 1981
+
+**Journal** AJPS
+
+**Summary**
+Questions: does the survey research reveals stable and true preferences rather than 'making up' answers? 
+
+People have many different, and inconsistent opinions in their minds, when asked, they call to mind a sample of these ideas, including an oversample of ideas made salient by the questionaire and other recent events, and use them to choose among the options offered. But their choices do not, in most cases, reflect anything that can be described as true attitudes; rather, they reflect the thoughts that are most accessible in memory at the moemnt of response. 
+
+Three axioms;
+
+1. Ambivalence. "Most people possess opposing considerations on most issues, that is, considerations that might lead them to decide the issue either way." (585)
+2. Response. "Individuals answer survey questions by averaging across the considerations that happen to be salient at the moment of response, where salience is determined by the accessibility axiom."
+3. Accessibility: "The accessibility of any given consideration depends on a stochastic sampling process, where considerations that have been recently thought about are somewhat more likely to be sampled." (586)
+
+Method:
+The authors administered two types of survey, asking similar questions as in earlier studies. Instead of simply asking the closed-ended response items, though, respondents were asked either to "stop-and-think" (before answering) or reflect (after answering), telling the surveyor what thoughts crossed their mind when thinking about the question. Each thought ("consideration") was coded (number of considerations, number of considerations in each direction, number of explicit expressions of ambivalence, etc.).
+
+### @Zaller1992 The Nature and Origins of Mass Opinion
+
+**Author** John Zaller
+
+**Year** 1992
+
+**Summary**
+
+Opinion is a matter of information and predispostion. Political awareness, political predispositions are the important intervening variables.
+The model: 1. Reception axiom: the greater a person's level of cognitive engagement with an issue, the more likely he or she is to be exposed to and comprehend -- in a wordm to receive political messages concerning that issue. 2. Resistence axiom: people tend to resist argument that are inconsistent with their political predispositions, but they do so only to the extent that they possess the contentual information necessary to perceive a relationship between the message and their predispostions (through cueing message). 3. accessibility axiom: the more recently a consideration has been called to mind or thought about, the less time it takes to retrieve that consideration or related considerations from memory and bring them to the top of the head for use. 4. Response asoim: individuals answer survey questions by averaging acriss considerations that are immediately salient or accesible to them. 
+
+In General
+
+Zaller begins by rejecting the view that individuals possess a "true attitude" or single opinion on an issue ("most of what gets measured as public opinion does not exist except in the presence of a pollster" page 265) and instead proposes a model of how individuals construct opinions in response to the particular stimuli that confront them. Zaller's model is constructed from four basic premises:
+
+Individuals differ substantially in their attention to politics and therefore their exposure to elite sources of political information.
+People react critically to political communication only to the extent that they are knowledgeable about political affairs.
+People rarely have fixed attitudes on specific issues; rather they construct preference statements on the fly as they confront each issue raised.
+In constructing these statements, people make the greatest use of ideas that are the most immediately salient to them. Usually these are the ideas that have recently been called to mind or thought about since it takes less time to retrieve these or related considerations from memory and bring them to the top of the head for use.
+"Considerations": The 'Receive-Accept-Sample' (RAS) Model
+
+For Zaller, the public forms "considerations" in response to elite discourse (political communications) in the mass media. Often, this discourse consists of multiple, frequently conflicting streams of persuasive messages. In general, the greater an individual's level of political awareness, the more likely she is to receive these messages. Also, the greater a person's level of awareness, the more likely she is to be able, under certain circumstances, to resist (or accept) information that is inconsistent with her basic values or partisanship. If internalized, political considerations become reasons for taking one side rather than the other on a political issue.
+
+When asked their opinions in surveys, people will support or oppose a given policy depending on the mix of positive or negative considerations sampled from the top of the person's mind at the moment of answering a question. Zaller formalizes this in the following manner: 'Prob(Liberal response) = L/(L+C)', where L and C refer to the number of liberal and conservative considerations available in the person's mind. The balance between these considerations depends on society-level variables (such as the intensity and balance of elite discourse) as well as individual-level variables (such as person's political awareness and values).
+
+RAS and Political Awareness
+
+More aware persons will be exposed to more political communications (they 'receive' more), but will be more selective in deciding which communications to internalize as considerations (they 'accept' less). Thus politically aware citizens will tend to fill their minds with large numbers of considerations, and these considerations will tend to be relatively more consistent with one another and with the citizen's predispositions. Less aware citizens will internalize ('receive') fewer considerations and will be less consistent in rejecting ('accepting') them. As a result, more aware people will be more likely to be able to state opinions, and more likely to state opinions that are ideologically consistent with their predispositions.
+
+RAS and Attitude Change: Campaigns and Persuasion
+
+Attitude change (understood as the a change in people's long term response probabilities) results from a change in the mix of ideas to which people are exposed. Changes in the flow of political communication cause attitude change not by producing a sudden conversion experience but by producing gradual changes in the balance of considerations that are present in people's minds and available for answering survey questions.
+
+As has already been indicated, the effects political campaigns (or any elite discourse) vary depending on the relative intensity of the opposing messages and individual's prior stores of partisan information. The least aware are most susceptible to influence in situations in which the information flow is very intense, as in presidential elections (because they 'receive' lots of information but 'accept' almost everything). Moderately aware persons are most susceptible in situations in which messages are moderately intense and partisan orientations activated as in contested House elections, presidential popularity and the later stages of Vietnam. The most aware people are most open to influence when there is little partisan or ideological basis for resistance to persuasion, as in the early stages of a primary campaign, or when there is little access to countervalent information, as in the early stages of the Vietnam War.
+
+Final Comments
+
+According to Zaller, the effects of values and awareness (knowledge) on political attitudes (opinions) are not automatic but depend on elite cues for motivation.
+
+Zaller believes that only the most aware citizens will have a consistent ideology or belief system. According to Zaller, highly aware liberals and conservatives look to appropriate partisan elites to find out "what goes with what." Having acquired this information, they are able to become consistently liberal or consistently conservative across a range of issues. The less aware are less likely to acquire the attitude that is consistently appropriate to their partisan orientation, and hence less likely to develop "attitude constraint" across issues.
+
+
+Key Definitions
+
+Consideration: Any reason that might induce an individual to decide a political issue one way or another.
+Political awareness: An individual's reception and comprehension of communications from the political environment. According to Zaller, political awareness is best measured by simple tests of neutral factual information since factual information is critical for intellectual engagement with politics.
+Political predispositions: Stable, individual-level traits that regulate the acceptance or non-acceptance of the political communication the person receives. Predispositions are the critical intervening variable between the communications people encounter in the mass media, on the one side, and their statements of political preference, on the other (since they determine the 'accept' part of the RAS model).
+Values: General and enduring standards that hold a more central position than attitudes in individuals' belief systems.
+
+
+### @Converse2006 The Nature of Belief System in Mass Publics
+
+**Author** Philip E. Converse
+
+**Year** 1964
+
+**Summary**
+Most individuals know little about politics and are lack of coherent belief systems. 
+
+Belief systems: as a configuration of ideas and attitudes in which the elements are bound together by some form of constraint or functional interdependence. 'Constraint' may be defined as the success we would have in predicting, given initial knowledge that an individual holds a specified attitude, that he holds certain further ideas and attitudes. 
+
+The declining information for belief system: from elites to the mass public, belief system patterns change a lot: the contextual grasp of 'standard' political belief system fades out very quickly 2. moving from top to bottom of this information dimension, the character of the objects that are central in a belief system changes; from abstract generic to simple and concrete terms. Quite related to education. 
+
+Five different levels: Most people are in the lower levels. 
+
+1. Ideologues: These respondents relied on "a relatively abstract and far reaching conceptual dimension as a yardstick against which political objects and their shifting political significance over time were evaluated" (p.216).
+2. Near Ideologues: These respondents mentioned the liberal-conservative dimension peripherally, but did not appear to place much emphasis on it, or used it in a way that led the researchers to question their understanding of the issues.
+3. Group Interest: This group did not demonstrate an understanding of the ideological spectrum, but made choices based on which groups they saw the parties representing (e.g. Democrats supporting blacks, Republicans supporting big business or the rich). These people tended to not understand issues that did not clearly benefit the groups they referred to.
+4. Nature of the Times: The members of this group exhibited no understanding of the ideological differences between parties, but made their decisions on the "nature of the times." Thus, they did not like Republicans because of the Depression, or they didn't like the Democrats because of the Korean war.
+5. No issue content: This group included the respondents whose evaluation of the political scene had "no shred of policy significance whatever" (p. 217). These people included respondents who identified a party affiliation, but had no idea what the party stood for, as well as people who based their decisions on personal qualities of candidates.
+
+Elites have Little Influence on Mass Ideology
+
+Converse also found that the mass public does not seem to share beliefs in any predictable way with elites or that the voting patterns of the people at the lower end of the scale are following the patterns of the ideologues and near ideologues who have a firm grasp of the issues.
+
+Response Instability: Random Changes in Responses
+
+In addition, Converse's interviews with the same respondents over a two-year period often show little correlation with each other. In these cases, only 13 out of 20 managed to locate themselves on the same side of a given controversy in successive interviews. Converse's interpretationis that this change seemed almost exclusively random instead of as a response to changing beliefs.
+
+
+### @Achen1975 Mass Poltical Attitudes and the Survey Response 
+
+**Author** Christopher Achen
+
+**Year** 1975
+
+**Journal** APSR
+
+**Summary**
+Propose an individual's opinion is not a point estimate, rather we should study it as a distribution with means and variations. Two types of instability: variation of attitudes, variation of questions (measurement error). Converse's result of low constraint is partly due to the measurement error, beacause he did not take into consideration of the reliability questions. 'Rather weaj reliabilities for the survey questions were obtained. When the correlation among attitudes were corrected for this unreliability, the result was a shaprly increased estimate of the stability and coherence of voters' political thinking'.
+
+
+### @Klar2013 The Influence of Competing Identity Primes on Political Preferences
+
+**Author** Smara Klar
+
+**Year** 2013
+
+**Journal** AJPS
+
+**Summary**
+People with mutiple group identities may experience different priming effects. For instance a demcoratic mother may support welfare expanding but also worry about the increasing national debt as a parent. 
+
+Identity (Tajfel 1981): an identity can be understood as 'that part of the individuals' self-concept which derives from their knowledge of their memebership of a social group together with the value and emotional significance attached to that membership'.
+
+Three different priming: 1. merely mention the information but no emotional context 2. the efficacy prime not only increase the salience of an identity but also reminds the individual that a large mass of people share an interest that can be addressed by polic, thereby increasing its salience. 3. A threatening appeal increases identity salience by eliciting negative emotions. 
+
+Result: with equal strength in a competing setting, priming does not impact. However, threatening is more effective than efficacy priming in the competing setting.
+
+
+### @Goren2001 Core Principles and Policy Reasoning in Mass Publics: A Test of Two Theories
+
+**Author** Paul Goren
+
+**Year** 2001
+
+**Journal** BJPS
+
+**Summary**
+Question: whether citizens can use core principles in the ideological orientations to decude their policy preferences. The general use theory: everyone draws equally on core principles to determine their preferences. the expertise interaction model: the extent to which core principles influence policy preferences is a function of political expertise. 
+
+Core beliefs: general descriptive beliefs about human nature and society in matters of public affairs. Core values are evaluative standards citizens use to judge alternative social and political arrangements. Political expertise can be defined as the ability to use organized political knowledge stored in long-term memory to process political informaition. 
+
+Variables used as core values and principles:economic individualism, equal opportunity, racial inequality, moral conservatism. Results show support for both models. 
+
+
+### @Goren2004 Political Sophistication and Policy Reasoning, A Reconsideration
+
+**Author** Paul Goren
+
+**Year** 2004
+
+**Journal** AJPS
+
+**Summary**
+A direct response to the sophistification-interaction theory (check @Zaller1992): the strength of the relationship between abstract principles and policy preferrences is conditional on political sophisfication. Analysis of 1984, 1986, 1987, 1988, and 1990 NES data yields two compelling findings: first a series of CFA indicate that beliefs about equal opportunity, self-reliance, and limit government in the social welfare domain and about militarism and anticommunism in the foreign policy domain are structured equivalently in the minds of citizens at different levels of sophistification. Second, SEM shows that political sophistification does not enhance the impact these principles have on policy preferences. 
 
 
 
+
+### @Gorenetal2009 Source Cues, Partisan Identities, and Political Value Expression
+
+**Author** Paul Goren, Christopher Federico and Miki Kittilson
+
+**Year** 2009
+
+**Journal** AJPS
+
+**Summary**
+Question: partisan identification and political value expression (equal opportunity, self-reliance, moral traditionalism, and moral tolerance). Through experiments, findings are 1. relationship between individual partisan identities and expressed value support is stronger in the presence of party cues. 2. Out-party (Demo receive Rep) cues are more powerful than in-party cues. 3. these relationships are usually more pronouced among ideologically congruent partisans. 4. party cues promote horizontal constraint among these values. 
+
+### @Gerberetal2010 Personality and Political Attitudes
+
+**Author** Alan S. Gerber and Gregory A. Huber and Conor M. Dowling and Shang E. Ha
+
+**Year** 2010
+
+**Journal** APSR
+
+**Summary**
+Personality (five big traits) affect economic and social attitudes differently, and the relationships between Big Five traits and ideology vary substantially between white and black respondents. 
+
+Big Five: Agreeableness, Openness, Emotional Stability, Conscientiousness, and Extraversion. 
+
+
+### @Druckmanetal2013 Elite Polarization and Public Opinion Formation
+
+**Author** James N. Druckman and Erik Peterson and Rune Slothuus
+
+**Year** 2013
+
+**Journal** APSR
+
+**Summary**
+
+Polarization afftects how citizens think. Specifically, polzarization intensifies the impact of party endorsements on opinions, decreases the impact of substantive information and, perhaps ironically, stimulates greater confidence in those -- less substansively grouded -- opinions. 
+
+Motivated reasoning and partisan motivated reasoning: motivated reasoning is the tendency to seek out information that confirms prior beliefs. Partisan motivated reasoning lead to a situation that partisans will view their party's frame as more effective 
+
+
+
+### @ConoverFeldman1981 The Origins and Meaning of Liberal/Conservative Self-Identifications
+
+**Author** Pamela Johnston Conover and Stanley Feldman
+
+**Year** 1988
+
+**Journal** AJPS
+
+**Summary**
+Ideology may have different dimensions. Ideology is powerful political symbols to many members of the public. Two types: cognitive (objective information or substantive content associated with this symbol) and evaluative (the affect elicited by the symbol, ability to generate positive and negative feelings). The ideological self-placement is determined directly by the individual's evaluation of the two major ideological labels or groups -- liberals and conservatives. 
+
+Causal chains: from evaluations to ideology self-identification. The ideological spectrum is not bipolar or unidimensional. 
+
+### @Feldman1988 Structure and Consistency in Public Opinion: the Role of Core Beliefs and Values
+
+**Author** Stanley Feldman
+
+**Year** 1988
+
+**Journal** AJPS
+
+**Summary**
+Political preferences may be structured by central beliefs and values. Three core values are evaluated here: support for equal opportunity, support for economic individulism, support for free enterprise system. Beliefs of equal opportunity and work ethnic are found to have political influences, belief for free enterprise however is not significant. 
+
+
+
+
+
+## Framing
+
+
+
+### @IyengarKinder1987 News That Matters
+
+**Author** Shanto Iyengar and Donald R. Kinder
+
+**Year** 1987
+
+**Summary**
+The media can change our (expressed) opinions without changing our (underlying) attitudes at all, through priming, framing, and agenda setting. Thus, political campaigns don't change our minds; they try to make us think about considerations that will lead us to support one candidate over another. The authors back up their arguments with experimental evidence.
+
+Main Causal Mechanism:
+Priming: Affects what you'll have at the top of your head when you make a judgment (see Zaller and Feldman 1992). So if the news covers poor economic performance, then leaps into an analysis of the president's performance, it's primed you to think poorly of the president.
+Framing:  media tells you how to think about something. Is it an indigenous rights issue, or an environmentalist story?
+Agenda-setting effects: There's a "lead story" effect. If you see prominent place given to unemployment stores (early, long stories in a broadcast), you pay more attention to it. Caveat: Endogeneity. The media tries to select stories that will interest the public. So although the media can set the agenda doesn't mean they necessarily do--it's endogenous.
+
+
+
+### @KinderSanders1990 Mimicking Political Debate with Survey Questions: The Case of White Opinion on Affirmative Action for Blacks
+
+**Author** Donald R. Kinder and Lynn M. Sanders
+
+**Year** 1990
+
+**Journal** Social Cognition
+
+**Summary**
+This article tests the framing effect of affirmative action. Framing the issue as unfair advantage as opposed to reverse discrimination produced opinions on affirmative action among whites were 1. more coherent with their views on other race policies 2. associated more closely with their opinions on policies but not explicitly, implicating race, such as welfare 3. linked more tightly to negative emotions provoked by preferential treatment 4. more consistent with their general political views 5. more evocative of prejudice and misgivings over equal opportunity 6. less evocative of tangible threaqts that affirmative action might pose to their family and group and of the political principles that affirmative action might violate. These differences suggest that by promoting rival frames, elites may alter how issues are understood and as a consequence, affect what opinions turns out to be.
 
 
 
