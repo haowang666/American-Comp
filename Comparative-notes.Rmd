@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # POS550 Comparative Politics Core
 
-## Week 1
+## On Method Questions
 
 ### @BradyCollier2010 Rethinking Social Inquiry
 
@@ -64,7 +64,7 @@ Brady and Collier: data-set observtion and causal-process observation.
 
 Mahoney's approach: theory-testing usage of causal-process observation: independent variable CPOs, mechanism CPOs, and Auxiliary CPOs. Independent CPOs: provides information about the presence of an independent variable. Mechanism CPOs provides information about whether an intervening event posited by a theory is present. Auxiliary outcoe CPOs: information about particular occurences that should occur alongside the main outcome interest if in fact that outcome were caused in the way stipulated by the theory under investigation. Auxiliary outcomes are separate occurences that should be generated if the theory works. 
 
-### @Lijphart1971 Comparative Politics and Comparaative Method
+### @Lijphart1971 Comparative Politics and Comparative Method
 
 **Author** Lijphart
 
@@ -76,12 +76,101 @@ Comparative method as one methoe comparing to experimental, ans statistical meth
 Four suggestions:
 1. Increase the number of cases as much as possible. 2. Reduce the 'property-space' analysis: if the sample of cases cannot be increased, it may be possible to combine two or more variables that express an essentially similar underlying characteristic into a single variable. 3. Focus the comparative analysis on comparable cases. 4. Focus on key variables. 
 
+### @Mahoney2008 Toward a Unified Theory of Causality
+
+**Author** James Mahoney
+
+**Year** 2008
+
+**Journal** CPS
+
+**Summary**
+Case-oriented approach and population-oriented approach. Case-oriented research focuses on the necessary and sufficient conditions of causal mechanism. The population-oriented approach focuses on the typical effect, e.g. does development causes democracy? Suffcient and necessary causes. Population research with insufficient and necessary items. 
 
 
 
+### Comparative Historical Analysis
 
 
+## Power and State
 
+### @Huntington2008 Political Order in Changing Society
+
+**Author** Samuel Huntington
+
+**Year** 1968
+
+**Summary**
+Development causes political instability. Institutions that are more adaptable can withhold the instability brought by the social and economic development. Social developmeny increases political participation, and thereby instable factors. 
+
+### @Spruyt1994 State Anarchy as Order
+
+**Author** Hendrik Spruyt
+
+**Year** 1994
+
+**Journal** IO
+
+**Summary** 
+Why soveign territories displaced other rivalry format? Sovereign territorial state prevailed because it proved more effective at preventing defection by its members, reducing internal transaction costs, and making credible commitments to other units. It did this is three ways, first sovereign rulers were better at centralizing jurisdiction and authority. Consequently better at preventing free-riders. Second, sovereign territory was a means of structuring interunit behavior. States, or rather political social elites within that territory preferred similar styles. Third, due to the first two conditions, actors from other institutional arrangements defected to states or copied their institutional makeup. 
+
+### @Levi1981 The Predatory Theory of Rule
+
+**Author** Margaret Levi
+
+**Year** 1981
+
+**Summary**
+Trying to explain state behaviors. Why state pick some actions rather than others? State as a ruller. State as the ruler is predatory in that he attempts to formulate policies that maximize his personal objectives but that his success is dependent on his bargaining power vis-a-vis subjects, agents, and external actors. Policies are outcomes between rulers and individuals/groups. 
+
+Rulers take control over the state by force and control. The predatory theory argues that rulers will seek to design policies that miximize his revenues and power. However, because his ends often conflict with those of other, his policies are generally the outcome of a trade. The variations in policies are function of the constraints on the ruler's bargaining power in relation to specific groups of subjects, agents, external actors. **a ration comparison between rulers and agents**
+
+### @Warner2001 The rise of the state system in Africa
+
+**Author** Carolyn Warner
+
+**Year** 2001
+
+**Summary**
+Concept of a state : Most definitions convey the notion that the state is an entity which controls conflict between individuals within a bounded territory, or, conversely, calls upon individuals to participate in conflicts with other bounded territories. Another view is that the state is the allocative mechanism within a political system.4 Such a system is one in which humans continuously interact with one another as they seek to satisfy their individual desires. In a political system, there is some general agreement on the 'rules of the game', and support for the government in its role as the mediator of competing claims. A third view is of the state as a symbolic system, in which ritual and culture create and bind a political community.
+
+The realist approach: (Karl Schmitt): athoritive allocator. State as 'organized violence'
+
+The IR approach, state with three distinct features: 1. hierarchial authority structure which accepts no external territorial jurisdiction, that is, it has sovereign authority 2. territorial demarcation with formal boundaries 3. a public judicial authority with codified laws. 
+
+
+### @AcemogluRobinson2006 Economic Backwardness in Political Perspective
+
+**Author** Acemoglu and Robinson
+
+**Year** 2006
+
+**Journal** APSR
+
+**Summary**
+
+Political replacement effect: under certain conditions elites will block the development and introduce of new technology. Innovations often erode elites' incumbency advantage, increasing the likelihood that they will be replaced. Fearing replacement, political elites are unwilling to initiate change and may even block economic development. Elites are unlikely to block development when there is a high degree of political competition or when they are highly entrenched. It is only when political competition is limited and also when their power is threatened that elites will block development. Blocking is also more likely when political stakes are higher, for example, because of land rents enjoyed by the elites. External threats, on the other hand, may reduce incentives to block. 
+
+No-blcoking case: UK and Germany, Japan
+Blcoking case: Habsburg Empire, Russia
+
+Collorary: Gerschenkron (1962) Economci Backwardness in Historical Perspective, how backward economices lacking the economic prerequsites for inductralization could compensate in different ways. 
+
+### @BlaydesChaney2013 The Feudal Revolution and Europe's Rise: Political Divergence of the Christian West and the Muslim World Before 1500 CE
+
+**Author** Lisa Blaydes and Eirc Chaney
+
+**Year** 2013
+
+**Journal** APSR
+
+**Summary**
+We document a divergence in the duration of rule for monarchs in Western Europe and the Islamic world beginning in the medieval period. While leadership tenures in the two regions were similar in the 8th century, Christian kings became increasingly long lived compared to Muslim sultans. We argue that forms of executive constraint that emerged under feudal institutions in Western Europe were associated with increased political stability and find empirical support for this argument. While feudal institutions served as the basis for military recruitment by European monarchs, Muslim sultans relied on mamlukism-or the use of military slaves imported from non-Muslim lands. Dependence on mamluk armies limited the bargaining strength of local notables vis-a-vis the sultan, hindering the development of a productively adversarial relationship between ruler and local elites. We argue that Muslim societies' reliance on mamluks, rather than local elites, as the basis for military
+leadership, may explain why the Glorious Revolution occurred in England, not Egypt.
+
+Decentralizing power increases the cost of an unsuccessful revolt for the monarch's rivals. In other words, armed local elites in Europe were able to extract a better 'soft contract' from their monarch than in the Islamic world and were, therefore, less likely to overthrow that monarch. 
+
+### @Lipset1959 Some social requsites of democracy
 
 
 
