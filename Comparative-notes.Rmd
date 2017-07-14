@@ -170,12 +170,80 @@ leadership, may explain why the Glorious Revolution occurred in England, not Egy
 
 Decentralizing power increases the cost of an unsuccessful revolt for the monarch's rivals. In other words, armed local elites in Europe were able to extract a better 'soft contract' from their monarch than in the Islamic world and were, therefore, less likely to overthrow that monarch. 
 
+## Lipset Przeworski and Limongi Boix and Stokes
 ### @Lipset1959 Some social requsites of democracy
+### @Przeworski1997 Modernization, Theories and Facts 
+### @BoixStokes2003 Endogenous Democratization
+
+
+The relationship between economic growth and democracy is perhaps the most studied topic of comparative politics. Since Lipset (1959), a number of political scientists have engaged themselves in evaluating the impact of economic development on democracy-oriented political transitions as well as on the endurance of existing democracies. In other words, scholars pay attention, to use the metaphoric terminology, to the role economic development plays in the birth, survival, death, and sometimes, rebirth, of democracy.
+
+They do not agree with each other, to some extent, on basic facts and explanations. Lipset insists that economic development, among other things, is one of the social requisites of democracy. Przeworski and Limongi (1997) argue that economic development influences democratic survival more than it influences transitions from dictatorship to democracy, while Boix and Stokes (2003) challenge their theory and reexamine the role of economic development in achieving and sustaining democracy based on a larger dataset with a more sophisticated statistical assessment.
+
+Specifically, Lipset’s study (1959) makes the classic statement on the relationship between modernization and democracy. He first establishes the link between per capita income and democracy based on cross-national and cross-sectional data. The rise in per capita GDP, Lipset argues, generates a transition to democracy. “If a country develops over a longer period under dictatorship,” the cumulated modernizing consequences “will embrace democracy” (see Przeworski and Limongi, 1997, p. 160). This modernization model, or “endogenous explanation”, in the terms of Przeworski and Limongi, hypothesizes a close association between development and democracy. For more than four decades, it has been the theoretical basis for empirical studies of the issue in the direction of comparative politics.
+
+While previous quantitative studies go for the standard modernization line, Przeworski and Limongi (1997) provide alternative views on the development—democracy relationship in terms of endogenous vs. exogenous theory. They point out that economic development cannot explain transitions to democracy from 1950 to 1990. Transitions to democracy can take place at any level of economic development due to “exogenous” causes. Przeworski and Limongi assert that the correlation between economic growth and democratization does not necessarily entail causation, that is, modernization, especially the increase in per capita GDP, is not a causal factor in the process of democratization. “There are no grounds to believe that economic development breeds democracies” (p.167). Rather, their probit models show that democracy becomes more durable at higher levels of per capita income. They insist, therefore, that it “is not that democracies are more likely to emerge when countries develop under authoritarianism, but that, however they do emerge, they are more likely to survive in countries that are already developed” (P. 167). In other words, the fact that rich democracies tend not to collapse explains why there is a positive relationship between economic development and democracy. Meanwhile, economic development improves the probability for the sustentation of democracy far more than it improves the odds for a transition to democracy.
+
+Nevertheless, Przeworski and Limongi’s judgment that economic development does not play a significant role in transitions away from autocracy has been found flawed by Boix and Stokes’s reassessment (2003). Boix and Stokes contend that economic development does substantially increase the probability that a country will undertake a transition to democracy, which is labeled as “endogenous democratization” by Przeworski and Limongi. Yet they admit that development has a much greater positive effect on the probability of maintaining a democracy.
+
+Although the above studies indeed present substantial evidence to illustrate a strong, positive relationship between economic development and democracy despite the differences in approach, they obviously leave many questions unanswered.
+
+First, the tentative conclusions of these scholars have not yet revealed causal mechanisms linking development to democracy. For instance, Lipset’s early study focuses on their correlation, but examines neither the impact of GDP on democratization nor its ability to promote the consolidation of established democracies. Albeit Przeworski and Limongi have touched upon the fundamental question, they fail to articulate certain mechanisms to explain the influence of development not on transitions, but on democratic survival.
+
+Second, the question of why democracy and wealth are associated with each other remains unexplained at micro, or to be more accurate, individual level. Do the poor care less about democracy? Do richer individuals have greater concern for democracy? In Lipset’s notion, when a society is more developed, people tend to care more about democracy and support it more. Is that true? Przeworski and Limongi also imply that even the poor in a rich democracy prefer their current regime to a regression to a dictatorship, whereas democracy-minded people under a dictatorship, no matter poor or rich, tend to increase as per capita income of the country raises. Unfortunately, they fall short of collecting empirical evidence at the individual level.
+
+Third, when considering the democracy—development relationship, in which democracy is evaluated as a dependent variable and economic development an independent variable, we should  not ignore another body of literature, which discusses the democracy—poverty relationship. Some scholars argue that poor people have benefited from living under democratic governments; others suggest that democracies have not functioned well for their poorest citizens. Democracy is examined here as an independent variable. Does democracy help create social wealth and better living standard for human beings, or, reversely, is it true that only an affluent society makes the ideal of democratization come true (also see Dahl’s discussion on the causal direction, 1971, p. 70)?  Causal directions still is remained as a “chicken vs. egg” puzzle (which comes first?).
+
+Fourth, the wisdom received for development—democracy relationship, whether proposed by the modernization model or endogenous vs. exogenous theory, notwithstanding, should be tested to see its long-term robustness. Lipset expects their positive correlation has a long-term stability, but it is reasonable to assume that this association may vary over time. Given that his studies come out too early to include post-Cold war data since 1990, his forecast needs more empirical evidence to support. The same situation applies to Przeworski and Limongi, and Boix and Stokes. As we know, during the past 15 years many countries, the former Soviet Bloc countries in particular, had made a transition to democracy. Classic hypotheses regarding the association between democracy and development should be further testified with more extensive data.
+
+Moreover, methodologically, we must bear in mind that different measurement and different datasets could lead to divergent results. The following points, among others, are worthy of further discussion.
+
+(1) The measurement of democracy. Lipset defines democracy as “a political system which supplies regular constitutional opportunities for changing the governing officials” (p. 71). He does not give his operational definition explicitly, although he indicates stable vs. unstable dichotomy in his data analysis. Przeworski and Limongi give a similar definition (p. 178), and treat democracy as a categorical variable by classifying 224 regimes into two groups: democracy and dictatorship. Biox and Stokes, due to their partial replication of Przeworski and Limongi’s study, do not introduce a theoretical or operational concept of democracy of their own. We wonder whether the way they use in classification of democracy vs. dictatorship could be a cause of the divergence in their analyses. 
+
+(2) The indicators of economic development. Przeworski and Limongi (1997) apply a narrow measurement by using GNP per capita, in order to limit their discussion in an “elementary descriptive pattern” (p. 156). This indicator is obviously over-reductive. Lipset applies a more extensive measurement, which contains four indices including industrialization, wealth, urbanization and education. This composite index can still be expanded. However, Lipset does not report the inter-item reliability. Can these indices for measuring economic development reliable? Earning $ 40,000 a year has different implications for an American family today from 20 years ago. By the same token, owning a car is a label of wealth in China though it is not so in the US. We need to be very careful when selecting indicators to measure economic development. More refined and reliable measurement of regime types, as well as development levels, is required for future studies.
+
+(3) The datasets. The different conclusions on the relationship between development and democracy in these studies may result from the different sample of country or countries. We notice that Lipset studies European and Latin American countries, whereas Przeworski and Limongi include 135 countries all over the world in their study. On the other hand, Boix and Stokes incorporate data beginning from 1850. The comprehensiveness of their dataset helps them challenge the assertion of Przeworski and Limongi. If scholars take a look at the data of the last 15 years, would the conclusions be the same?
+
+(4) Extra variables and certain contexts. No matter we examine the development—democracy relationship as a liner or non-liner causal model, we can neither omit some variable that influence development levels in priori, nor overlook their interactions, before evaluating the independent effect of development on democracy. Besides, studies may vary considerably in the incorporation of other possible control variables in the analyses, such as international relations, geographical factors, to name a few. Moreover, when dealing with large-N cases as a general phenomenon, we need to investigate how various contexts amplify or diminish the effect of development expected from the general theoretical hypotheses of democracy. In other words, when we explore some law-like generalizations, we must critically inquire about the necessity and means of modifying those generalizations under certain circumstances.
+
+(5) Statistical testing. While acknowledging their theoretical contributions, we should note the limitation in Przeworski and Limongi’s interpretation of their data analysis. Their probit model, employed also by Biox and Stokes, is undoubtedly more sophisticated than Lipset’s cross-tabulations. Unfortunately, however, they do not bother to report the statistical significance between frequencies, as well as between probit values, hence the vulnerability of their models. 
+
+## State Building
+
+### @Ertman1997 Birth of Leviathan
+
+**Author** Thomas Ertman
+
+**Year** 1997
+
+**Summary**
+Key factors: the organization of local government during the first few centuries after state formation; the timing of the onset of sustained geopolitical competition; and the independent influence of strong representative assemblies on administrative and financial institutions -- can account for most of the variation in political regimes and state infrastructures found across the continent on the eve of the French revolution. 
+
+The most important variable in determinig the regime type is the structure of local government.Where local government was organized during the early period of a state's development in a participatory manner -- as was the case in England, scotland and Hungary, Poland -- th result was cooperative interaction across status groups at both local level and national level. These interactions generated reserves of social captical as well as military resources which could then be mobilized to combat absolutism and force royal acceptance of constitutionalist power sharing. where on the other hand, local government was structured in a top-down, nonparticipatory way -- as was true in Latin Europe and Germany -- status-based representative assemblies remained internally divided and hence weak, and rulers were always able over the long run to push them aside and realize their absolutist designs, 
+
+
+The role of timing and the independent effect of parliament are also important.
+
+### @Skocpol1979 State and Social Revolution
+
+**Author** Theda Skocpol
+
+**Year** 1979
 
 
 
+## @Evansetal1985 Bringing State Back in
 
+### Theda Skocpol Bringing state back
 
+**Summary**
+The autonomy of a state: states conceived as organizations claiming control over territories and people may formulate and pursue goals that are not simply reflective of the demands or interests of social groups, classes, or society. 
+
+Bringing state back in the political analysis: state as organizations through which official collectivities may prusue distinctive goals realizing them more ot less effectively given the available state resources in relation to social settings. On the other hand, states may be viewed more macro-scopically as configurations of organization and action that influcen the meanings and methods of politics for all groups and classes in society.
+
+chapter 1, 5, 6, 11.
+
+### Charles Tilly War Making and State Making as Organized Crime
 
 
 
