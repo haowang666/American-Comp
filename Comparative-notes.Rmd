@@ -244,8 +244,24 @@ Bringing state back in the political analysis: state as organizations through wh
 chapter 1, 5, 6, 11.
 
 ### Charles Tilly War Making and State Making as Organized Crime
+Tilly argues that “war makes states.” Historically, competition among “wielders of coercion” for control over territory and resources led to the characteristic European-style state familiar to us today, complete with a military, police force, tax bureaucracy, and courts of law.
+a) Successful war making (defeating external enemies) also helped rulers use force to disarm domestic rivals (like lords with private armies, or—in a more contemporary sense—warlords, leaders of local militias). It allowed the concentration of coercive power in the hands of the ruler. (state making)
+b) War making spurred the development of state apparatuses, such as tax bureaucracies to extract taxes from society to finance the war effort. (extraction)
+c) To facilitate further success in war making, states promoted capital accumulation to ensure adequate resources would be available to the state. Courts of law provided one way to protect the property claims of powerful subjects/citizens without allowing those subjects/citizens to use force directly to defend their property. (protection) 
 
+War making promotes state building: to make effective war, they attempted to locate more capita. In the short run, the quest inevitably involved them inestablishing regular access to capitalists who could supply and arrange credit and in imposing one form of regular taxation or another on the people and activitiest within their sphere of control. As the process continued, state makers developed a durable interest in promoting the accumation of capital, sometimes in the guise of direct return to their own enterprise. Variations in the difficulty of collecting taxes, in the expense of the particular kind of armed force adopted, in the amount of war making required to hold off competitors, and so on resulted in the principal variations in the forms of European states. It all began with the effort to monopolize the means of violence within a delimited territory adjacent to a power holder's base. 
 
+What state does: 1. war making: eliminating or neutralizing their won rivals outsiede the territories in which they have clear and continuous priority as wielders of force 2. state making: elimating or neutralizing their rivals inside those territories  3. protection: eliminating or neutralizing the enemies of their clients 4. extration: acquiring the means of carrying out the first three activities -- war making. state making and protection. 
 
+### Peter Evans transnational linkages and the economic role of the state
+How does transnational market affect the role of the state?
 
+Evans' hypothesis in this chapter: an intensification of transnational economic linkages tends to be associated with an expansion of the state's role in a range of developing countries, and that such intensification has a dampening effect on the exapnsion of the state's role in those core countries that become major capital exporters.
 
+"That state apparatuses in Third World countries are constrained by transnational linkages in ways that undermine their ability to promote domestic accumulation is incontrovertible. Nonetheless, the challenges of dealing with transnational linkages in general and contests with transnational capital in particular may, under certain circumstances, stimulate the development of new state capacities and may legitimate the expansion of the state's role into areas that would otherwise be the preserve of private capital."
+
+In advanced countries, TNC (transnational companies) may inhibit the expansion of the state's role (case: US, UK).  
+
+### Peter Evans Dietrich Rueschemeyer and Theda Skocpol On the Road toward a More Adequate Understanding of the State
+
+Studying STates through analytical induction and historically comparisons: draws from the previous theories and research questions, then explore ideas through comparative and historical research. 
