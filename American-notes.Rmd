@@ -821,14 +821,325 @@ This article tests the framing effect of affirmative action. Framing the issue a
 **Journal** APSR
 
 **Summary**
-In an analysis of opinion change during the 1980 presidential campaign, adjusting for the measurement error, produces strong media exposure effects, especially for network television news. 
+In an analysis of opinion change during the 1980 presidential campaign, adjusting for the measurement error, produces mediate media exposure effects, especially for network television news. 
 
-8-month's study during the 1980s presidential campaign. 
+8-month's study during the 1980s presidential campaign. Using Baysian method, after correcting measurement error, somewhat moderate effect of media exposure. THe effect is diminishing among voters with strong prior opinions. It turns out campaign and media exposure are most effective at weak opinioners. 
+
+### @Ansolabehere1994 Does Attack AD Demobilize the Electorate
+
+**Author** Stephen Ansolabehere and Shanto Iyengar and Adman Simon and Nicholas Valentino (AISV)
+
+**Year** 1994
+
+**Journal** APSR
+
+**Summary**
+Using an experiment, advertising tone is manipulated within the identical audiovisual context, we find that exposure to negative advertisements dropped intentions to vote by 5%. In the aggregated level campaign of 1992 Senate elections, we show that the demobilizing effects of negative ad are accompanied by a weakened sense of political efficacy. Voters who watch negative ADs become more cynical about the responsiveness of public officials and the electoral process. 
+
+Experiments: 1990 California gubernatorial race, the 1992 California Senate races, and 1993 LS mayor race. Real people, real events. 
+
+The exprimental contents are mostly policy facts statements. 
+
+
+
+
+### @FinkelGeer1998 A Spot Check: Doubt the Demobilizing Effect of Attack AD
+
+**Author** Steven Finkel and John Geer
+
+**Year** 1998
+
+**Journal** AJPS
+
+**Summary**
+
+Theory: Recent research contends that campaign "attack" advertising demobilizes the electorate, with particularly strong effects among political Independents. We dispute this claim, arguing instead that there is little reason to expect a powerful relationship between the tone of campaign advertising and voter turnout. Attack advertising may depress turnout among some voters, but it is likely to stimulate others by increasing their store of political information about the candidates, by increasing the degree to which they care about the election's outcome, or by increasing ties to their party's nominee.
+
+Hypothesis: The amount of a campaign's attack political advertising will be unrelated to overall voter turnout and to turnout among Independents. 
+
+Methods: We employ a multi-method research design, combining a systematic content analysis of presidential campaign advertisements from 1960 to 1992 with aggregate data on turnout and the pooled National Election Studies survey data set. Correlational, linear, and logistic regression analyses are performed. -- use the actual advertisements rather than the newspaper coverage. aggregated level analysis, overall tones; also the individual level data from NES
+
+Results: Controlling for other variables known to influence turnout, we find that attack advertising does not influence either overall turnout rates or individual self-reported votes. Similarly, we find no demobilizing effect for negative advertisements among Independent voters. Further survey analyses show that the effect of attack advertisements on voter withdrawal is weakest among individuals who are most highly attentive to the mass media, and thus who are most likely to have read about or seen the negativity of the campaign.
+
+Why negative ADs may demobilize voters? AISV: three possible explanations: partisan mediation, blank decrease towards both candidates, a decreased political efficacy. 
+
+But negative ADs may also stimulate voting: 1. increased information 2. engaged more in the political information processing 3. provide stronger emotional and affective responses than the positive ones. 
+
+
+### @KahnKenny1999 Clarifying the Relationship Between Negativity and Participation
+
+**Author** Kim Fridkin Kahn and Patrick J. Kenny
+
+**Year** 1999
+
+**Journal** APSR
+
+**Summary**
+Based on U.S. senate campaign, the answer is yes. They found people distinguish between useful information presented in an appropriate manner and irrelevant and harsh mudslinging. As the proportion of legitimate criticisms increases in campaigns, citizens become more likely to cast ballots. When campaigns degenerate into unsubstantiated and shrill attacks, voters tend to stay at home. Also in the individual level, the tone is more consequential for independents, for those with less interest in politics, and for those with less knowledge about politics. 
+
+Data: 1990 NES, tones from candidate campaign and news coverage. Identifying mudslinging races by interviewing campaign managers, who were asked to characterize the opponent's campaign as well as the media's portrayal of both campaigns. 
 
 
 
 
 
+
+### @KahnKenny2002 The Slant of the News: How EditorialEndorsements Influence Campaign Coverage and Citizens' Views of Camdidates
+
+**Author** Kim Fridkin Kahn and Patrick J. Kenny
+
+**Year** 2002
+
+**Journal** APSR
+
+**Summary**
+We examine newspaper coverage of more than 60 Senatorial campaigns across three election years and find that information on news pages is slated in favor of the candidate endorsed on the newspaper's editorial page. We find that the coverage of incumbent Senators is most affected by these newpaper;s endorsement decision. We xplore the consequences of slanted news coverage by showing that voters evaluate endorsed candidates more favorly than candidates who fail to secure an editorial endorsement. The impact of the endorsement decision on voter's evaluations is most powerful in races receiving a great deal of press attention and among voters who read their local newspaper on a daily base. 
+
+
+
+
+
+### @Lauetal1999 The Effects of Negative Political Advertisements: A Meta-Analysis Assessment
+
+**Author** Richard R. Lau and Lee Sigelman and Caroline Heldman and Paul Babbitt
+
+**Year** 1999
+
+**Journal** APSR
+
+**Summary**
+The data do not support the claim that negative ADs has postitve/megative consequences. 
+
+
+
+
+### @Pageetal1987 What Moves Public Opinions
+
+**Author** Benjamin I. Page and Robert Y. Shapiro and Glenn R. Dempsey
+
+**Year** 1987
+
+**Journal** APSR
+
+**Summary**
+
+Selected 90 pairs of policy questions from the last 15 years that awere repeated within moderate time intervals averaging about three months. Results show that news media paralell opinion changes. 
+
+
+
+## Participation and Voting Behaviors
+
+### @Bradyetal1995 Beyond SES: A Resource Model of Political Participation 
+
+**Author** Henry Brady and Sidney Verba and Kay Lehman Schlozman
+
+**Year** 1995
+
+**Journal** APSR
+
+**Summary**
+Previous studies have controlled for socioeconomic status variables (income, education, etc) to predict political participation, but they haven't made clear why we should expect these variables to matter. Brady et al turn it around: Why don't people participate in politics? There are three answers: They can't, they don't want to, or nobody asked them to. In other words,
+
+They can't: They lack the time (for participation), civic skills (for involvement), or money (for contributions).
+They don't want to: They aren't interested in politics.
+Nobody asked: They are isolated from the networks that mobilize people.
+Using these independent variables, the authors show why people vote, make donations, or contribute their time to a cause:
+
+Voting: Driven primarily by interest, though civic skills (e.g. education) also matter. Income and time are less important.
+Donating money: Driven primarily by income. Neither free time nor civic skills seems to matter.
+Spending free time on political activities: Driven by political interest; free time also matters, but civic skills has a greater impact. Income doesn't matter.
+
+
+### @Lodgeetal1995 Responsive Voter
+
+**Author** Milton Lodge and Marco R. Steenbergen and Shawn Brau
+
+**Year** 1995
+
+**Journal** APSR
+
+**Summary**
+Online model of candidate evaluation. Over time people forget most of the campaign information they are exposed to but are nonetheless able to later recollect their summary afftective evaluation of the candidates which they then use to inform their preferences and vote choices. 
+
+
+### @Desmaraisetal2015 Extended Party Network
+
+**Author** Bruce Desmarais and Ray La Raja and Mike Kowal
+
+**Year** 2015
+
+**Journal** AJPS
+
+**Summary**
+
+In recent years, there has been a re-conceptualization of political parties in the United States.   Rather than think of them as single organizations, scholars have begun to conceive of them as dynamic, dispersed systems of interconnected interest groups.  In other words,  the 'party' is constituted by an extended partisan network (EPN) comprised of groups that do not necessarily carry the label Democrat or Republican. The prevailing theory is that the EPN collectively pursues the functions of traditional party organizations such as selecting and supporting favored candidates for office.
+
+Using network analysis with campaign finance data, we find distinctive communities of groups that converge their political spending on particular challengers.  Moreover, challengers who find themselves in this selective partisan group do substantially better in elections than other challengers even controlling for the overall amount of campaign money they spend.  These findings reveal that conventional accounts of political parties are too simplistic.  Instead, we find that multiple interest groups - along with the traditional party organizations - perform in coordination the tasks we typically associate with political parties.
+
+There are at least two important implications of these findings.  First, by showing that political parties are more than traditional party organizations, we raise a host of questions related to campaign finance reform and other efforts to regulate parties.  If the party is not simply the Democratic or Republican Party committee, then efforts to limit party financing as a way of thwarting corruption are greatly complicated.
+
+Second, our empirical finding provides a plausible explanation for why American parties in Congress do not converge on the preference of median voters (as predicted by Anthony Downs's economic theory of democracy) but instead stay well to the ideological left or right of the vast majority of Americans. Indeed, our findings provide some clues as to why U.S. parties are increasingly polarized ideologically.
+
+### @Bawnetal2012 A Theory of Political Parties
+
+**Author** Kathleen Bawn and Martin Cohen and  David Karol and Seth Masket and Hans Noel and John Zaller
+
+**Year** 2012
+
+**Journal** Perspectives on Politics
+
+**Summary**
+
+The John Aldrich's version: parties are problem solvers and stable coalitions during the legislative process. 
+
+Authors' version: parties are established by policy demanders, in order to make party fullfill the policy goals, interest groups will try to control the nomination process. Citiznes pay little attentions to nomination and interest groups have the highest influence over these process: promote a loyal friend. 
+
+Claims: 1, Policy demanders outside of government form new party coalitions and force change inestablished ones. Policy demanders determine the broad agendas of political conflict. 2. Centrist members of congress are morelikely yo win re-election than extremists, but the former are rare and the latter common in the House. The unnecessary risk borne by most office holders is consistent with our basic notion that policy-demanding groups rather than politicians are the dominant players in parties. 3. When congressional districts and media markets align to conduce more informed electorates, extreme House members are at much greater risk for defeat. This fingding suggests that the extremity of most members of the Congress is not due to voter preferences, but to limitations in the ability of most voters to hold representatives accountable 4. In some cases, interest groups or activists can be shown to determine the particular individuals nominated for office. 
+
+
+### @KelleyMirer1974 The Simple Act of Voting
+
+**Author** Stanley Kelley and Thad Mirer
+
+**Journal** APSR
+
+**Year** 1974
+
+**Summary**
+Voter's decision rule: the voter canvasses his likes and dislikes of the leading candidates and major party involved in an election. Weighing each like and dislike equally, he votes for the candidate toward whom he has the greatest net number of favorable attitudes, if there is such a candidate. If no candidate has such an advantage, the voter votes consistently with his party affiliation, if he has one. If neither condition was meet, the voter made a null decision.
+
+
+### @Jessee2009 Spatial Voting in the 2004 Presidential Election
+
+**Author** Stephen Jessee
+
+**Year** 2009
+
+**Journal** APSR
+
+**Summary**
+The theory of spatial voting has played a large role in the development of important results across many areas of political science. Directly testing the foundational assumptions of spatial voting theory, however, has not been possible with existing data. Using a novel survey design, this article obtains estimates of voter ideology on the same scale as candidate positions. The results of this scaling demonstrate that voters possess meaningful ideologies and, furthermore, that these beliefs are strongly related to the sorts of policy proposals considered in Congress. These ideology estimates are then used to uncover the actual relationships between ideology and vote choice for citizens of various types in the 2004 presidential election. Although the choices of independent voters are shown to be largely consistent with the assumptions of spatial voting theory, the decision rules used by partisans differ strongly from what unbiased spatial voting would imply. Although partisans do converge toward the behavior of independents, and hence toward the assumptions of spatial voting theory, as information levels increase, we see that even highly informed partisans show significant differences from what would be implied by unbiased spatial voting theory.
+
+### @Tomzetal2008 Candidate Positioning and Voter Choice
+
+**Author** Michael Tomz and Robert P. VAN Houweling
+
+**Year** 2008
+
+**Journal** APSR
+
+**Summary**
+
+Three different theories: 1. proximity theory, assumes that citizens prefer candidates whose positions are closest to their own (Downs 1957). 2. Discounting theory: knowing that candidates cannot fully deliver their promises, voters 'discount' campaign pledges and judge each candidate based on the policies they expect the government to adpot if candidate win the office (see Fiorina 1992, Kedar 2005). Discounters may favor candidates unlike themselves if such candidates stand the best chance of producing the most desirable policy outcomes. 3. Directional theory: voters perceive political issues as two sided and want candidates who take their side or direction. This leads to a prediction that voters may want more intense candidates who are in their direction rather than a moderate opponent. 
+
+Method: survey experiments with policy scaled through a list of numbers, results: proximity voting more frequently than discounting and directionary voting.
+
+### @TomzHouweling2009 The Electoral Implications of Candidate Ambiguity
+
+**Author** Michael Tomz and Robert P. Van Houweling
+
+**Year** 2009
+
+**Journal** APSR
+
+**Summary**
+
+Candidates often make ambiguous statements about the policies they intend to pursue. In theory,
+ambiguity affects how voters make choices and who wins elections. In practice, measurement and
+endogeneity problems have impeded empirical research about the consequences of ambiguity. We conducted survey experiments that overcame these obstacles by manipulating a common form of
+ambiguity: the imprecision of candidate positions. Our data show that, on average, ambiguity does not repel and may, in fact, attract voters. In nonpartisan settings, voters who have neutral or positive attitudes toward risk, or who feel uncertain about their own policy preferences, tend to embrace ambiguity. In partisan settings, voters respond even more positively to ambiguity; they optimistically perceive the locations of ambiguous candidates from their own party without pessimistically perceiving the locations of vague candidates from the opposition. We further find, through analysis of two additional new data sets, that candidates often take--and voters frequently perceive--ambiguous positions like the ones in our experiments. The pervasive use of ambiguity in campaigns fits with our experimental finding that ambiguity can be a winning strategy, especially in partisan elections.
+
+# POS598 Political Psychology
+
+## Public Opinion Week
+
+### @Berelson1952 Democratic Theory and Public Opinion
+
+Prerequsite of electorate decisions: 1. a suitable personality structure 2. Interest and participation
+
+Components of electorate decisions: 1. the possession of information and knwoledge 2. Possession of principle: the electorate is required to possess a body of stable political principle or moral standards, in contrast with fluctuating impulses or whims, to which topical questions can be referred for evaluation and decision. 
+
+The process of electorate decision: 1. accurate observation 2. Communication and discussion, the electorate is required to engage in discussion and communication on political affairs. 3. rationality, the electorate is required to exercise rational judgment in political decisions. 
+
+### Adam Bernisky New Directions of Public Opinion
+
+**Year** 2012
+
+**Summary**
+Public opinion is a property of individuals, but acquired its power in the public sphere. 
+
+Important review! Read again!
+
+## Self Interest 
+
+### @GreenGerken1989 Self-Interest and Public Opinion Toward Smoking Restrictions and Cigarette Taxes
+
+**Author**  Donald P. Green and Ann Elizabeth Gerken
+
+**Journal** Public Opinion Quarterly
+
+**Year** 1989
+
+**Summary**
+Slef-interest has influence over public policies. Data from two random samples of California adults collected by the Field Institute in April 1987 and Februrary 1984 indicate that nonsmokers are far more enthusiastic about tightening smoking restrictions than smokers, although they are very similar in other aspects.
+
+### @KinderKiewiet1979 Economic Discontent and Political Behavior: The Role of Personal Grievances in Economic Judgments in Congressional Voting
+
+**Author** Donald R. Kinder and D. Roderick Kiewiet
+
+**Year** 1979
+
+**Journal** AJPS
+
+**Summary**
+Conventional wisdom argues that political decisions are influenced by general economic conditions. This study uses individual level data from 1956 to 1976, showing that voting was not influenced by personal economic grievances. Those voters unhappy with changes in their financial misfortunes showed little inclination to punish candidates of incumbent party. Rather, the voting decision was influenced by judgments regarding recent trends in general business conditions and more powerfully by judgments about the relative competence of the two major parties to manage national economic problems. 
+
+### @JacobShapiro1994 Questioning the Conventional Wisdom of Public Opinion on Health Reform
+
+**Author** Lawrence R. Jacob and Robert Y. Shapiro
+
+**Year** 1994
+
+**Journal** PS: Political Science and Politics
+
+**Summary**
+Some questioning points: self-interest or collective interest. Satisfication with own treatment and dissatisfaction towards other people's conditions. Ambivanet attitudes towards taxation; not so opposite attitudes towards government intervention. 
+
+### @Citrinetal1997 Public Opinion Towar Immigration Reform
+
+**Author** Jack Citrin and Donald P. Green and Christopher Muste and Cara Wong
+
+**Year** 1997
+
+**Journal** JOP
+
+**Summary**
+
+This paper tests hypotheses concerning the effects of economic factors on public opinion toward immigration policy. Using the 1992 and 1994 National Election Study surveys, probit models are employed to test diverse conceptualizations of the effects of economic adversity and anxiety on opposition to immigration. The results indicate that personal economic circumstances play little role in opinion formation, but beliefs about the state of the national economy, anxiety over taxes, and generalized feelings about Hispanics and Asians, the major immigrant groups, are significant determinants of restrictionist sentiment. This restricted role of economic motives rooted in one's personal circumstances held true across ethnic groups, among residents in communities with different numbers of foreign-born, and in both 1992 and 1994.
+
+### @Funk2000 The Dual Influence of Self-Interest and Societal Interest in Public Opinion
+
+**Author** Carolyn Funk
+
+**Year** 2000
+
+**Journal** Political Research Quarterly
+
+**Summary**
+Measures: self-interest: measured by receiving benefits from the welfare program. Societal interest: measured by the support for equal opportunity index.
+
+Result: citizens use both self-interest and societal interest in evaluating policy proposals. Citizens are not completely selfless, however, citiznes seem more willing to engage in slef-sacrifice when that sacrifice involves giving over benefits to others than it involves giving up benefits to themselves. 
+
+### @Searsetal1980 Self-Interest vs. Symbolic Policy Attitudes and Presidential Voting
+
+**Author** David O. Sears and Richard R. Lau and Tom R. Tyler and Harris M. Allen
+
+**Journal** APSR
+
+**Year** 1980
+
+**Summary**
+This article contrasts short-termself-interest and longstanding symbolic attitudesas determinants of (1) voters' attitudes toward government policy on four controversial issues (unemployment, national health insurance, busing, and law and order), and (2) issue voting concerning those policy areas.In general, we found the various self-interest measures to have very little effect in determining either policy preferences or voting behavior.In contrast,symbolic attitudes (liberal or conservative ideology, party identification, and racial prejudice) had major effects. Nor did self-interest play much of a role in creating "issue publics" that were particularly attentive to, informed about, or constrained in their attitudes about these specific policy issues. Conditions that might facilitate more self-interested political attitudes, specifically having privatistic (rather than public-regarding) personal values, perceiving the policy area as a major national problem, being high in political sophistication, perceiving the government as responsive, or having a sense of political efficacy, were also explored,but had no effect.The possibility that some long-term self-interest might be reflected in either group membership or in symbolic attitudes themselvesis examined. While such possibilities cannot be definitively rejected, problems with interpreting standard demographic findings as self-interest effects are discussed.
 
 
 
