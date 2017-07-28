@@ -1108,7 +1108,7 @@ Conventional wisdom argues that political decisions are influenced by general ec
 **Summary**
 Some questioning points: self-interest or collective interest. Satisfication with own treatment and dissatisfaction towards other people's conditions. Ambivanet attitudes towards taxation; not so opposite attitudes towards government intervention. 
 
-### @Citrinetal1997 Public Opinion Towar Immigration Reform
+### @Citrinetal1997 Public Opinion Toward Immigration Reform
 
 **Author** Jack Citrin and Donald P. Green and Christopher Muste and Cara Wong
 
@@ -1131,7 +1131,7 @@ This paper tests hypotheses concerning the effects of economic factors on public
 **Summary**
 Measures: self-interest: measured by receiving benefits from the welfare program. Societal interest: measured by the support for equal opportunity index.
 
-Result: citizens use both self-interest and societal interest in evaluating policy proposals. Citizens are not completely selfless, however, citiznes seem more willing to engage in slef-sacrifice when that sacrifice involves giving over benefits to others than it involves giving up benefits to themselves. 
+Result: citizens use both self-interest and societal interest in evaluating policy proposals. Citizens are not completely selfless, however, citizens seem more willing to engage in self-sacrifice when that sacrifice involves giving over benefits to others than it involves giving up benefits to themselves. 
 
 ### @Searsetal1980 Self-Interest vs. Symbolic Policy Attitudes and Presidential Voting
 
@@ -1142,7 +1142,7 @@ Result: citizens use both self-interest and societal interest in evaluating poli
 **Year** 1980
 
 **Summary**
-This article contrasts short-termself-interest and longstanding symbolic attitudesas determinants of (1) voters' attitudes toward government policy on four controversial issues (unemployment, national health insurance, busing, and law and order), and (2) issue voting concerning those policy areas.In general, we found the various self-interest measures to have very little effect in determining either policy preferences or voting behavior.In contrast,symbolic attitudes (liberal or conservative ideology, party identification, and racial prejudice) had major effects. Nor did self-interest play much of a role in creating "issue publics" that were particularly attentive to, informed about, or constrained in their attitudes about these specific policy issues. Conditions that might facilitate more self-interested political attitudes, specifically having privatistic (rather than public-regarding) personal values, perceiving the policy area as a major national problem, being high in political sophistication, perceiving the government as responsive, or having a sense of political efficacy, were also explored,but had no effect.The possibility that some long-term self-interest might be reflected in either group membership or in symbolic attitudes themselvesis examined. While such possibilities cannot be definitively rejected, problems with interpreting standard demographic findings as self-interest effects are discussed.
+This article contrasts short-term self-interest and longstanding symbolic attitudes as determinants of (1) voters' attitudes toward government policy on four controversial issues (unemployment, national health insurance, busing, and law and order), and (2) issue voting concerning those policy areas.In general, we found the various self-interest measures to have very little effect in determining either policy preferences or voting behavior.In contrast,symbolic attitudes (liberal or conservative ideology, party identification, and racial prejudice) had major effects. Nor did self-interest play much of a role in creating "issue public" that were particularly attentive to, informed about, or constrained in their attitudes about these specific policy issues. Conditions that might facilitate more self-interested political attitudes, specifically having privatistic (rather than public-regarding) personal values, perceiving the policy area as a major national problem, being high in political sophistication, perceiving the government as responsive, or having a sense of political efficacy, were also explored,but had no effect.The possibility that some long-term self-interest might be reflected in either group membership or in symbolic attitudes themselves is examined. While such possibilities cannot be definitively rejected, problems with interpreting standard demographic findings as self-interest effects are discussed.
 
 ## Personal Experience in Political Thinking
 
@@ -1154,7 +1154,7 @@ For most Americans, the events of day-to-day life are morselized, that is, they 
 
 Some people use their personal experience in interpreting political events (contextualer).
 
-contextualizing and ideologizing: the difference centers on the need to confirm the pattern of ideas employed in this process: if the event is used and needed to support an emotionally involved theory or interpretation, the tendency is toward ideologizing. `The ideologue takes his cue on the interpretation of information from all sources; the contextualist is more open to information from all sources.’ – ideologue takes information selectively. 
+contextualizing and ideologizing: the difference centers on the need to confirm the pattern of ideas employed in this process: if the event is used and needed to support an emotionally involved theory or interpretation, the tendency is toward ideologizing. 'The ideologue takes his cue on the interpretation of information from all sources; the contextualist is more open to information from all sources.' – ideologue takes information selectively. 
 
 
 ### @Mutz1994 Contextualizing Personal Experience: The Role of Mass Media
@@ -1166,9 +1166,9 @@ contextualizing and ideologizing: the difference centers on the need to confirm 
 **Journal** JOP
 
 **Summary**
-Mass media facilitates political thinking by exposing people to similair experiences of others. Besides, mass media coverage can play an especially important role in encouraging presidential accountability for perosonal problems.
+Mass media facilitates political thinking by exposing people to similar experiences of others. Besides, mass media coverage can play an especially important role in encouraging presidential accountability for personal problems.
 
-This study considerscompetingtheoriesconcerningthe role of massmediain hinderingor facilitating the translationof personalexperiencesinto politicalpreferences. Using nationalsurvey and media content data that allow evaluations of both media coverage and individual patterns of media use, this study evaluatesthe influenceof mass media on the direct impact of personalexperiences on presidential performanceas RonaldReagancompletedhis second term in office, and on the indirect impact of personalexperiencesby means of their impacton collective-level issue judgments.Exposure to unemployment news appearsto strengthenthe impact of personal experienceson presidentialperformance ratings.Heavy unemploymentcoveragealso increasesthe extent to which perceptionsof nationalunemployment conditions are generalized from personalexperience. Overall, results suggest that mass media may counter the tendency to morselizepersonalexperiencesand help legitimizethe translation of private interestsinto political attitudes.
+This study considers competing theories concerning the role of mass media in hinderingor facilitating the translation of personal experiences into political preferences. Using national survey and media content data that allow evaluations of both media coverage and individual patterns of media use, this study evaluatesthe influence of mass media on the direct impact of personal experiences on presidential performanceas Ronald Reagan completed his second term in office, and on the indirect impact of personal experiencesby means of their impacton collective-level issue judgments. Exposure to unemployment news appearsto strengthen the impact of personal experienceson presidential performance ratings.Heavy unemployment coverage also increasesthe extent to which perceptionsof national unemployment conditions are generalized from personal experience. Overall, results suggest that mass media may counter the tendency to morselize personal experiences and help legitimize the translation of private interests into political attitudes.
 
 
 ### @Hopkins2010 Local Oppositions to Immigrants
@@ -1196,7 +1196,8 @@ The politicized places approach assumes that peo ple are highly selective in inc
 **Journal** JOP
 
 **Summary**
-How do people translate their personal experiences into political attitudes? It has been difﬁcult to explore this question using observational data, because individuals are typically exposed to experiences in a selective fashion, and self-reports of exposure may be biased and unreliable. In this study, we identify one experience to which Americans are exposed nearly at random—their local weather—and show that weather patterns have a signiﬁcant effect on people’s beliefs about the evidence for global warming.
+
+How do people translate their personal experiences into political attitudes? It has been difficult question using observational data, because individuals are typically exposed to experiences in a selective fashion, and self reports of exposure may be biased and unreliable. In this study, we identify one experience to which Americans are exposed nearly at random: their local weather, and show that weather patterns have a significant effect on people's beliefs about the evidence for global warming.
 
 ### Lee Ross 1977: Introduction to Attribution Theory and Attribution Error
 
@@ -1215,7 +1216,8 @@ why a native psychologist model is not sufficient?
 **Journal** AJPS
 
 **Summary**
-Theory: Using elaboration-likelihood models and insightsfrom the recent core beliefs literature,we show that conflicting core beliefs lead to ambivalence about policy choices.
+
+Theory: Using elaboration-likelihood models and insightsfrom the recent core beliefs literature, we show that conflicting core beliefs lead to ambivalence about policy choices.
 
 Hypotheses: Policy choices about abortion are heterogeneous. This heterogeneity across individuals is a functionofthe underlying conflictin their beliefs about the role of women and the sanctityof human life.
 
@@ -1231,5 +1233,159 @@ Some additional definitions: elaboration likelihood model: the ELM begins with t
 
 **Summary**
 
+Individual preferences among core values are widely believed to be an determinant of political attitudes. Data from the 1994 multi-Investigator Study show that there exists a hierarchical structure of citizens' value preferences. Most people make transitive choices among values and that their value preferences have important influence on issue attitudes. For those make intransitive value choices, this is more due to low levels of political sophistication.
+
+### @HurwitzPeffley1987 A Hierarchical Model of Foreign Policy Attitude
+
+**Author** Jon Hurwitz and Mark Peffley
+
+**Year** 1987
+
+**Journal** APSR
+
+**Summary**
+
+An Information Processing perspective: people are cognitive misers and taking shortcuts whenever it is possible. A complicated and confusing worls requires extensive use of heuristics to render the environemnt interpretable and manageable. 
+
+People use simple heuristic values in reacting to the complicated foreign policy issues. 
+
+A structured view of foreign policy attitudes:
+Core values: morality of warfare, ethnocentrism (one country is superior to others)
+
+Mid: Party ID
+
+General Postures: militarism, anti-communism, isolationism
+
+## Parties
+
+### @Campbell1960 The American Voter
+
+**Author** Angus Campbell and Philip E. Converse and Warren E. Miller and Donald E. Stokes
+
+**Year** 1960
+
+**Summary**
+
+Party ID is the major influence on voters' perceptions of political choice as well as their final vote. Party ID is characterized by stability and resistance to contrary influence. Furthermore, it is formed early in life (i.e., it is inherited).
 
 
+The Funnel Model
+
+Campbell et al. argue that the best predictor (X) of whether an individual will vote Republican or Democratic is the funnel model. The funnel works like this: First, you learn your party ID from parents and socialization. You form a psychological attachment to this party. As such, your partisanship shapes the development of your attitudes; because you like your party, you adopt its positions. Your (underlying) attitudes are then reflected in your positions on the six attitudinal dimensions: the personal attributes of the Democratic candidate (Stevenson), the personal attributes of the Republican (Eisenhower), the groups involved in politics and the questions of group interest affecting them, the issues of domestic policy, the issues of foreign policy, and the comparative record of the two parties in managing the affairs of government. Finally, these issue positions are the proximal cause of your voting decision. In fact, these six issue positions predict voting decisions with 87% accuracy--which is even better than asking voters who they intend to vote for.
+
+Partisan Perception
+
+Not surprisingly, feelings across these six dimensions tend to be highly correlated. For Campbell and his coauthors, this correlation occurs because partisan feelings are strongly shaped by party identification. (Party ID leads to partisan feelings, not the reverse.) In this book, party ID is treated as a psychological force or tie through which voters interpret political issues (each of the aforementioned dimensions). The authors write that "Identification with a party raises a perceptual screen [i.e. selective perception] through which the individual tends to see what is favorable to his partisan orientation." In this sense, the party acts as a supplier of cues by which the individual may evaluate the elements of politics.
+
+Origins of Partisanship
+
+They claim that individuals "inherit" a party ID from their parents and the social milieu in which they are raised and that this party ID is characterized by stability and resistance to contrary influence. (They do recognize that objective events and conditions can lead a voter to modify her party ID or vote against it if her evaluation of the current elements of politics does not agree with her initial allegiances.)
+
+Issues Don't Matter
+
+In their interviews, Campbell et al. find that policies and issues play a small part in most voters' decisions, that only a small fraction of the electorate (12%) displays anything resembling an ideology (i.e., most people when asked about their positions on specific policy issues do not have a consistent pattern of responses in terms of a liberal-conservative dimension), and that voters frequently do not know which party stands for what. These findings cast doubt on the efficacy of voting as a mechanism of democratic control of government.
+
+Changes in Partisanship
+
+Changes in party ID are possible. These changes result from either personal forces (usually changes in an individual's social milieu) or social forces (usually the result of experiences related to great national crises or those experiences related to progress through the life cycle older voters tend to be more conservative).
+
+
+### @Lavineetal2015 The Ambivalent Partisanship
+
+**Author** Howard G. Lavine and Christopher D. Johnston and Marco R. Steenbergen
+
+**Summary**
+
+Partisanship has be generally regarded as the most important cue for average citizens when forming political opinions and vote choices. As both political scientists and psychologists have recognized, people are busy with their everyday life, and contributing extra effort to political information has literately no personal economic returns to them. As a result, partisanship becomes the economically efficient way for decision-making. On the other hand, the long-lasting pattern of decision-making aligned with the partisan division leads to a concern about biased political opinion and the quality of democratic citizenship. Scholars start to question if average citizens just follow their party disciplines and pay little attention to issue-related policies, or the real politics. Besides, other than the pattern of partisan politics, we are observing a lot of shifts and opinion changes in both opinion polls and electoral results. How to explain these dynamics?
+
+There are citizens who do not always vote according to their parties. They think carefully about issue-related aspects like the objective economic performance, social welfare etc. Lavine's book tackles this question directly by asking who are more likely to go beyond partisan cues and under what conditions will this effort-taking behaviors happen? According to Lavine et al., it is the ambivalent partisanship that leads to these behaviors. 
+
+Partisan ambivalence happens when there is a disconnection between an individual's long-term party identification and short-term party evaluation. For instance, partisan ambivalence may emerge when an individual's party is undergoing a long-stretch of difficulties like splitting ideas, scandals, unsuccessful reforms, or misconduct in international conflicts and domestic emergencies. To address the mechanism of partisan ambivalence, Lavine et al. resort to psychological theories of cognitive process, which are the principles of least effort, sufficiency, and belief perseverance. Least effort relates to the idea that an individual to make minimal effort on their decision making by relying on simple rules like partisan heuristic cues. Based on this principle, party id is often useful as a cognitive shortcut which does not require too much time and effort. Sufficiency is about the confidence of decision making. Party id may not be sufficient in conditions when people are in conflictual situations with their partisan standings. Last, belief perseverance is the motive to make decisions that confirm, rather than contradict, one’s system of basic belief and attitudes.
+
+
+Partisan ambivalence happens when sufficiency principle is not achieved during the cognitive process. Once aroused, ambivalence decreases the cognitive accessibility and perceived reliability of partisan cues, thus motivating citizens to more diagnostic information when making political judgments. Consequently, political judgments are less biased by partisan lens, more accurate and more firmly rooted in normative desirable criteria. 
+
+
+* Research Design and Results
+
+Lavine et al.'s study relies mostly on survey data from ANES (American National Election Studies) and CCES (Cooperative Congressional Election Study), and is accompanied by three small-scale experimental designs. The key independent variable in the research design is partisan ambivalence, which is measured by both open-ended questions and in-party/out-party attitudes. 
+
+When conceptualizing the ambivalence indicator, they used open-ended questions in the survey. Specifically, they asked respondents to list their favorable and unfavorable thoughts about the party that they support (in-party) and the other party (out-party). Then a following question was asked about the general likeness about in-party and out-party. Ambivalent partisans are then defined as those who score in the 95th percentile in identity-conflicting reactions (good thoughts about the out-party and negative thoughts about the in-party) and the 5th percentile in identity-consistent reactions (good thoughts about in-party and negative thoughts about out-party). Mixed partisans have lower proportions of conflicting identity and higher proportion of consistent identity. Univalent partisans have the highest proportion of consistent identity.
+
+Detailed empirical tests are performed in chapter 4-7. Chapter 4 uses several experiments from multiple sources as well as panel data, showing that ambivalent partisans are less influenced by partisan cues than their univalent peers. Chapter 5 focuses on the accuracy aspect. Using economic perceptions as the example, they demonstrate that ambivalent partisans are more able to form accurate judgment of economic conditions. Besides, unlike the univalent peers, ambivalent partisans are less likely to be influenced by partisan bias. Chapter 6 examine the political participation (esp. voting behaviors). Using 1980-2004 ANES survey data, they found out that ambivalent partisans are not less likely to get involved in political activities. Chapter 7 looks at critical loyalty theory: unlike univalent partisans, ambivalent partisans are more likely to update their party id to reflect the political disagreement. Overall, the authors argue that ambivalent partisans paid more attention to actual policy issues rather than blindly taking the partisan cues; and their perceptions are more responsive and accurate to actual politics. To conclude, ambivalent partisans make better citizens of democracy.  
+
+
+Overall, this books offers an interesting angle interpreting partisan dynamics in American politics. Scholars have been emphasizing the effect of partisanship and bias in cognition all the way since the very beginning of *The Amercian Voter*. Lavine et al. study this question from a neat aspect by asking who are more (less) likely to be influenced by partisan bias. Their analysis starts with the differentiation of long-term party identity and short-term party evaluation, which can speak directly to SES models as well as retrospective voting behavior literatures (e.g. economic voting). The construction of the concept ambivalence is useful in the sense that it links party id and party evaluation, which allows further analysis when these two aspects are in conflicting situations. The implication of their study applies to a wide variety of researches in information processing and cognition, mass public opinions and even the longitudinal partisan realignment. 
+
+However, I do have some disagreements with the book. My first concern is the argument between ambivalence and partisan influence. As ambivalence is defined in the way when long-term party id is incompatible with short-term party evaluation, a natural inference is that ambivalent partisans are less likely to follow whatever their parties say. And then they demonstrate that partisan influences are diminished among ambivalent individuals. This seems a bit circular reasoning to me. The independent variable (partisan ambivalence) and dependent variable (partisan influence) come from similar reasons and the whole process is endogenous. A corollary of this conceptualization will be: treating partisanship as a group identity, if a group member has some disagreements with the group, we certainly believe that he/she will depreciate group decisions. This is not an interesting implication, what is missing here is who are more likely to have divergent opinions with their group? Lavine et al. did not answer this aspect in their book and they presume the preexistence of `ambivalent partisans', which I think leads to an endogenous problem. 
+
+A related concern on conceptualization is their measurement of ambivalence. They count the numbers of likes and dislikes in the open-ended questions and use this to construct in-party ambivalence. This measurements worsen the endogeneity problem: as likes and dislikes also capture people's emotional reactions to their party other than the disagreeing policy positions. When the unfavorable emotions to parties are aroused, we certainly believe that subjects will be less influenced by their party identifications. 
+
+My second concern of their study is about the temporal dynamics. In the final chapter they conclude that ambivalent partisans are more likely to shift their party id to make it consistent with their beliefs. However, as long as they make the change eventually, will they still be ambivalent partisans as they were, or become a univalent partisan (which according to the authors are not good democratic citizens)? According to their theoretical foundations, partisan cues have the priority of opinion formation as they are efficient and cost-minimizing. As a result these 'former ambivalent' partisans who paid extra effort to form accurate political judgments may resort to partisan cues after switching. However, we believe that they have some personal traits other than 'ambivalence' which makes them be more critical to partisan cues. This aspect as I mentioned in the previous paragraph is not well discussed in their book, which is a potential flaw. 
+
+All in all, I think this book offers many important insights in American politics and political psychology. The introduce of 'ambivalence' is neat and definitely worth further exploration (especially for the conceptualization part). 
+
+
+### @Fiorina1981 Explorations of a political theory of party identification
+
+The American Voter tradition: party is 'the individual's affective orientation to an important group-object in his environment'. 
+
+Party id is a running tally of retrospective evaluations, as the difference between an individual's past political experiences with the two parties. 
+
+
+
+### @Aldrich1995 Why Parties
+
+Aldrich’s book seeks to understand the origins and transformation of political parties. Overall, he argues that a political party is an endogenous institution shaped by ambitious political actors. Political parties are the main instruments that 'help' politicians to accomplish their goals (can either be stay in office, certain policy goals and political reputations).
+
+The form in which political parties can 'help' ambitious politicians depends on three variables: the polity (electorate), the institutional setting (for example, a republican form of government,) and the historical context (ideas, values, technological conditions and also path of development). The first two variables create collective action and collective choice problems. The historical context determines whether parties are the most efficient means of solving these two problems.
+
+In sum, parties are designed as attempts to solve problems that current institutional arrangements do not solve and that politicians have come to believe they cannot solve.
+
+Assumptions:
+
+Political parties are created, shaped and transformed by political actors, which are either officeholders, office seekers or benefit seekers.
+Voters are not part of the political party, nonetheless they are critical as targets of party activities.
+Rational, elective office seekers and holders use the party to achieve their ends. These actors may have values, principles and preferences over policies and means for reaching policy goals. "They also care about office, both for its own sake and for the opportunities to achieve ends that election and reelection made possible", therefore they are concerned with winning. Just as winning elections is a means to other ends for politicians (whether career or policy ends), so too is the political party as a means to these other ends". (21)
+
+The General Argument:
+
+A political party is an endogenous institution shaped by ambitious political actors (office seeker and officeholder). Political parties are the main instruments that "help" politicians to accomplish their goals (long and successful career in political office, achievement of policy ends and power and prestige within the government).
+
+The form in which political parties can "help" ambitious politicians depends on three variables: the polity (electorate), the institutional setting (for example, a republican form of government,) and the historical context (ideas, values, technological conditions and also path of development). The first two variables create collective action and collective choice problems. The historical context determines whether parties are the most efficient means of solving these two problems.
+
+In sum, "parties are designed as attempts to solve problems that current institutional arrangements do not solve and that politicians have come to believe they cannot solve." (22). These problems are related to collective action and collective choice.
+
+
+### @Bartels2002 Beyond the Running Tally
+
+**Author** Larry Bartels
+
+**Journal** Political Behavior
+
+**Summary**
+
+Bartels’s piece examines the impact of long-term partisan loyalties on perceptions of specific political figures and events. In contrast to the notion of partisanship as a simple running tally of political assessments, Bartel shows that party identification is a pervasive dynamic force shaping citizens’ perceptions of, and reactions to, the political world. In terms of empirical methods, Bartels uses ANES panel data of 1990, 91 and 92. Analysis was conducted with a Bayesian model to capture the dynamics of public opinion change. He also presents more straightforward evidence of contrasts in Democrats’ and Republicans’ perceptions of objective politically relevant events. The results show that partisan bias in political perceptions plays a crucial role in perpetuating and reinforcing sharp differences in opinion between Democrats and Republicans.
+
+Bartels’ piece starts with a critique of the Lodge et al. (1995) 'running tally' argument. Using panel data, he reveals the significant impact of partisanship in information processing. But the time period of the panel data is really short, which decreases the internal validity: is 3 years enough to claim a 'long-term' partisan effect?
+
+
+
+### @Greenetal2002 Partisan Hearts and Minds
+
+**Author** Donald P. Green and Bradley Palmquist and Eric Schickler
+
+**Year** 2002
+
+**Summary**
+
+The authors maintain that individuals form partisan attachments early in adulthood and that these political identities, much like religious identities, tend to persist or change only slowly over time. Scandals, recessions, and landslide elections do not greatly affect party identification; large shifts in party attachments occur only when the social imagery of a party changes, as when African Americans became part of the Democratic Party in the South after the passage of the Voting Rights Act. Conclusions are based on a wealth of data analysis using individual-level and aggregate survey data from the United States and abroad.
+
+This study offers a new perspective on party identification: developed in the early childhood and becomes stable afterwards. The stability of partisanship somewhat supports the view that partisan bias and stereotypes exist.
+
+
+### @AbramowitzSaunders2006 Exploring the Bases of Partisanship
+
+**Author** Alan I. Abramowitz and Kyle L. Saunders
+
+**Summary**
