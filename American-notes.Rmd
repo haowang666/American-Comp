@@ -1383,9 +1383,85 @@ The authors maintain that individuals form partisan attachments early in adultho
 
 This study offers a new perspective on party identification: developed in the early childhood and becomes stable afterwards. The stability of partisanship somewhat supports the view that partisan bias and stereotypes exist.
 
+Party ID is based on voters' social identity rather than a rational calculation of policy and claims. 
 
 ### @AbramowitzSaunders2006 Exploring the Bases of Partisanship
 
 **Author** Alan I. Abramowitz and Kyle L. Saunders
 
 **Summary**
+
+Party ID is related more to voter's ideological preferences, rather than social group membership claimed by Green, Palmquist and Schickler 2002. Sincethe 1970s, Republican identification has increased substantially among whites inside and outside of the South with the most dramatic gains occurring among married voters, men, and Catholics. Within these subgroups, however, Republican gains have occurred mainly or exclusively among self-identified conservatives. As a result,the relationship between ideology and party identification has increased dramatically. This has important implications for voting behavior. Increased consistency between ideology and party identification has contributed to higher levels of party loyalty in presidential and congressional elections.
+
+## Political Cognition
+
+
+###@KuklinskiQuirk2000 Reconsidering the Rational Public
+
+**Author** James H. Kuklinski and Paul J. Quirk
+
+**Summary**
+
+Heuristics are not that great, collective public opinion may be irrational as well. We should be cautious about public opinion research. 
+
+From the cognitive psychology perspective, people have 1. policy stereotypes, 2. overconfidence about their political beliefs 3. resistance to correction 4. highly influenced by early arguments. 5. have biased interpretation of messages. 
+
+### Daniel Schacter  1999 Seven Sins of Memory
+
+Transience
+Transience refers to the general deterioration of a specific memory over time. Much more can be remembered of recent events than those further in one's past. This is especially true with episodic memory, because every time an episodic memory is recalled, it is re-encoded within the hippocampus, altering the memory each time one recalls it. Transience is caused because of interference. There are two types of interference: proactive interference (old information inhibits the ability to remember new information), and retroactive interference (new information inhibits the ability to remember old information).
+
+Absent-mindedness
+This form of memory breakdown involves problems at the point where attention and memory interface. Common errors of this type include misplacing keys or eyeglasses, or forgetting appointments, because at the time of encoding sufficient attention was not paid to what would later need to be recalled.
+
+Blocking
+Blocking is when the brain tries to retrieve or encode information, but another memory interferes with it. Blocking is a primary cause of Tip of the tongue phenomenon (a temporary inaccessibility of stored information).
+
+Misattribution
+Misattribution entails correct recollection of information with incorrect recollection of the source of that information. For example, a person who witnesses a murder after watching a television program may incorrectly blame the murder on someone he or she saw on the television program. This error has profound consequences in legal systems because of its unacknowledged prevalence and the confidence which is often placed in the person's ability to impart correctly information critical to suspect identification.
+
+Suggestibility
+Suggestibility is somewhat similar to misattribution, but with the inclusion of overt suggestion. It is the acceptance of a false suggestion made by others. Memories of the past are often influenced by the manner in which they are recalled, and when subtle emphasis is placed on certain aspects which might seem likely to a specific type of memory, those emphasized aspects are sometimes incorporated into the recollection, whether or not they occurred. For example, a person sees a crime being committed by a redheaded man. Subsequently, after reading in the newspaper that the crime was committed by a brown-haired man, the witness "remembers" a brown-haired man instead of a redheaded man.
+
+Bias
+The sin of bias is similar to the sin of suggestibility in that one's current feelings and worldview distort remembrance of past events. This can pertain to specific incidences and the general conception one has of a certain period in one's life. Memories encoded with a certain amount of stimulation and emotion are more easily recalled. Thus, a contented adult might look back with fondness on his or her childhood, induced to do so by positive memories from that time, which might not be representative of his/her average mood during his/her childhood.
+
+Persistence
+This failure of the memory system involves the unwanted recall of information that is disturbing. The remembrance can range from a blunder on the job to a truly traumatic experience, and the persistent recall can lead to formation of phobias, post-traumatic stress disorder, and even suicide in particularly disturbing or intrusive instances.
+
+The first three sins involve different types of forgetting, the next three refer to different types of distortions, and the final sin concerns intrusive recollections that are difficult to forget. 
+
+### @Lupia1994 Shortcuts versus Encyclopedias: Information and Voting Behavior in California Insurance Reform Elections
+
+
+**Author** Arthur Lupia
+
+**Summary**
+
+Voters in mass elections are notorious for their apparent lack of information about relevant political matters. While some scholars argue that an electorate of well-informed voters is necessary for the production of responsive electoral outcomes, others argue that apparently ignorant voters will suffice because they can adapt their behavior to the complexity of electoral choice.To evaluate the validity of these arguments, I develop and analyze a survey of California voters who faced five complicated insurance reform ballot initiatives. I find that access to a particular class of widely available information shortcuts allowed badly informed voters to emulate the behavior of relatively well informed voters. This finding is suggestive of the conditions under which voters who lack encyclopedic information about the content of electoral debates can nevertheless use information shortcuts to vote as though they were well informed.
+
+
+### @WilsonSchooler1991 Thinking Too Much
+
+**Author** Timothy Wilson and Jonathan Schooler
+
+**Summary**
+In Study 1, college students' preferences for different brands of strawberry jams were compared with experts' ratings of the jams. Students who analyzed why they felt the way they did agreed less with the experts than students who did not. In Study 2, college students' preferences for college courses were compared with expert opinion. Some students were asked to analyze reasons; others were asked to evaluate all attributes of all courses. Both kinds of introspection caused people to make choices that, compared with control subjects', corresponded less with expert opinion. Analyzing reasons can focus people's attention on nonoptimal criteria, causing them to base their subsequent choices on these criteria. Evaluating multiple attributes can moderate people's judgments, causing them to discriminate less between the different alternatives.
+
+
+## Information Process Model
+
+### Elaboration Likelihood Model
+
+**Author** Richard Petty and John Cacioppo
+
+ELM is a dual processing model:
+
+Under the central route, persuasion will likely result from a person's careful and thoughtful consideration of the true merits of the information presented in support of an advocacy. The central route involves a high level of message elaboration in which a great amount of cognition about the arguments are generated by the individual receiving the message. The results of attitude change will be relatively enduring, resistant, and predictive of behavior.
+
+On the other hand, under the peripheral route, persuasion results from a person's association with positive or negative cues in the stimulus or making a simple inference about the merits of the advocated position. The cues received by the individual under the peripheral route are generally unrelated to the logical quality of the stimulus. These cues will involve factors such as the credibility or attractiveness of the sources of the message, or the production quality of the message.[5] The likelihood of elaboration will be determined by an individual's motivation and ability to evaluate the argument being presented.
+
+Central route to persuasion occurs when a person is persuaded by the content of the message. Peripheral route to persuasion occurs when a person is persuaded by something other than the message's content.
+
+### Heuristic-Systematic Model
+
