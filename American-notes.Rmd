@@ -16,7 +16,7 @@ fontfamily: mathpazo
 fontsize: 12pt
 spacing: single
 papersize: letter
-bibliography: ~/Dropbox/bib/Haowang.bib
+bibliography: D:/Dropbox/bib/Haowang.bib
 biblio-style: apsr
 citecolor: blue
 header-includes: \usepackage{graphicx, longtable, float, subfigure}
@@ -1464,4 +1464,77 @@ On the other hand, under the peripheral route, persuasion results from a person'
 Central route to persuasion occurs when a person is persuaded by the content of the message. Peripheral route to persuasion occurs when a person is persuaded by something other than the message's content.
 
 ### Heuristic-Systematic Model
+
+Shelly Chaiken
+
+Heuristic processing uses judgmental rules known as knowledge structures that are learned and stored in memory. The heuristic approach offers an economic advantage by requiring minimal cognitive effort on the part of the recipient. Heuristic processing is governed by availability, accessibility, and applicability. Availability refers to the knowledge structure, or heuristic, being stored in memory for future use. Accessibility of the heuristic applies to the ability to retrieve the memory for use. Applicability of the heuristic refers to the relevancy of the memory to the judgmental task. Due to the use of knowledge structures, heuristic information processors are likely to agree with messages delivered by experts, or messages that are endorsed by others, without fully processing the semantic content of the message. In comparison to systematic processors, heuristic processors judge the validity of messages by relying more on accessible context information, such as the identity of the source or other non-content cues, which are more persuasive to them than the message characteristics. Heuristic views de-emphasize detailed information processing and focuses on the role of simple rules or cognitive heuristics in mediating persuasion.
+
+Systematic processing involves comprehensive and analytic, cognitive processing of judgment-relevant information. The systematic approach values source reliability and message content, which may exert stronger impact on persuasion, when determining message validity. Judgments developed from systematic processing rely heavily on in-depth treatment of judgment-relevant information and respond accordingly to the semantic content of the message. Recipients developing attitudes from a systematic basis exert considerable cognitive effort and actively attempt to comprehend and evaluate the message's arguments. Systematic recipients also attempt to assess their validity as it relates to the message's conclusion. Systematic views of persuasion emphasize detailed processing of message content and the role of message-based cognitions in mediating opinion change. While recipients utilizing systematic processing rely heavily on message content, source characteristics and other non-content may supplement the recipients' assessment of validity in the persuasion message.
+
+
+Both heuristic and systematic processes may occur independently. It is also possible for both to occur simultaneously in an additive fashion or in a way that the judgmental implications of one process lend a bias nature to the other. The heuristic-systematic model includes the hypothesis that attitudes developed or changed by utilizing heuristic processing alone will likely be less stable, less resistant to counterarguments, and will be less predictive of subsequent behavior than attitudes developed or changed utilizing systematic processing.
+Recipients may sometimes choose to accept message conclusions they might otherwise have correctly rejected, or vice versa, had they properly invested the time and effort needed to receive and scrutinize the message. When the recipient views the argumentation judgment as being inconsequential, the recipient will likely place greater value on economical concerns than reliability concerns.
+When economic concerns are predominant, the recipient will likely employ heuristic processing when formulating argumentation judgment. Reliability concerns are influenced by the level of the recipient's issue-involvement or response-involvement.
+When reliability concerns are predominant, the recipient will likely employ systematic processing when formulating argumentation judgment. When recipients perceive significant importance in formulating highly accurate argumentation judgment, the recipient will likely employ a systematic processing strategy. Source credibility affects persuasion under conditions of low, but not high, issue-involvement and response-involvement.
+
+### Fazio and Towles-Schwen The MODE Model of Attitude-Behavior Processes
+
+**Author** Russel H. Fazio and Tamara Towles-Schwen
+
+**Summary**
+MODE model
+This is the theory of attitude evaluation (motivation and opportunity as determinants of the attitude - behavior relation). When both are present, behavior will be deliberate. When one is absent, impact on behavior will be spontaneous. The MODE model was developed by Fazio. A person's attitude can be measured in two different ways:
+Explicit measure
+Implicit measure
+
+Explicit measure are attitudes at the conscious level, that are deliberately formed and easy to self-report. Implicit measures are attitudes that are at an unconscious level, that are involuntarily formed and are typically unknown to us.[29] Both explicit and implicit attitudes can shape an individual's behavior. Implicit attitudes, however, are most likely to affect behavior when the demands are steep and an individual feels stressed or distracted.
+
+### @HaugtvedtPetty1992 Personality and Persuasion: Need for Cognition
+
+**Author** Curtis P. Haugtvedt and Richard E. Petty
+
+**Summary**
+
+Hypotheses about the persistence and resistance of attitudes and beliefs formed by individuals scoring high or low in Need for Cognition (NC; Cacioppo & Petty, 1982) were derived from the Elaboration Likelihood Model of persuasion (Petty & Cacioppo, 1986). In Study 1, both high-NC and low-NC individuals formed evaluatively similar attitudes toward an unfamiliar attitude object (a new product) after exposure to a persuasive message (an advertisement). The newly formed attitudes of high-NC individuals decayed less than the newly formed attitudes of low-NC individuals over a 2-day period. In Study 2, both high-NC and low-NC individuals were persuaded by an initial message that a food additive was unsafe. However, when immediately exposed to a second countermessage arguing that the product was safe, the initial experimentally created beliefs of high-NC individuals were shown to be more resistant to change than the experimentally created beliefs of low-NC individuals.
+
+## Emotions and automaticity
+
+### @Mackuenetal2007 The Theory of Affective Intelligence in American Democracy
+
+**Author** Michael Mackuen and George E. Marcus and W. Russell Neuman and Luke Keele
+
+**Year** 2007
+
+**Summary**
+
+
+AIT argues that the Normal Vote Model and the Rational Choice Model have both gotten something right, but share a similar error by taking a special case of political judgment and treating it as if it were the general case. How can it be that the Normal Vote and Rational Choice models are special cases, that is, theoretical specifications that apply only in some rather than in all circumstances? The two established theories presume that voters have invariant patterns of judgment and behavior. In the case of the Normal Vote account, voters are either partisan or not, and these immutable qualities fully control what people do, for example, whether they will pay attention (partisans do, independents do not), when they decide for whom to vote (partisans early in campaigns and nonpartisans late), and so forth.
+
+Partisans have certain qualities and they consistently display them, just as nonpartisans display their characteristic qualities (as we shall see, a similar case can be made for ideology as a stable defining quality). In the case of Rational Choice theory (or its more recent variant, bounded rationality), voters think and act rationally all the time and in every circumstance so long as at least minimal stakes are in play. The orienting insight of Affective Intelligence Theory is that voters shift between different decision strategies, roughly along the lines suggested by the dual process understanding of human judgment.
+
+
+AIT: voters have different decision patterns. In the familiar condition, it is efficient to swiftly and automatically rely on previous learned rountines. Under unfamiliar condition, people turn to more considerations. 
+
+Familiar and rewarding context -- enthusiasm -- habituated choice
+
+Unfamiliar and uncertain context -- anixety -- deliberative choice
+
+### @LodgeTaber2013 Rationalizing Voter
+
+**Author** Milton Lodge and Charles Taber
+
+**Year** 2013
+
+**Summary**
+
+
+
+
+
+## Social Identity Theory
+
+
+
+### 
+
 
