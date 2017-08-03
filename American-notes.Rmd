@@ -16,7 +16,7 @@ fontfamily: mathpazo
 fontsize: 12pt
 spacing: single
 papersize: letter
-bibliography: D:/Dropbox/bib/Haowang.bib
+bibliography: ~/Dropbox/bib/Haowang.bib
 biblio-style: apsr
 citecolor: blue
 header-includes: \usepackage{graphicx, longtable, float, subfigure}
@@ -1527,7 +1527,10 @@ Unfamiliar and uncertain context -- anixety -- deliberative choice
 
 **Summary**
 
+The John Q. Public Model of automatic beliefs, attitudes, and behaviors. 
+Hot cognitiion hypothesis: the claim that with repeated co-activation socio-political concepts become positively or negatively charged and this afftective charge becomes directly linked to the concepts in long-term memory. Thereupon 'feelings' come to mind spontaneouly upon mere activation of the object represented in long-term memory, be it a person, a group, an issue or an event ect.
 
+Emotions come before rational judgements. Motivated reasoning exists. 
 
 
 
@@ -1535,6 +1538,180 @@ Unfamiliar and uncertain context -- anixety -- deliberative choice
 
 
 
-### 
+### @Conover1988 The Role of Social Groups in Political Thinking
+This article outlines a cognitive-affective model of the role of social groups in political thinking. It assumes that people have stored information and emotional reactions to social groups, and that people are purposive in their thinking about social groups in the sense that they are interested in understanding what various groups have obtained and whether it is deserved. Conovor differentiates two types of in-group attachment: group membership and group identification, and the later part includes both the objective membership and psychological attachment. 
+Conover's study is based on the 1984 National Election Study Pilot Study. Questions are constructed around with women's issues. The results show that for ingroups, group identification and consciousness can help structure political thinking so more pro-group actions are taken. In contrast, for out-groups, political sympathy is less likely to occur and people still prefer pro-group issues.
+
+This study touches some important implications in gender, race and parties. Conover only used gender related identities in this study, but nevertheless shows that being male/female changed their views of political empathy. It will be interesting to check if similar effect exists among partisan members. 
+
+
+### Henry Tajfel 1979 Social Identity Theory
+
+Tajfel (1979) proposed that the groups (e.g. social class, family, football team etc.) which people belonged to were an important source of pride and self-esteem. Groups give us a sense of social identity: a sense of belonging to the social world.
+
+The central hypothesis of social identity theory is that group members of an in-group will seek to find negative aspects of an out-group, thus enhancing their self-image.
+
+Prejudiced views between cultures may result in racism; in its extreme forms, racism may result in genocide, such as occurred in Germany with the Jews, in Rwanda between the Hutus and Tutsis and, more recently, in the former Yugoslavia between the Bosnians and Serbs.
+
+Henri Tajfel proposed that stereotyping (i.e. putting people into groups and categories) is based on a normal cognitive process: the tendency to group things together. In doing so we tend to exaggerate:
+
+1. the differences between groups
+
+2. the similarities of things in the same group.
+
+We categorize people in the same way. We see the group to which we belong (the in-group) as being different from the others (the out-group), and members of the same group as being more similar than they are. Social categorization is one explanation for prejudice attitudes (i.e. “them” and “us” mentality) which leads to in-groups and out-groups.
+
+
+# Women and Politics
+## Representation
+
+### Dovi 2011 Political Representation
+Dovi provides an overview of the theoretical contributions on representation. She discusses a number of different conceptions of what a representative should be, how they should be held accountable and how we should think about the relationship between representatives and their constituents. She brings up the work of a number of authors who have problematized the principalagent conception of the relationship between representatives and their constituents and also points out that we need to broaden our conception of representation beyond elected officials to include non-governmental organizations. 
+
+Main Findings: 
+(a) The author defines political representation as follows: political representation is the activity of making citizens’ voices, opinions, and perspectives present in the public policy making processes. Political representation occurs when political actors speak, advocate, symbolize, and act on the behalf of others in the political arena. In short, political representation is a kind of political assistance. 
+
+(b) Delegate vs. Trustee representations: Delegate conceptions of representation require representatives to follow their constituent’s preferences, while trustee conceptions require representatives to follow their own judgment about the proper course of action. Any adequate theory of representation must grapple with these contradictory demands. 
+
+(c) Pitkin (1967) Four views of representation: 
+i. Formalistic Representation: The institutional arrangements that precede and initiate representation. Formal representation has two dimensions: authorization and accountability.
+
+ii. Symbolic Representation: The ways that a representative 'stands for' the represented, that is, the meaning that a representative has for those being represented. 
+
+iii. Descriptive Representation: The extent to which a representative resembles those being represented. 
+
+iv. Substantive Representation: The activity of representatives – that is, the actions taken on the behalf of, in the interest of, as an agent of, and as a substitute for the represented. 
+
+(d) Identifies three major problems raised by the literature on representation: i. The first problem is the proper institutional design for representative institutions within democratic polities. ii. ways in which democratic citizens can be marginalized by representative institutions iii. the relationship between representation and democracy
+
+
+### Beth Reingold and Michele Swers 2011
+
+Viewing Women's interests as endogenous: interets are interesting in and of themselves
+
+
+### Dovi 2002 
+
+Arguing for descriptive representation criteria:  some descriptive representatives are preferable to others:  P
+possess strong mutual relationships with dispossessed subgroup of historically disadvantaged groups.
+
+### Htun 2004 Is Gender Like Ethnicity?
+Some 50 countries officially allocate access to political power by gender, ethnicity, or both. Yet in the world’s electoral democracies, the policies used for women differ systematically from those used for ethnic groups. The former receive candidate quotas in parties; the latter, reserved seats in legislatures. Why? My explanation focuses on the varying ways that gender and ethnic identities intersect with partisan cleavages and on the distinct “work” performed by the different remedies for underrepresentation. Quotas, which make space within existing parties, are appropriate for groups whose boundaries crosscut partisan divisions. Reservations, which create incentives for the formation of group-specific parties and permit them direct representation, suit groups whose boundaries coincide with political cleavages. Since gender is crosscutting while ethnicity tends to be coinciding, women receive candidate quotas while ethnic groups get legislative reservations. Claims for inclusion via quotas pose less of a challenge to liberal institutions than claims to difference through legislative reservations. Case studies of representational politics in France, India, and Peru illustrate the argument.
+
+### Jane Mansbridge 1999 Shouldn Blacks Represent blacks and Women Represent Women? Yes
+
+Disadvantaged groups gain advantages from descriptive representation in at least four contexts. In contexts of group mistrust and uncrystallized interests, the better communication and experiential knowledge of descriptive representatives enhances their substantive representation of the group's interests by improving the quality of deliberation. In contexts of historical political subordination and low de facto legitimacy, descriptive representation helps create a social meaning of "ability to rule" and increases the attachment to the polity of members of the group. When the implementation of descriptive representation involves some costs in other values, paying those costs makes most sense in these specific historical contexts.
+
+
+### Michele Swers 1998 Are Women More Likely to Vote for Women's Issue Bills?
+
+Women will not necessarily exhibit a more liberal ideology than their male couterparts on all issues, however, the more directly an issue affects women, the more likely it is that women will vote together across party lines.
+
+### Rosabeth Moss Kanter and Drude Dahlerup Critical Mass Theory
+(1) with an increase in relative numbers, minority members are potentially allies, can form coalitions, and can affect the culture of the group; (2) with an increase in relative numbers, minority members begin to become individuals differentiated from each other; and (3) despite a lack of change in relative numbers, the presence of feminist or ‘women-identified-women’ can reduce performance pressures, token isolation and role entrapment if the particular women involved form coalitions.
+
+
+
+
+## Women Participation
+
+### Angela High-pippet and John Comer 1998 Female Enpowerment
+
+The concept of political empowerment has been applied to ethnic and racial minorities, where it has been shown to positively influence political attitudes and participation. We examine whether political empowerment has the same positive consequences for women. Using data from the 1992 National Election Study and Almanac for American Politics 1990, 1992, and 1994, we explore whether women who are represented by women in Congress are more likely to be interested in and participate in politics, have a greater sense of political efficacy, competence, and trust, and evaluate Congress as an institution more favorably than women represented by men. In general, we find women who are represented by women are more interested, participate more, and have greater senses of political efficacy and political competence. Moreover, the findings clearly seem to be a function of empowerment rather than other factors dial might account for both the election of a woman to Congress and differences in attitudes and behavior identified above.
+
+### Amanda Claydon 2015
+Lesotho Case
+
+Do affirmative action measures for women in politics change the way constituents view and interact with their female representatives? A subnational randomized policy experiment in Lesotho with single-member districts reserved for female community councilors provides causal evidence to this question. Using survey data, I find that having a quota-mandated female representative either has no effect on or actually reduces several dimensions of women’s self-reported engagement with local politics. In addition, implications from the policy experiment suggest that the quota effect is not accounted for by differences in qualifications or competence between the different groups of councilors, but rather stems from citizens’ negative reactions to the quota’s design.
+
+### Amy C. Alexander 2012 Change in Women's Descriptive Representation and the Belief in women's Ability to Govern:  A Virtuous Cycle
+
+### Christina Wolbrecht and David E. Campbell 2007 Leading By Example: Female Memebrs of Parliaments as Political Role Models
+
+One argument advanced in favor of descriptive representation is that female politicians serve as role models, inspiring other women to political activity. While previous research finds female role models affect women's psychological engagement, few studies report an impact on women's active participation, and none have done so in cross-national research. Our work also is the first to consider whether the impact of female role models is, as the term implies, greater among the young. Using three cross-national datasets, we find that where there are more female members of parliament (MPs), adolescent girls are more likely to discuss politics with friends and to intend to participate in politics as adults, and adult women are more likely to discuss and participate in politics. The presence of female MPs registers the same effect on political discussion regardless of age, but the impact on women's political activity is far greater among the young than the old.
+
+
+
+
+
+
+## Political Recruitment
+
+### Kate Kenski and Erika Falk 
+Of What Is That Glass Ceiling Made?: A Study of Attitudes About Women and the Oval Office
+
+Using data from the 2000 National Annenberg Election Survey, this study examines the predictors of reporting that a woman or man would do a better job as president considering the national issue most important to the respondent. Gender, education, and ideology are strong predictors of presidential gender preference. Naming health care as the most important problem facing the nation is positively associated with believing a female president would do a better job, even when controlling for sociodemographic, party identification, and ideology variables. Selecting taxes as the problem is associated with believing that a male president would do a better job.
+
+
+### Susan J. Caroll and Krisa Jenkins 2001 Unrealized Opportunity
+
+Term Limits and the Representation of Women in State Legislatures
+
+Using data from the state legislative elections of 1998 and 2000, this article examines empirically the expectation prevalent in the women and politics literature that the implementation of term limits will lead to increases in the numbers of women legislators. At the state house level, in both elections more women were forced to leave state house seats because of term limits than were elected to house seats that were vacated by term-limited incumbents. In contrast, at the state senate level, women increased their numbers in term-limited seats in 1998 and maintained their numbers in 2000. Thus far, women have fared better in term-limited seats for state senates than for state houses because of a “pipeline” effect whereby some women representatives who have been term-limited out or who face a term-limited future have successfully taken advantage of opportunities to seek senate seats that opened up because of term limits.
+
+
+### Louise Chappell and Georgina Waylen 2013 Gender and Hidden Life of Institutions
+
+New Institutionalism has shown that the ‘rules of the game’ are crucial to structuring political life in terms of constraining and enabling political actors and influencing political outcomes. A limitation of this approach, however, has been its overemphasis on formal rules, with much less attention paid to how informal rules work alongside and in conjunction with formal institutions to shape actors and outcomes. This article contributes to an emerging literature that highlights the importance of informal institutions by bringing into focus one element that has been hidden in these debates – the influence of gender norms and practices on the operation and interaction between formal and informal institutions. It highlights some of the key benefits of a gender analysis for understanding political institutions in both their formal and informal guise and considers some of the challenges in building a research agenda that requires new methods and techniques of inquiry.
+
+### Kira Sanbonmatsu 2006 Do Parties Know that "Women Win"? 
+Party Leader Beliefs about Women's Electoral Chances
+
+Women’s groups emphasize the view that women are viable candidates in American politics with the popular slogan “when women run, women win.” What do party leaders believe about women’s electoral chances? Do parties know that “women win”? In an analysis of state legislative election results, I find few gender differences in candidates’ vote share and success rates—two widely used measures of the status of women candidates. Yet I find that many party leaders report that one gender has an electoral advantage. These party leader perceptions are related to the objective measures of women’s electoral success to some extent. However, most analyses reveal a gap between elite perceptions and objective measures of women’s status as candidates. This disjuncture suggests that scholars may have overestimated the extent of party leader and voter support for women.
+
+
+### @FoxLawless2004 Gender and the Decision to Run for Office
+
+**Author** Rihcard Fox and Jennifer Lawless
+
+**Journal** AJPS
+
+**Summary**
+A critical void in the research on women's underrepresentation in elective office is an analysis of the initial decision to run for office. Based on data from our Citizen Political Ambition Study, the first large-scale national survey of potential candidates, we examine the process by which women and men emerge as candidates for public office. We find that women who share the same personal characteristics and professional credentials as men express significantly lower levels of political ambition to hold elective office. Two factors explain this gender gap: first, women are far less likely than men to be encouraged to run for office; second, women are significantly less likely than men to view themselves as qualified to run. Our findings call into question the leading theoretical explanations for women's numeric underrepresentation and indicate that, because of vestiges of traditional sex-role socialization, prospects for gender parity in U.S. political institutions are less promising than conventional explanations suggest.
+
+### @Fultonetal2006 Gender and Ambition to Run for Congress
+
+**Author** Sarah A. Fulton and Cherie D. Maestas and L. Sandy Maisel and Walter J. Stone
+
+**Journal** PRQ
+
+**Summary**
+
+Do men and women differ in their decisionmaking calculus for higher office? To answer this question, we use a survey of state legislators (SLs) in 1998 to examine the conditions under which male and female SLs seek a position in the U.S. House of Representatives. We consider three ways in which gender may influence ambition and the decision to run—indirectly, directly, and interactively—and we find evidence of all three effects. Female state legislators are less ambitious than males for a U.S. House seat, a difference that largely stems from gender disparities in child-care responsibilities. However, despite their lower ambition, female SLs are just as likely as their male counterparts to seek a congressional position. This apparent puzzle is solved by the finding that the expected benefit of office mediates the relationship between ambition and the likelihood of running. Female SLs are much more responsive to the expected benefit of office than are males, offsetting their diminished ambition level. The sense of a woman is reflected in female state legislators’ increased sensitivity to the strategic considerations surrounding a congressional candidacy. Because men and women respond differently to the intersection of ambition and opportunity, gender constitutes an important, yet often neglected, explanatory variable in the decision-to-run calculus.
+
+
+### Niven 2006 Negative Recruitment and the Gender Imbalance in State Legislative Candidacy
+
+Candidate dropouts are a crucial and understudied population; they represent a significant source for increasing women’s candidacies and addressing the gender imbalance in office. Survey evidence demonstrates that women are discouraged from running in districts in which their party is strong, while men are discouraged from running in districts in which their party is weak. Are women more likely to drop out of an election race than are men? If so, why? Using election records and an original survey, this article examines the experiences of all declared candidates for the state legislature in Florida in 2000 and 2002. The sample includes candidates who won office, who lost their races, or who dropped out along the way. Evidence here shows that women are no more likely to drop out of a state legislative race than are men. Among dropouts, however, women are disproportionately likely to drop out from districts in which their party is strong. The results offer support for the contention that political elites continue to value men’s political leadership more than women’s, and that increasing the number of female officeholders may require efforts to support declared women candidates in the earliest stages of their candidacies.
+
+
+## Media and Gender Stereotype
+
+### J. H. Black and L. Erikson 2003 Do women politicians need to be better?
+
+Although much contemporary research has found that women candidates do not lose votes, little is known about whether a negative voter bias against women candidates may be disguised or offset by their superior qualifications. Using a unique 1993 Canadian data set that combines aggregate data with survey information from candidates themselves, this paper tested for but did not find such an effect. In fact, the main results indicate that, among similarly situated women and men candidates, women actually had a small vote advantage, even taking into account their higher qualifications. Further analysis aimed at exploring the comparative votegetting ability of women candidates reveals that neither turnout nor urban/rural constituencies appeared to be relevant factors but that office-holding experience in non-political organizations made a modest contribution to women’s electoral advantage.
+
+### Leonie Huddy and Nayda Terkildsen 1993 The Consequences of Gender stereotype for women at different levels of office
+
+Despite the recent electoral success of female candiates in local, state, and national elections, we find that voters' gender stereotypes have potentially negative implications for women candidates, especially when running for national office. We test the political impact of stereotypes by examining the relative importance of typical "male" and "female" personality traits and areas of issue competence for "good" politicians and a hypothetical candidate at different types and levels of office. Overall, we find a preference for "male" characteristics at higher levels of office. We attempt to reconcile the existence of gender stereotypes, which portray women candidates as insufficiently aggressive or less competent in their dealings with the military with the recent electoral success of women in national and statewide elections.
+
+### Kim Fridkin 1992 Does Being Male Help: An Investigation of the Effects of Candidate Gender and Campaign Coverage on the Evaluation of U.S. Senate Candidates
+
+This study examines the possibility that the news media, by covering male and female candidates differently, may influence the success of female candidates. A content analysis of newspaper coverage of U.S. Senate campaigns shows that male and female Senate candidates are covered differently in the news. An experiment was conducted to explore the consequences of these differences in coverage, as well as the significance of the candidates' gender, for evaluations of Senate candidates. The experimental results suggest that gender differences in coverage tend to advantage male candidates. For instance, candidates who are covered like male candidates in the news are considered more viable than candidates who are covered like female candidates. Sex stereotypes, on the other hand, can advantage female candidates. Female candidates are viewed as more compassionate and more honest than identical male candidates. The findings from this study support the hypothesis that the mass media may influence a woman's chances of success at the polls. Male and female candidates are covered differently in the news and these differences often produce negative assessments of women candidates.
+
+### Dianne Bystrom and Terry Robertson and Mary Christine Banwart 2001
+Framing the Fight
+
+The few research studies that explore the media's portrayal of female candidates in comparison to male candidates have been limited to general election campaigns and usually to one level of office. To expand this area of research, this study examines the media's portrayal of female and male candidates in primary races at two levels of political leadership in which the representation of women is strikingly low—state governor and U.S. senator—in the 2000 campaign. This study's exploration of how the media portrays female and male candidates relies on a content analysis of articles from major national newspapers and representative major regional newspapers. By studying the media's portrayal of male and female candidates during primary elections at two levels of political leadership, this study provides an understanding about how men and women are framed differently even when vying for their own party's bid and, thus, new insights into how such primary framing can translate into bias during the general elections.
+
+### Elizabeth van Acker 2003 Media Representation of Women Politicians in Australia and New Zealand
+
+Senior women politicians are a novelty, receiving enormous media attention. They have had to deal with high expectations in the media and other political institutions such as Parliament. This essay examines media portrayals of women politicians in Australia and New Zealand. It argues that the media embrace women quickly and fully early in their careers, but attack them very fiercely when things go wrong. The media creates elevated hopes around them when they enter the political arena. Initially, these women can do no wrong as the media raises them on a pedestal. Those who cannot meet the high expectations, however, fall from the pedestal and are often attacked or trivialised. A more recent development, particularly by the Australian media, shapes women into stars, promoting them as personalities. The women themselves may encourage or welcome the celebrity tag. The minute they make mistakes, however, they are judged harshly. I argue that media representations of women’s political styles illustrate perceptions about politics that continue to reflect entrenched gender norms. One-dimensional media portrayals do little to challenge these norms. Setting up false distinctions of femininity and masculinity contributes little to pushing women’s interests on to the political agenda.
+
+
+
+
+
+
 
 
