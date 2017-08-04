@@ -1712,6 +1712,265 @@ Senior women politicians are a novelty, receiving enormous media attention. They
 
 
 
+# Personal Thoughts
+
+Bernisky: On Public Opinion
+
+## Unequal Democrcy arguement: 
+
+Bartels 2008: Voters myopic, Rep has better election-year performance (Hibbs 1977 political business cycle)
+
+Martin Gilens 2013
+
+Brady and Verba Voice and Equality 1995
+
+## Congress
+
+Sin 2014: Separation of Power and Legislative Organization
+House rule changes is a game between intraparty group, Senate and the president
+
+Justin Grimmer Representation Style 2013
+
+Schickler 2001: Disjointed Pluralism:  Institutional Innovations and the Development of Congress: members have various interests, different interests are salient at different time
+
+David Mayhew 1974 The Electoral Connection: Mayhew presented a purposive theory in which members were assumed to be motivated solely by a desire for reelection. Of little import were the political parties. Their only purpose was to foster the electoral wellbeing of individual representatives, and otherwise leave them free to pursue their own interests. 
+
+Aldrich and Rohde 2000 Conditional Party Government:  The condition in conditional party government concerns the distribution of policy preferences in the two parties. It is increasingly well satisfied the more homogenous the preferences of Members are within each party (especially the majority party), and the more different the preferences are between the two parties’ Members. The more one party agrees that it wants outcomes that are different from those desired by the opposition, the more the condition is satisfied.
+
+Schiller 1995 Senators as political entrepereneurs: senattor's use of bill sopnsorship is a funtion of institutional and political variables including senority, proximity of reelection, size of state economy, stafff size, committee membership and committee positions
+
+Krehbiel 1990 Congressional Committee Preference Outliers: no significant difference of the policy preferences between the standing committee and the legislature as a whole
+
+Jackson and Kingdon 1992 Ideology, Interest Group Scores and Legislative Votes: ADA (American Democratic Action) score is measured by roll-call votes, can't be used as an IV to explain vote choices. 
+
+
+## Party in Congress
+Krehbiel 1993 Where's the party: party votes defined as vote according to partisanship despite personal disagreement. no significant evidence
+
+Krehbiel 1999 Paradoxes of Parties in Congress: measurements of the vote-based partisanship is inherently flawed, cannot detect the true partisan effect
+
+Krehbiel 1995 Cosponsors and wafflers from a to Z: bill sponsorship is preference-bases. Wallfing: defined as bill cosponsorhsip but refusal to sign a discharge pentition for the bill, should be negatively related to prference extremity and unaffected by the party membership.
+
+Binder Lawrence and Maltzman 1999 Uncovering the Hidden Effect of Party: Reexamning the 1994 'A to Z' petition, separating individual's policy preference with partisan labels, they found clear partisan divergence
+
+Hager and Talbert 2000 using roll-call data from 1950s to 1990s, regression analysis show the effect of party voting. Switchers change votes after switching
+
+Cooper and Brady 1981 Leadership style in congress: when party strength is high, more hierarchial style, when weak more bargaining style. 
+
+Snyder and Groseclose 2000: differentiating procedural and substantive roll-call votes, partisan effect important on procedural votes, as well as economic and security -related substansive topics.
+
+Cox and McCubbins 1994 the Stability of Parties in the House: party members are bonded by extra-legislative organization and bond posting. Caucus members must obey caucus rules, violations will cause expulsion. 
+
+Patterson and Caldeira 1988 Party Voting in the Congress: Party voting less in Senate due to the more stable term limits: a considerable lag. 
+
+## Agenda Setting
+
+Cox and McCubbins 1993 Legislative Leviathan: Majority party cartels sets the agenda rules. 
+
+McCubbins and Schwartz 1984 Congressional Oversight Overlooked, Police Patrols versus Fire Alarms Police patrol oversight,  is the routine work of "patrolling" the executive branch looking for problems in program implementation. It is usually centralized in a legislature in an audit or program review committee with a staff agency that evaluates the performance of executive agencies. It relies on formal committee hearings on agency operations and on interim studies and reports on legislative performance. Police patrol oversight is usually initiated by the legislature and tends to be formal and systematic.
+Fire alarm oversight of executive programs by legislatures occurs when interest groups complain about how programs are administered, the media expose programmatic waste or abuse, or constituents report problems with government services that reveal flaws in program design or implementation. It is highly decentralized, relies on outside actors to "sound an alarm", and is less than systematic.
+Congress put more attention to fire alarm oversight, in part because it provides media attention and credit-taking opportunities, and that it is an equally effective way of correcting problems with government programs.
+
+## Partisanship and Ideology
+
+Hans Noel 2013 Political Ideology and Political Parties: ideologues are different from partisans, political intellucts precedes partisans
+
+Conover and Feldman 1981 The Origins and Meaning of Liberal/Conservative Self-Identifications. affective evaluation, ideology is not unidimensional
+
+Desmarais et al. 2015 Extended Party Network: parties backed by interest groups
+
+John Aldrich 1995 Why Parties: parties are endogenous insitituions for election
+
+Bawn et al. 2012 A Theory of Political Parties: parties driven by policy demanders 
+
+Hans Noel 2013 Political Ideology and Political Parties
+
+Lane 1962 Political Ideology most American's view of the events of everyday life are morselized, they are not seen as a connected pattern. Ideologues takes his cue on the interpretation of information from all sources 
+
+Lavine, Johnson and Steenbergen 2015 The Ambivalent Partisanship: happens when there's disconnection between long-term party id and short-term party evaluation. 
+
+Fiorina 1981 Exploration of a political theory of party identification: party id is a running tally of retrospective evaluations
+
+Bartels 2002 Beyond the Running Tally
+
+Green et al. 2002 Partisan Hearts and Minds: early childhood, persist
+
+Abramowitz and saunders 2006 Exploring the Bases of Partisanship: Party is related to ideological preferences, rather than social group membership.  
+
+
+## Polarization
+Burden, Jones and Kang 2014 Sore Loser Laws and Congressional Polarization: Sore lose laws increase polarization
+
+Druckman, Peterson and Slothuus 2013 Elite Polarization and Public Opinion Formation: polarization affect how citizens think, intensifies the impact of party endorsements, decreases the impact of substansive information and stimulates greater confidence in those-- less substansively grounded opinions. 
 
 
 
+
+## Public Opinion
+Converse 1964 The Nature of Belief System of the Mass Public
+
+Achen 1975 Converse's result of low constrait is due to the variation of survey questions, measurement error
+
+Zaller and Feldman 1981 A Simple Theory of Survey Response: Survey Responses may not refelct the true preferences:
+ambivalence, response, and accessibility
+
+Zaller 1992 The Nature and Origins of Mass Opinion: The RAS (Receive-Accept-Sample) model: when asked, people will sample a mix of positive/negative feelings from the top of the mind. The effect of campaign depends on the relative intensity of the opposing messages individual's prior stores of partisan information. 
+
+Goren 2001 Core Principles and Policy Reasoning: people do refer to core values like individualism and equal pooprtunity, but core principles influence policy preferences more with more expertised people. 
+
+Goren 2004 Political Sophistication and Policy Reasoning: unlike Zaller, political sophistification do not condition the usage of abstract value principles. 
+
+Gerber et al. 2010 Personality and Political Attitudes: Big Five Traits affect economic and social attitudes differently, and vary substantially between white and black respondents. 
+Openness to experience; conscientiousness, extraversion, agreeableness, neuroticism
+
+Feldman 1988 Structure and Consistency in Public Opinion: the Role of Core Beliefs and Values: political preferences are structured by core beliefs and values.
+
+## Opinion and Public Policy
+
+Green and Gerken 1998 Self-Interest and Public Opinion toward Smoking Restrictions
+
+Citrin et al 1997 Public Opinion Toward Immigration Reform: 1992 and 1994 NES Personal Conditions not matter, beliefs about national conditions, attitudes towards Asians and Latinos matter 
+
+Funk 2000 The Dual Influence of Self-Interest and Societal Interest in Public Opinion-- citizens use both, but sometimes willing to sacrifice, topic: socil welfare
+
+Sears et al. 1980 Self-Interest vs. symbolic Attitudes and Presidential Voting -- self-interest plays little role, ideology matters 
+
+Alvarez and Brehm 1995 American Ambivalence towards abortion policy: conflicting beliefs leads to ambivalence about policy choices
+
+Jacoby 2006 Value Choices and American Public Opinion: there exists a hierachical structure of the value system
+
+Hurwitz and Peffley 1987 A Hierarchical Model of Foreign Policy Attitude -- similar to previous article 
+
+## Rational Public
+
+Kuklinski and Quirk 2000 Reconsidering the Rational public: heuristics are not that great
+
+Daniel Shacter 1999 Seven Sins of Memory
+
+Wilson and schooler 1991 Thinking too Much: overthinking reduces decision quality
+
+## Theories of Political Psychology
+
+Elaboration Likelihood Model Petty and Caciopo
+
+Heuristic-Systematic Model Shelly Chaiken
+
+John Q. Public: Lodge et al. 2013
+
+Motivated Reasoning (Redlawsk 2002): Affective Bias takes longer time for citizens to process information incongruent with existing affect
+
+MODE model (motivation and opportunity as determinants of the attitude-behavior relation) Fazio and Towles-Schwen
+when both are present, behavior will be deliberate, when one is absent, impact on behavior will be spontaneous. 
+
+Theory of Affective Intelligence; Mackuen et al. 2007 condition on familiar/unfamilar issues: familiar and rewarding context -- enthusiasm -- habituated choice; unfamiliar and unceretain context -- anxiety -- deliberative choice
+
+Social Identity Theory: Tajfel 1979 favor in-group, depreciate out-group
+
+
+## Campaign 
+
+Druckman, Kifer and Parkin 2009: Challengers use more negative ADs, emphasize on issues and personality; incumbents emphasize on experience
+
+Chong and Druckman 2010 Dynamic Public Opinion: Competing information during the campaign will cancell each other; meanwhile individuals will give disportionate weights to the most recent info. 
+
+
+Kalr 2013 The Influence of Competing Identity Primes on Poitical Preferences: people have different identities, threateing is more effective 
+
+Bartels 1993 Messages Received: Adjusting for measurement error, media does have more than minimal effect on presidential election, Bayesian method, mostly effective on weak opinioners
+
+Ansolabehere et al. (AISV) 1994 Does Attack AD Demobilize the Electorate: Yes drop intentions by 5% 1992 CA state Senate Race
+
+Finkel and Geer 1998 A Spot Check: presidential campaign, TS analysis, no negative effect 
+
+Kahn and Kenny 1999 Clarifying the Relationship Between Negativity and Participation 1990NES, people distinguish between useful info and mudslinging
+
+Kahn and Kenny 2002 the Slant of News Editorail Endorsement Influence Campaign Coverage and Citizens' Views of Candidates 
+
+Lau et al. 1999 Meta Analysis of Negative ADs on Tunrout: no support
+
+
+## Media
+
+Iyengar and Kinder 1987 News that Matters: Media can change public opinion through priming, framing and agenda setting
+
+Kinder and Sanders 1990 Mimichking Political Debate with Survey Questions, the Case of White Opinion on Affirmative Action for Blacks: framing through unfair advantage or reversed discrimation produced different opinions
+
+Page, Shapiro and Dempesey 1987 what moves public opinions: news media parallel opinion changes.
+
+Mutz 1994 Contextualing Personal Experice: the role of mass media: exposing people to similar experiences of others 
+
+Hopkins 2012 Local oppositions to Immigrants: the saliency of news media moderates the hostile attitudes toward immigrants.
+
+Egan and Mullin 2012 Turning Personal Experience into Political Attitude: the Effect of Local Weather on perceptions about global warming
+
+
+## Voting
+
+Brady and Verba 1995 resource model: thet can't that don't want to, no body asked 
+
+Brady and Verba 1995 Voice and Equality
+
+Downs 1957 Economic Theory of Democracy
+
+Campbell et al. 1960 American Voter: partisan votes, issue not matter 
+
+Lewis-Beck et al. 2008 The American Voter Revisited: no changes
+
+Achen and Bartels 2016 Democracy for Realists : partisan voting, voters don't vote on issues
+
+Lewis-Beck and Stegmaier 2007 Economic Voting
+
+Kelley and Mirer 1974 Simple Act of Voting: averaging the likes and dislikes of the leading candidates and parites
+
+Jessee 2009 Spatial Voting in the 2004 Presidential Election: happens among individuals, but partisans have biased spatial voting 
+
+Tomz and Van Houweling 2008: check proximity theory, discounting theory and directional theory -- turns out proximity theory works at the best 
+
+Tomz and Van Houweling 2009 The Electoral Implications of Candidate Ambiguity: in nonpartisan and partisan settings, voters have no negative preference over candidate taking ambiguious positions. 
+
+Kinder and Kiewiet 1979 Economic Discontent and Political Behavior: The Role of Personal Grievance in Economic Judgments in Congressional Voting -- not pocket-book voting, more a socio-tropic voting 
+
+Lupia 1994 Shortcuts versus encyclopedias: information and voting behavior in California insurance reform elections
+
+## Evaluation
+
+Brandon, Cassese and Jones (2012): House incumbent evaluation: no evidence of race-based on Afro, Latinos and Whites are
+
+Lodge, Steenbergen and Brau 1995 Responsive Voter: online model of candidate evaluation 
+
+Dancey and Sheagley (2013) raise the issue that one should be cautious about the utility of party cues and heuristic decisions. They find that putting party cues in mind, even highly informed voters tend to overestimate the consistence between their positions and senator’s positions. In other words, heuristic use of party cues lead these highly knowledgeable voters to be misinformed about policy positions.
+
+Forgette and Morris (2006) for instance use an experimental design to examine how CNN’s Crossfire and Inside Politics’ coverage and analyses of the State of Union Address influenced viewers’ political attitudes. Their results show that high-conflict media exposure decreases viewers’ evaluations of political institutions, trust in leaderships and overall support of political system. 
+
+A study done by Miller and Krosnick (2000) shows that trust in news media plays a pivotal role in conditioning the effect of media exposure. They find out that politically sophisticated individuals who trust the media coverage that issues discussed in the media is important, leading these people to pay more attention to the mentioned issues when evaluating politicians.
+
+## Representation
+
+Hanna Pitkin 1967 The Concept of Representation
+
+Bafumi and Herron 2010 Leapfrog Representation: when a congressional legislator is replaced by a new member from the opposite party, one relative extremist is replaced by another extremist. Senate is more stable. 
+
+
+## Gender
+
+Brooks 2013 He Runs She Runs: No significant evidence of gender stereotype
+
+Dovi 2002 criteria for descriptive representation: strong mutual relationship with dispossessed subgroup of hostirically disadvantaged groups.
+
+Mansbridge 1999 should Blacks Representa Blacks and Women Represent Women: mutual trust, better communication and knowledge, ability to rule
+
+Swers 1998 Are Women More likely to vote for women's issue bills? Yes, on family children etc
+
+High-pippet and Comer 1998 Female Enpowerment: Yes
+
+Alexander 2012 Change in Women's Descriptive Representation and the Belief in women's ability to govern: a virtunous cirtle
+
+Fridkin 1992 Does Being Male Help: YES
+
+## Racial Threat Hypothesis
+
+Situated within the conflict perspective, the racial threat hypothesis argues that members of the majority group—in this case, whites—perceive the relative size of and increases in the black population as threatening and in turn take actions to reduce this perceived threat. 
+
+Blalock 1967 Economic Threat and Political Threat
+
+Kinder and Kam 2010 US Against Them: Ethnocentric Foundations of American Opinion
