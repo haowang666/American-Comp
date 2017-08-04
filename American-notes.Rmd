@@ -1720,6 +1720,8 @@ Bernisky: On Public Opinion
 
 Bartels 2008: Voters myopic, Rep has better election-year performance (Hibbs 1977 political business cycle)
 
+Achen and Bartels 2016
+
 Martin Gilens 2013
 
 Brady and Verba Voice and Equality 1995
@@ -1795,7 +1797,7 @@ Bartels 2002 Beyond the Running Tally
 
 Green et al. 2002 Partisan Hearts and Minds: early childhood, persist
 
-Abramowitz and saunders 2006 Exploring the Bases of Partisanship: Party is related to ideological preferences, rather than social group membership.  
+Abramowitz and Saunders 2006 Exploring the Bases of Partisanship: Party is related to ideological preferences, rather than social group membership.  
 
 
 ## Polarization
@@ -1874,7 +1876,6 @@ Social Identity Theory: Tajfel 1979 favor in-group, depreciate out-group
 Druckman, Kifer and Parkin 2009: Challengers use more negative ADs, emphasize on issues and personality; incumbents emphasize on experience
 
 Chong and Druckman 2010 Dynamic Public Opinion: Competing information during the campaign will cancell each other; meanwhile individuals will give disportionate weights to the most recent info. 
-
 
 Kalr 2013 The Influence of Competing Identity Primes on Poitical Preferences: people have different identities, threateing is more effective 
 
@@ -1976,3 +1977,6 @@ Situated within the conflict perspective, the racial threat hypothesis argues th
 Blalock 1967 Economic Threat and Political Threat
 
 Kinder and Kam 2010 US Against Them: Ethnocentric Foundations of American Opinion
+
+Parker and Barreto 2013 Change They Can't Believe In: The Tea Party and Reactionary Politics in America
+Tea party as identity politics, Obama as a symbolic threat
