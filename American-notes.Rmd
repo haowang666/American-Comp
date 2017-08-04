@@ -16,7 +16,7 @@ fontfamily: mathpazo
 fontsize: 12pt
 spacing: single
 papersize: letter
-bibliography: ~/Dropbox/bib/Haowang.bib
+bibliography: D:/Dropbox/bib/Haowang.bib
 biblio-style: apsr
 citecolor: blue
 header-includes: \usepackage{graphicx, longtable, float, subfigure}
