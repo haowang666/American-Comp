@@ -16,7 +16,7 @@ fontfamily: mathpazo
 fontsize: 12pt
 spacing: single
 papersize: letter
-bibliography: D:/Dropbox/bib/Haowang.bib
+bibliography: ~/Dropbox/bib/Haowang.bib
 biblio-style: apsr
 citecolor: blue
 header-includes: \usepackage{graphicx, longtable, float, subfigure}
@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # On Method Questions
 
-### @BradyCollier2010 Rethinking Social Inquiry
+## @BradyCollier2010 Rethinking Social Inquiry
 
 **Author** Henry Brady and David Collier
 
@@ -50,7 +50,7 @@ Conditional independence and specification assumption. The former one is the mod
 Different from KKV: always increasing N is not a good idea. The later cases may be unrelevant to causal inference. Instead they argue for adding causal-process observations. (p.195)
 
 
-### @Mahoney2010 After KKV
+## @Mahoney2010 After KKV
 
 **Author** James Mahoney
 
@@ -64,7 +64,7 @@ Brady and Collier: data-set observtion and causal-process observation.
 
 Mahoney's approach: theory-testing usage of causal-process observation: independent variable CPOs, mechanism CPOs, and Auxiliary CPOs. Independent CPOs: provides information about the presence of an independent variable. Mechanism CPOs provides information about whether an intervening event posited by a theory is present. Auxiliary outcoe CPOs: information about particular occurences that should occur alongside the main outcome interest if in fact that outcome were caused in the way stipulated by the theory under investigation. Auxiliary outcomes are separate occurences that should be generated if the theory works. 
 
-### @Lijphart1971 Comparative Politics and Comparative Method
+## @Lijphart1971 Comparative Politics and Comparative Method
 
 **Author** Lijphart
 
@@ -76,7 +76,7 @@ Comparative method as one methoe comparing to experimental, ans statistical meth
 Four suggestions:
 1. Increase the number of cases as much as possible. 2. Reduce the 'property-space' analysis: if the sample of cases cannot be increased, it may be possible to combine two or more variables that express an essentially similar underlying characteristic into a single variable. 3. Focus the comparative analysis on comparable cases. 4. Focus on key variables. 
 
-### @Mahoney2008 Toward a Unified Theory of Causality
+## @Mahoney2008 Toward a Unified Theory of Causality
 
 **Author** James Mahoney
 
@@ -89,12 +89,12 @@ Case-oriented approach and population-oriented approach. Case-oriented research 
 
 
 
-## Comparative Historical Analysis
 
 
-## Power and State
 
-### @Huntington2008 Political Order in Changing Society
+# Power and State
+
+## @Huntington2008 Political Order in Changing Society
 
 **Author** Samuel Huntington
 
@@ -103,7 +103,7 @@ Case-oriented approach and population-oriented approach. Case-oriented research 
 **Summary**
 Development causes political instability. Institutions that are more adaptable can withhold the instability brought by the social and economic development. Social developmeny increases political participation, and thereby instable factors. 
 
-### @Spruyt1994 State Anarchy as Order
+## @Spruyt1994 State Anarchy as Order
 
 **Author** Hendrik Spruyt
 
@@ -114,7 +114,7 @@ Development causes political instability. Institutions that are more adaptable c
 **Summary** 
 Why soveign territories displaced other rivalry format? Sovereign territorial state prevailed because it proved more effective at preventing defection by its members, reducing internal transaction costs, and making credible commitments to other units. It did this is three ways, first sovereign rulers were better at centralizing jurisdiction and authority. Consequently better at preventing free-riders. Second, sovereign territory was a means of structuring interunit behavior. States, or rather political social elites within that territory preferred similar styles. Third, due to the first two conditions, actors from other institutional arrangements defected to states or copied their institutional makeup. 
 
-### @Levi1981 The Predatory Theory of Rule
+## @Levi1981 The Predatory Theory of Rule
 
 **Author** Margaret Levi
 
@@ -173,11 +173,13 @@ leadership, may explain why the Glorious Revolution occurred in England, not Egy
 
 Decentralizing power increases the cost of an unsuccessful revolt for the monarch's rivals. In other words, armed local elites in Europe were able to extract a better 'soft contract' from their monarch than in the Islamic world and were, therefore, less likely to overthrow that monarch. 
 
-## Lipset Przeworski and Limongi Boix and Stokes
+# Lipset Przeworski and Limongi Boix and Stokes
 
-### @Lipset1959 Some social requsites of democracy
-### @Przeworski1997 Modernization, Theories and Facts 
-### @BoixStokes2003 Endogenous Democratization
+## @Lipset1959 Some social requsites of democracy
+
+## @Przeworski1997 Modernization, Theories and Facts 
+
+## @BoixStokes2003 Endogenous Democratization
 
 
 The relationship between economic growth and democracy is perhaps the most studied topic of comparative politics. Since Lipset (1959), a number of political scientists have engaged themselves in evaluating the impact of economic development on democracy-oriented political transitions as well as on the endurance of existing democracies. In other words, scholars pay attention, to use the metaphoric terminology, to the role economic development plays in the birth, survival, death, and sometimes, rebirth, of democracy.
@@ -212,9 +214,9 @@ Moreover, methodologically, we must bear in mind that different measurement and 
 
 (5) Statistical testing. While acknowledging their theoretical contributions, we should note the limitation in Przeworski and Limongi's interpretation of their data analysis. Their probit model, employed also by Biox and Stokes, is undoubtedly more sophisticated than Lipset's cross-tabulations. Unfortunately, however, they do not bother to report the statistical significance between frequencies, as well as between probit values, hence the vulnerability of their models. 
 
-## State Building
+# State Building
 
-### @Ertman1997 Birth of Leviathan
+## @Ertman1997 Birth of Leviathan
 
 **Author** Thomas Ertman
 
@@ -270,6 +272,22 @@ Studying States through analytical induction and historically comparisons: draws
 **Year** 2009
 
 **Summary**
+This is a book review of 4.
+
+Daniel Ziblatt 2006: Structureing the State: The Formation of Italy and Germany and the Puzzle of Federalism
+Federalism is the consequence of an incomplete state-building process that ffectively dissipates and inhibits the further development of centralized state capacity: infrastructural power refers to the state's capacity to penetrate society and implement deceisions through the coordinated activity of civil-society actors, as distinguished from despotic power, which describes the state's abiliy to coerce compliance. The relative infrastructural power of the subnational units determines the future of a federal system or not. (Germany and Italy)
+
+Anna Grzymala-Busse 2007 Rebuilding Leviathan: Party Competition and State Exploitation in Post-Communisit Democracies 
+Strong political parties are conducive to state building: cases from the post-communist countries, those with strong political competitions procuded greater constraints on incumbents' capacity to exploit the state and, consequently on the development of the state's own coercive capacity.
+
+Kimberley S. Johnson 2007 Governing the American State: Congress and the New Federalism 2007
+how did the Gilded Age and the Progessive Era referomers overcome the barriers imposed by the strcuture of the 19th Century American state? 
+intergoverntal policy making of the state government -- the coercive capacity rested with local government 
+
+Jacob S. Hacker 2002 The Divided Welfare State: the Battle over public and private social benefits in the United States.
+
+Due to the tranditional weak states, private sectors like the insurance companies enter into the the tranditionally-conisidered 'state' domain
+
 
 
 
@@ -287,9 +305,22 @@ The statist approach: 1. see politics as a problem of rule and control rather th
 Comparing with the pluralist approach: Dahl (who governs): pluralism emphasizes the problem of allocation rather than ones of rule and control. Dahl views the state as a collection of individuals occupying particular roles, not as an administrative apparatus or legal order. 
 
 
-## State Breakdowns and Social Revolutions
+### Dan Slater 2008 Can Leviathan be Democratic?
 
-### @Skocpol1979 State and Social Revolution
+Competitive Elections, Robust Mass Politics, and State Infrastructural Power
+
+Effective government and accountable government 
+
+Elections are helpful in buidling state capacities: 1. the contructions of mass political parties 2. vote registration of marginalized popultions 3. force state interventions into local authoritarian enclaves. Examples: 1. elections, mass parties and state power in Malaysia; communist threat, competitive elections and voter registration in Indonesia; 3. elections, rebellions and the temporary taming of rural oligarchs in the Philippines.
+
+
+
+
+
+
+# State Breakdowns and Social Revolutions
+
+## @Skocpol1979 State and Social Revolution
 
 **Author** Theda Skocpol
 
@@ -304,21 +335,120 @@ Skocpol explains social revolutions as being based on four factors: 1) state soc
 She stresses that international-scale actions (like threats or outcomes of war, and political and economic inequalities) have a major effect on domestic events (like revolutions). This effect can be explained as the outside effects lead to increased destabilization and political crises (financial crisis, elite divisions, mobilization of groups sensing political opportunity) which in turn increases the likelihood that revolutionary forces will arise and act. Skocpol notes that while elites are important, ordinary citizens are also vital, as supported by the fact that most successful revolutions were aided by urban and peasants mobilizations.
 
 
-### Barrington Moore 1966 Social Origins of Democracy and Dictatorship
+## John Dunn 1982 Understanding Revolutions
+
+A review work of Theda Skocpol the States and Social Revolutions
+
+the role of state power in the reproduction of society
+
+## Barrington Moore 1966 Social Origins of Democracy and Dictatorship
 
 Barrington Moore's classic study seeks to understand the role of landed upper classes and peasants in the makings of capitalist democracy, fascism, and communism as distinct paths to modernity. Unavoidably, the book leads him to explore the role of commercial agriculture and urban classes as key factors in determining the various political outcomes in the following contexts: eighteenth century England and France, the U.S. Civil War, revolutionary China, fascist Japan, and post-colonial India. He finds that breaking the power of landed agrarian elites is key for the rise of democratic regimes.
 
 
+## Moore, Skocpol, Rueschemeyer, Stevens and Stevens,; Therborn and Luebbert 
+
+Moore thesis: No Bourgeoise, No democracy. is the bourgeoisie sufficiently strong to pull down the structures of feudal society? Yes -- libearal democracy; No -- can moderanization be achieved by means of 'revolution from above' (a labor repressive alliance) or the revulation from bottom (the peasant revolution lead to consolidation of power by a modernizing revolutionary elite). 
+
+
+Gregory Luebbert 1991 liberalism, Facism and Social Democracy: whether or not succefful in incorporating the working class -- yes: interwar liberalism; no -- political regulation of capital-labor relationship required. whether the organized working class attempt to organize the rural poor -- yes facism (on the basis of an alliance of urban middle class and family farmers) -- no social democracy, on the basis of an alliance of the working class and the family farmers. 
+
+Rueschemeyer, Stevens and Stevens, 1992 Capaitalist Development and Democracy
+working class, the automous role of the state in the global economy market. 
 
 
 
-### Michael Walzer 1965 Revolution of the Saints 
+## Dan Slater and Nicholas Rush Smith 2016 The Power of Counterrevolution
 
-A Study in the Origins of Radical Politics
+Elititist Origins of Political Order in postcolonial Asia and Africa
+
+Counterrevolutions are collective and reactive efforts to defend the status quo, and its varied range of dominant elites against a credible threat to overturn them from below. 
+
+The goal is to explain the stability of party dominance. Conterrevolutions can produce exceedingly durable, although not invincible political parties.
+
+
+
+## Ted Gurr 1970 Why Men Rebel
+
+In this book, Gurr examines the psychological frustration-aggression theory which argues that the primary source of the human capacity for violence is the frustration-aggression mechanism. Frustration does not necessarily lead to violence, Gurr says, but when it is sufficiently prolonged and sharply felt, it often does result in anger and eventually violence.
+
+Gurr explains this hypothesis with his term "relative deprivation," which is the discrepancy between what people think they deserve, and what they actually think they can get. Gurr's hypothesis, which forms the foundation of the book, is that: "The potential for collective violence varies strongly with the intensity and scope of relative deprivation among members of a collectivity."(p.24)
+
+It is noteworthy that Gurr does not look to a more absolute or objective indicator of deprivation as the source of political violence. People can become inured to a bad state of affairs, even one that offers so little access to life-sustaining resources that members of the group are starving or dying of remediable diseases or exposure.
+
+If, however, there is a significant discrepancy between what they think they deserve and what they think they will get, there is a likelihood of rebellion. Gurr posits this to be the case even if there is no question that their basic needs will be met. The first situation may be a desperate one, but it is the second that is frustrating. And, according to Gurr, just as frustration produces aggressive behavior on the part of an individual, so too does relative deprivation predict collective violence by social groups.
+
+## James Scott 1985 Weapons of the Weak, Everyday From of Resistence
+
+Scott introduces the idea that oppression and resistance are in constant flux, and that by focusing (as political scientists often do) on visible historic 'events' such as organised rebellions or collective action we can easily miss subtle but powerful forms of 'every day resistance'. Scott looks at peasant and slave societies and their ways of responding to domination, with a focus not on observable acts of rebellion but on forms of cultural resistance and non-cooperation that are employed over time through the course of persistent servitude.
+
+Scott’s research finds that overt peasant rebellions are actually rather uncommon, do not occur when and where expected, and often don’t have much impact.  Rather than seeing 'resistance as organisation', Scott looks at less visible, every-day forms of resistance such as 'foot-dragging, evasion, false compliance, pilfering, feigned ignorance, slander and sabotage'.  He finds these in rural and factory settings, and also among the middle class and elites (e.g. through tax evasion or conscription), but particularly among rural people who are physically dispersed and less politically organised than urban populations (Scott 1985).
+
+## Steven Solnick 1996 The Breakdown of Hierachies in the Soviet Union and China
+
+Question: why decentralization causes regime breakdown in Soviet Union but not in China?
+
+
+# Democracy and Transitions
+
+## Rueschemeyer, Stephens and Stephens 1992 Capitalist Development and Democracy
+
+the class-structural model of democratic transition; very similar to Moore's frame, adding working class into analysis. Capatalism is essential to democracy as it weakens the landed upper class and strengthens the owrking class and other subordinate classes. 
+
+
+
+## Linz and Stephens 1995 Problems of Democratic Transition and Consolidation
+
+Salient differences in the pre-transition regime and the nature of the transition that have direct consequences for the nature and durability of the ensuing democratic experiment. The first part of the book provides the theoretical underpinning and subsequent sections contain a wide range of case studies on individual country experiences.
+
+The first step in this task is identifying the important characteristics of their dependent variable, namely a consolidated democracy. They delineate five 'arenas': civil society, political society, rule of law, bureaucratic structure, and economic society. First, a vibrant civil society provides a check on state power. Second, political society involves the arrangements through which contests for political power are legitimately arranged. Third, a set of explicit rules to which all are bound is another precondition for democratic consolidation. Fourth, a democratic government requires an effective bureaucratic apparatus to maintain the monopoly of violence and to enforce law. In a subsequent chapter, Linz and Stepan further elaborate on the question of nationalism and the under-explored problem of 'stateness' for democratic consolidation. Finally, a socially agreed-upon set of practices to mediate between state and market are crucial for democracy.
+
+Further, they find it useful to distinguish four additional regime types: authoritarianism, totalitarianism, post-totalitarianism, and sultanism. Post-totalitarianism characterized a number of parts of the former Soviet bloc after Stalin and became more common the closer one gets to the fall of the Soviet Union. These different regime types have consequences for the paths of democratic transition that are possible. One common path of democratization has been through pacted transitions. This is a common path for authoritarian and post-totalitarian regimes. However, totalitarian or sultanic systems place such severe restraints on political and social space that it is unlikely an opposition could develop that would be significant enough to compel the regime to negotiate. Similarly, in both of these contexts, losing a war is unlikely to provide a democratic opening unless outside powers invest heavily in building a democracy. If elections are not held quickly, interim governments may be tempted to remain in power in the aftermath of sultanism or authoritarianism. Former authoritarian governments that were composed of a hierarchical military organization may be more willing to extricate themselves from power peacefully if the institution of the military is respected. In a non-heirarchical military, by contrast, infighting may make it easier to realize civilian oversight, but different factions may have different agendas and destabilize the situation.
+
+To bring all these components together, the legacy regime type influences the prospects for each of the five arenas. Of the four non-democratic regime types, authoritarianism has the best chance of having a tradition of rule of law to build upon. In terms of building political society, all have weaknesses. Totalitarian and post-totalitarian require the dismantling of the dominant party's position and in sultanic and authoritarian situations, trust and institutions must often be built. Although constitutions have often existed in these contexts, they typically have negative connotations for the public so there is a need for significant overhaul if not complete abandonment of existing arrangements. After authoritarian regimes, by contrast, there may be a pre-authoritarian constitution that could be revived or frequently the constitution from the authoritarian period is modified. Comparatively speaking, bureaucracies held over from authoritarian regimes may provide a sufficient foundation to build upon. In totalitarian and post-totalitarian contexts, however, the intertwining of party and bureaucracy necessitates significant reform. Under sultanism, the bureaucracy is likely riddled with corruption. Finally, under authoritarianism, there may be a reasonable amount of autonomy for economic actors that can allow for pluralism in the civic, political, and economic societies. By contrast, the command economy and patrimonialism in totalitarian and sultanistic regimes require much more dramatic reform.
+
+
+## O'Donnell and Schmitter 1986 Transitions from authoritarian Rule Tentative Conclusions about Uncertain Democracies
+
+Undervalue the structural stuffs. -- unexpected events, insufficient information, plasticity and even identification of political identities, as well as the talents of specific individuals are frequently decisive in determing outcomes. Behaviorist approach, individual-level interactions are crucial for outcomes.
+
+An interaction between authoritarian hard liners and soft liners. 
+
+
+## Levitsky and Way 2010 Competitive Authoritariansim 
+
+
+
+
+## Svolik 2012 Politics of Authoritarian Rule
+
+
+
+
+## Haggard and Kaufman 2012
+
+
+
+
+## Acemoglu and Robinson 2005
+
+## Carles Boix 2003 Democracy and Redistribution 
+
+## Ross 2001
 
 
 
 
 
-### Ted Gurr 1970 Why Men Rebel
+# Institutions
 
+# Political Parties
+
+# Citizen-government relationship
+
+# Welfare state and Political Economy
+
+# Civil War and Civil Strifes
+
+
+ 
