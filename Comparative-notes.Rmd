@@ -87,9 +87,17 @@ Four suggestions:
 **Summary**
 Case-oriented approach and population-oriented approach. Case-oriented research focuses on the necessary and sufficient conditions of causal mechanism. The population-oriented approach focuses on the typical effect, e.g. does development causes democracy? Suffcient and necessary causes. Population research with insufficient and necessary items. 
 
+## James Mahoney and Dietrich Rueschemeyer 2003 in (Comparative Historical Analysis)
+
+Achievements and agendas
+
+Definitions of CHA: 1. concerned with explanation and causal identification 2. explicitly analyze historical sequences and take seriously the unfolding process over time. 3. engage in systematic and contextualizex comparisons of similar and contrasting cases. 
 
 
 
+## James Mahoney Strategies of Causal Assessment in CHA 2003
+
+Three basic causal assessment strategies: nominal, ordinal and within-case strategies. In the with-case stage: pattern matching, process-tracing and causal narrative. 
 
 
 # Power and State
@@ -292,7 +300,7 @@ Due to the tranditional weak states, private sectors like the insurance companie
 
 
 
-### @Krasner1984 Approaches to the State: Alternative conceptions and historical dynamics
+## @Krasner1984 Approaches to the State: Alternative conceptions and historical dynamics
 
 **Author** Stephen Krasner
 
@@ -305,17 +313,13 @@ The statist approach: 1. see politics as a problem of rule and control rather th
 Comparing with the pluralist approach: Dahl (who governs): pluralism emphasizes the problem of allocation rather than ones of rule and control. Dahl views the state as a collection of individuals occupying particular roles, not as an administrative apparatus or legal order. 
 
 
-### Dan Slater 2008 Can Leviathan be Democratic?
+## Dan Slater 2008 Can Leviathan be Democratic?
 
 Competitive Elections, Robust Mass Politics, and State Infrastructural Power
 
 Effective government and accountable government 
 
 Elections are helpful in buidling state capacities: 1. the contructions of mass political parties 2. vote registration of marginalized popultions 3. force state interventions into local authoritarian enclaves. Examples: 1. elections, mass parties and state power in Malaysia; communist threat, competitive elections and voter registration in Indonesia; 3. elections, rebellions and the temporary taming of rural oligarchs in the Philippines.
-
-
-
-
 
 
 # State Breakdowns and Social Revolutions
@@ -378,6 +382,20 @@ It is noteworthy that Gurr does not look to a more absolute or objective indicat
 
 If, however, there is a significant discrepancy between what they think they deserve and what they think they will get, there is a likelihood of rebellion. Gurr posits this to be the case even if there is no question that their basic needs will be met. The first situation may be a desperate one, but it is the second that is frustrating. And, according to Gurr, just as frustration produces aggressive behavior on the part of an individual, so too does relative deprivation predict collective violence by social groups.
 
+## Jack A. Goldstone 2003 Comparative Historical Analysis and Knowledge Accumulation in the Study of Revolutions
+
+CHA has a Bayesian style by heart. 
+
+* Revolution from the modernization perspective: from traditional society to the modern society; Tilly (1978) argues for the emergence of organized contenders (crucial for the occurance of revolution); Moore (1966) captalist elites
+
+* Social structure theory and its critics: Theda Skocpol 1979: international society and the world system;economic or political elites who had power to resist state-led reforms and create a political crisis; organziations that were capable of mobilizing peasants for popular uprisings against local authoriaties  
+
+* Development after Skocpol: rational choice and game theory, collective action, the role of ideology playing as the glue for mobilization and collective action. 
+
+* Knowledge accumulation of revolution: 1. conjuctural causations: there is no signle universal explanations for revolution. Some agreed conditions for revolutions: 1. a crisis of state authority in which the state is widely perceived by elites and popular groups as both ineffective and unjust 2. a crisis of elite relationships in which elites become divided, alienated, and polarized into factions that disagree over how to reconstitute state authority 3. a crisis of popular welfare in which urban and or rural groups find it difficult to maintain their customary standard or living through accustomed means; 4. the emergence of an elite-popular coalition to attack the authority of the state 5. an ideology of opposition that binds elites and popular groups in their attack on the authorities, justifies the attack and suggests alternative bases for authority. //// variaety of processes and outcomes 
+
+
+
 ## James Scott 1985 Weapons of the Weak, Everyday From of Resistence
 
 Scott introduces the idea that oppression and resistance are in constant flux, and that by focusing (as political scientists often do) on visible historic 'events' such as organised rebellions or collective action we can easily miss subtle but powerful forms of 'every day resistance'. Scott looks at peasant and slave societies and their ways of responding to domination, with a focus not on observable acts of rebellion but on forms of cultural resistance and non-cooperation that are employed over time through the course of persistent servitude.
@@ -387,6 +405,11 @@ Scott’s research finds that overt peasant rebellions are actually rather uncom
 ## Steven Solnick 1996 The Breakdown of Hierachies in the Soviet Union and China
 
 Question: why decentralization causes regime breakdown in Soviet Union but not in China?
+
+The principal-agent problems exists in both countries. But China's cenrtal gov. never lost control over the local government, by creating quasi-ownership companies. In the Soviet cases, the rapid privatation increases the local autonomy and the creates incentives to sucede from the central gov. 
+
+The problem of hidden action and hidden information: hidden action: how honestly the agent is working; to what the maximum output level is, given random factors and the agent's strcutural constraints. 
+
 
 
 # Democracy and Transitions
@@ -415,6 +438,16 @@ Undervalue the structural stuffs. -- unexpected events, insufficient information
 An interaction between authoritarian hard liners and soft liners. 
 
 
+## James Mahoney 2003 Knowledge Accumulation in Comparative Historical Research
+
+Knowledge accumulation Cases of democracy and authoritarianism
+
+Descriptive findings, causal findings (testing and elaboration), methodologies and meta-theories. 
+
+
+
+
+
 ## Levitsky and Way 2010 Competitive Authoritariansim 
 
 
@@ -422,33 +455,53 @@ An interaction between authoritarian hard liners and soft liners.
 
 ## Svolik 2012 Politics of Authoritarian Rule
 
+All authoritarian regimes must resolve two fundamental conflicts. First, dictators face threats from the masses over which they rule - this is the problem of authoritarian control. A second, separate challenge arises from the elites with whom dictators rule - this is the problem of authoritarian power-sharing. Crucially, whether and how dictators resolve these two problems is shaped by the dismal environment in which authoritarian politics takes place: in a dictatorship, no independent authority has the power to enforce agreements among key actors and violence is the ultimate arbiter of conflic
 
-
-
-## Haggard and Kaufman 2012
-
-
+## Haggard and Kaufman 1995 Political Economy of Democratic Transitions
+Under economic crisis, the divisions within authoritarian regime and the defection of the key elites are crucial impetus for demcoratization.  
 
 
 ## Acemoglu and Robinson 2005
 
+
 ## Carles Boix 2003 Democracy and Redistribution 
+
+
 
 ## Ross 2001
 
+rentier state effect, repression effect, modernization effect
 
 
 
 
 # Institutions
 
+
+
 # Political Parties
+
+
 
 # Citizen-government relationship
 
+
+
+
 # Welfare state and Political Economy
+
+
+
 
 # Civil War and Civil Strifes
 
 
+
+
+# Principal-Agent Problem
  
+## Bueno de Mesquita et al. 2003 The Logic of Political Survival 
+
+In selectorate theory, three groups of people affect leaders. These groups are the nominal selectorate, the real selectorate, and the winning coalition. The nominal selectorate, also referred to as the interchangeables, includes every person who has some say in choosing the leader (for example, in an American presidential election, all registered voters). The real selectorate, also referred to as the influentials, are those who really choose the leaders (for example, in an American presidential election, those people who cast a vote). The winning coalition, also referred to as the essentials, are those whose support translates into victory (for example, in an American presidential election, those voters that get a candidate to 270 Electoral College votes). In other countries, leaders may stay in power with the support of much smaller numbers of people, such as senior figures in the security forces, and business oligarchs, in contemporary Russia.
+
+The fundamental premise in selectorate theory is that the primary goal of a leader is to remain in power. To remain in power, leaders must maintain their winning coalition. When the winning coalition is small, as in autocracies, the leader will tend to use private goods to satisfy the coalition. When the winning coalition is large, as in democracies, the leader will tend to use public goods to satisfy the coalition.
