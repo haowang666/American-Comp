@@ -93,6 +93,8 @@ Achievements and agendas
 
 Definitions of CHA: 1. concerned with explanation and causal identification 2. explicitly analyze historical sequences and take seriously the unfolding process over time. 3. engage in systematic and contextualizex comparisons of similar and contrasting cases. 
 
+## Snyder 2001 Scalding Down
+
 
 
 ## James Mahoney Strategies of Causal Assessment in CHA 2003
@@ -477,6 +479,19 @@ rentier state effect, repression effect, modernization effect
 
 # Institutions
 
+## Kathleen Thelen 2003 How Institutions Evolve
+
+Two different approaches of institutional changes: constant causes -- it cam come in several varieties, such as functionalist, political and cultural, but all would suggest that the same factors that account for the genesis of an institution will also explain institutional change over time. Path dependence theory suggests that institutions may outlive the forces that brought them into being, the factors responsible for the reproduction of an institution may be quite different from those that account for the existence of the institution in the first place.
+
+1.a functionalist: instituion as a solution of colletive action problems, reducing uncertainty, providing focal points, decrease transactional costs etc. 
+
+1.b power distributional accounts: institutions as arrangements of power and resource, social institutions reflect power asymmetries. institutions forge out of political conflicts.
+
+1.c cultural-sociological approach: instituions reflect the shared cultural understandings of what is efficient, or moral, or modern. 
+
+2. path-dependence: numerous causes of instituional development and changes. critical junctures and historical junctures. 
+
+
 
 
 # Political Parties
@@ -489,11 +504,6 @@ rentier state effect, repression effect, modernization effect
 
 
 # Welfare state and Political Economy
-
-
-
-
-# Civil War and Civil Strifes
 
 
 
