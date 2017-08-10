@@ -145,9 +145,9 @@ Rulers take control over the state by force and control. The predatory theory ar
 **Year** 2001
 
 **Summary**
-Concept of a state : Most definitions convey the notion that the state is an entity which controls conflict between individuals within a bounded territory, or, conversely, calls upon individuals to participate in conflicts with other bounded territories. Another view is that the state is the allocative mechanism within a political system.4 Such a system is one in which humans continuously interact with one another as they seek to satisfy their individual desires. In a political system, there is some general agreement on the 'rules of the game', and support for the government in its role as the mediator of competing claims. A third view is of the state as a symbolic system, in which ritual and culture create and bind a political community.
+Concept of a state : Most definitions convey the notion that the state is an entity which controls conflict between individuals within a bounded territory, or, conversely, calls upon individuals to participate in conflicts with other bounded territories. Another view is that the state is the allocative mechanism within a political system. Such a system is one in which humans continuously interact with one another as they seek to satisfy their individual desires. In a political system, there is some general agreement on the 'rules of the game', and support for the government in its role as the mediator of competing claims. A third view is of the state as a symbolic system, in which ritual and culture create and bind a political community.
 
-The realist approach: (Karl Schmitt): athoritive allocator. State as 'organized violence'
+The realist approach: (Karl Schmitt): authoritive allocator. State as 'organized violence'
 
 The IR approach, state with three distinct features: 1. hierarchial authority structure which accepts no external territorial jurisdiction, that is, it has sovereign authority 2. territorial demarcation with formal boundaries 3. a public judicial authority with codified laws. 
 
@@ -235,6 +235,9 @@ Moreover, methodologically, we must bear in mind that different measurement and 
 **Summary**
 The most valuable contribution Ertman makes to the literature is in his substantial challenge to previously accepted models of early modern political development which link absolutist 'regimes' with bureaucratic apparatuses and constitutional regimes with its absence. His cases reveal that four distinct combinations were developed in Europe in this period: patrimonial absolutism, bureaucratic absolutism, patrimonial constitutionalism, and bureaucratic constitutionalism in Latin Europe, major German States and Denmark, Poland and Hungary, and Britain and Sweden respectively.  These distinctions matter not only in terms of providing more accurate typologies by which to categorize states but because they highlight the crucial impact of particular historical conditions which lead to their emergence.  In his estimation three variables matter in determining these outcomes: the character of local governance in the first centuries after state formation, the timing of the onset of sustained geopolitical competition, and the independent influence of strong representative assemblies on administrative institutions (Ertman 1997, 6).
 
+## Daniel Ziblatt 2004 Rethinking the Origins of Federalism
+
+Case studies of Germany and Italy: federalism is possible only if state building is carried out in a context in which the preexisting units of a potential federation are highly institutionalized and are deeply embedded in their societies -- and hence are capable of governance. 
 
 
 ## @Evansetal1985 Bringing State Back in
@@ -297,9 +300,6 @@ intergoverntal policy making of the state government -- the coercive capacity re
 Jacob S. Hacker 2002 The Divided Welfare State: the Battle over public and private social benefits in the United States.
 
 Due to the tranditional weak states, private sectors like the insurance companies enter into the the tranditionally-conisidered 'state' domain
-
-
-
 
 
 ## @Krasner1984 Approaches to the State: Alternative conceptions and historical dynamics
@@ -468,7 +468,9 @@ Under economic crisis, the divisions within authoritarian regime and the defecti
 
 ## Carles Boix 2003 Democracy and Redistribution 
 
+## Geddes 1999 what do we know about democratization after 20 years
 
+the typology of authoritarian regimes
 
 ## Ross 2001
 
@@ -490,6 +492,39 @@ Two different approaches of institutional changes: constant causes -- it cam com
 1.c cultural-sociological approach: instituions reflect the shared cultural understandings of what is efficient, or moral, or modern. 
 
 2. path-dependence: numerous causes of instituional development and changes. critical junctures and historical junctures. 
+
+## Peter Hall 1996 Political Science and the Three New Institutionalism
+
+historical institutionalism, rational choice institutionalism and sociological institutionalism. 
+
+Historical: institions as the formal or informal procedures, routines, norms and conventions embedded in the organizational structure of the polity or political economy. organization, power structure. 
+
+Rational: instituion for reducing costs and solving collective action problem
+
+Sociological: cultural aspect. covers wider range of topics
+
+## Greif and Latin 2004 Endogenous Institutional Change
+
+the idea of self-enforcing: each plaer's behavior is at the best response.
+
+
+## North 1990 Insitutions, institutional change, and economic performance.
+
+Instituion has three dimensions: formal rules, informal rules and enforcement.
+
+All human interaction is characterized by pervasive uncertainty, which manifests itself in transaction costs to exchange. Institutions are a way to reduce this uncertainty and make it possible to capture gains from trade. Institutions can be informal (norms of behavior, societal codes of conduct) or formal (laws, rules). Both forms involve enforcement, and as society becomes more complex, the need for third-party enforcement arises. This role is played by the state with its coercive powers. A major issue then, becomes the credible commitment by the polity not to abuse its force. Because institutions are designed by people with different bargaining strength and not for sake of efficiency, some patterns may be less efficient than others and due to path dependency, may persist for a long time, resulting in stagnant economy. The lack of credible commitment by the state not to appropriate property rights accounts for the inefficient institutions that have evolved in different countries. To wit, such environment provides disincentives to investment in socially profitable enterprises, and creates groups with vested interests in maintaining the status quo constraints. The key to economic efficiency are efficient property rights, which depend on political efficiency.
+
+Institutions provide the basic structure by which human beings create order and attempt to reduce uncertainty in exchange. Together with technology employed, they determine transaction and transformation costs and hence the profitability and feasibility in engaging in economic activity. The current forms of political, economic, and military organization, and their maximizing directions are derived from the opportunity set provided by the institutional structure that in turn evolved incrementally. One gets efficient institutions by a polity which has built-in incentives to create and enforce efficient property rights.
+
+
+## Gretchen Helmke and Steven Levitsky 2004 Information Institutions and Comparative Politics
+
+As the residuel category, informal institutions can be complementary (help formal); accomodating (alternative ways); if formal instituions are weak, informal instituions can be substitutive or competing. 
+
+
+## Paul Pierson 2000 Increasing Returns, Path Dependence and the Study of Politics
+
+path dependence definded as 'increased returns'. patterns of timing and sequence matter. 
 
 
 
