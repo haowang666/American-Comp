@@ -447,13 +447,22 @@ Knowledge accumulation Cases of democracy and authoritarianism
 Descriptive findings, causal findings (testing and elaboration), methodologies and meta-theories. 
 
 
+## Haggard Kaufman 2012
 
+an empirical analysis checking the effect of inequality in democratic transion, minimal effects. causal process tracing      
 
+## Robert Woodberry 2012 the missiornary Roots of Liberal Democracy
+
+conversionary Protestants heavily influenced the democratic  developments.-- religious libertym mass education, printing, newspaper, voluntary organizations, and colonial reforms, thus creates prerequsites of democracy. 
 
 ## Levitsky and Way 2010 Competitive Authoritariansim 
 
+hybrid regimes can be as stable as autocracies or democracies. definition: competitive authoritarin regimes are civillian regimes in which formal democratic institutions exist and are widely viewed as the primary means of gaining power, but in which incumbents' abuse of the state places them at a significant advantages vis-a-vis their opponents. 
+depends on linkage with international society and government leverage. 
 
+## Svolik 2008 Authoritarian Reversals and Democratic Consolidation
 
+I present a new empirical approach to the study of democratic consolidation. This approach leads to new insights into the determinants of democratic consolidation that cannot be obtained with existing techniques. I distinguish between democracies that survive because they are consolidated and those democracies that are not consolidated but survive because of some favorable circumstances. As a result, I can identify the determinants of two related yet distinct processes: the likelihood that a democracy consolidates, and the timing of authoritarian reversals in democracies that are not consolidated. I find that the level of economic development, type of democratic executive, and type of authoritarian past determine whether a democracy consolidates, but have no effect on the timing of reversals in democracies that are not consolidated. That risk is only associated with economic recessions. I also find that existing studies greatly underestimate the risk of early reversals while simultaneously overestimating the risk of late reversals, and that a large number of existing democracies are in fact consolidated.
 
 ## Svolik 2012 Politics of Authoritarian Rule
 
@@ -470,13 +479,11 @@ Under economic crisis, the divisions within authoritarian regime and the defecti
 
 ## Geddes 1999 what do we know about democratization after 20 years
 
-the typology of authoritarian regimes
+the typology of authoritarian regimes, based on game theory, dictators and the military officials' interaction
 
 ## Ross 2001
 
 rentier state effect, repression effect, modernization effect
-
-
 
 
 # Institutions
@@ -531,17 +538,59 @@ path dependence definded as 'increased returns'. patterns of timing and sequence
 
 # Political Parties
 
+## Lipset and Rokkan 1967
+Social cleavage is the foundation of political parties, stable.
+
+## Katz and Mair 1995 Changing Models of Party Organization and Party Democracy
+
+from mass party to cartel party, in which collduing parties become agents of the state and employ the reousrces of the state to ensure their own survival. 
+
+## Ronald Inglehart 1971 The Silient Revolution: Intergenerational Changes
+
+”The Silent Revolution in Europe” was the first presentation of the intergenerational value change hypothesis. It argued that the publics of postindustrial societies are shifting from giving top priority to “Materialist” goals such as economic and physical security to placing increasingly strong emphasis on self-expression and the quality of life. Throughout history, survival has been insecure for most people, forcing them to give top priority to survival needs. But in advanced industrial societies, the economic miracles of the postwar era and the emergence of the welfare state gave rise to conditions under which much of the postwar generation grew up taking survival for granted; they give increasingly high priority to “Postmaterialist” values such as belonging, self-expression, and free choice. Because people's basic values do not change overnight, those who experienced the insecurity of World War I, the Great Depression, and World War II would continue to emphasize Materialist values, but we would expect to find an intergenerational shift toward Postmaterialist values.
+
+## Bonnie Meguid 2005 Competition Between Unequals: The Role of Mainstream Party Strategy in Niche Party Success
+
+## Lijphart 1990 The Political Consequences of Electoral System
+
+
 
 
 # Citizen-government relationship
+
+# Political Culture
+
+## Almond and Verba The Civic Culture: Political Attitudes and Democracy in Five Nations  1963
+
+Parochial – Where citizens are only remotely aware of the presence of central government, and live their lives near enough regardless of the decisions taken by the state, distant and unaware of political phenomena. They have neither knowledge nor interest in politics. This type of political culture is in general congruent with a traditional political structure.
+Subject – Where citizens are aware of central government, and are heavily subjected to its decisions with little scope for dissent. The individual is aware of politics, its actors and institutions. It is affectively oriented towards politics, yet it is on the "downward flow" side of the politics. In general congruent with a centralized authoritarian structure.
+Participant – Citizens are able to influence the government in various ways and they are affected by it. The individual is oriented toward the system as a whole, to both the political and administrative structures and processes (to both the input and output aspects). In general congruent with a democratic political structure.
+
+## Fearson and Laitin 1996 Explaining Interethnic Group Cooperation
+
+The puzzle they solve next is, under what circumstances can people from different ethnic groups exchange at better terms than the lemon price? The two answers are the spiral equilibiria and the in-group policing equilibria. (See p 722 for details about the equilibria.)
+In the spiral equilibria, I deal as follows: with members of my group, I can determine their reputation and defect only if they are in punishment phase (for defecting inappropriately against a member of MY group). With members of the other group, I defect only if their GROUP is in the punishment phase (due to some transgression by any member of their group).
+In the in-group policing game, I never play "defect" with members of the other group. When interacting with members of my group, I defect only if they are in punishment phase for defecting inappropriately against a member of EITHER group.
 
 
 
 
 # Welfare state and Political Economy
 
+## Kathleen Thelen 2009 Institutional Change in Advanced Political Economies
+
+Hall and Soskice 2001 the varieties of democracies: liberal market economy and co-ordinated market economy. whether mostly through the market, or through various arrangements that allow firm to achieve joint gains through co-operation.   
+
+## Robert Bates 1981 Market and States in Tropical Africa
+
+When post-colonial governments gained power, they took control of states economically dependent on producing and exporting primary products, especially food goods. Desiring rapid development, they implemented policies to shift resources from agriculture to industry and manufacturing. In part I of his book, Bates explores the results of this state interference in agricultural markets. He points out that farmers "stand at the intersection of three major markets" (pg 3): The market for agricultural output (food), discussed in chapters 1 and 2; the market for agricultural inputs (fertilizer, tractors, credit), discussed in chapter 3;, and the market for consumer goods (things that farmers wish to buy), discussed in chapter 4.
+
+## Robert Bates 2001 Prosperity and Violence
+
+According to Bates, the inefficient state that fails to monopolize power in a way that encourages investment and economic growth should be blamed for the lack of development in many parts of the world. He argues that when the state fails to tame violence, people are more likely to consume for today than invest in tomorrow.
 
 
+## Acemoglu Johnson and Robinson 2001 The Colonial Origins of Comparative Development
 
 # Principal-Agent Problem
  
