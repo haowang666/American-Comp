@@ -1,0 +1,82 @@
+\contentsline {section}{\numberline {1}On Method Questions}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}\citet {BradyCollier2010} Rethinking Social Inquiry}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}\citet {Mahoney2010} After KKV}{4}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}\citet {Lijphart1971} Comparative Politics and Comparative Method}{5}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}\citet {Mahoney2008} Toward a Unified Theory of Causality}{5}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}James Mahoney and Dietrich Rueschemeyer 2003 in (Comparative Historical Analysis)}{5}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Richard Snyder 2001 Scalding Down}{5}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Evan Lieberman 2005 Nested analysis as a mixed-method approach}{6}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}James Mahoney Strategies of Causal Assessment in CHA 2003}{6}{subsection.1.8}
+\contentsline {section}{\numberline {2}Power and State}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}\citet {Huntington2008} Political Order in Changing Society}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}\citet {Spruyt1994} State Anarchy as Order}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}\citet {Levi1981} The Predatory Theory of Rule}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}\citet {Warner2001} The rise of the state system in Africa}{7}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}\citet {AcemogluRobinson2006} Economic Backwardness in Political Perspective}{7}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}\citet {BlaydesChaney2013} The Feudal Revolution and Europe's Rise: Political Divergence of the Christian West and the Muslim World Before 1500 CE}{8}{subsection.2.6}
+\contentsline {section}{\numberline {3}Lipset Przeworski and Limongi Boix and Stokes}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}\citet {Lipset1959} Some social requsites of democracy}{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}\citet {Przeworski1997} Modernization, Theories and Facts}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}\citet {BoixStokes2003} Endogenous Democratization}{9}{subsection.3.3}
+\contentsline {section}{\numberline {4}State Building}{12}{section.4}
+\contentsline {subsection}{\numberline {4.1}\citet {Ertman1997} Birth of Leviathan}{12}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Daniel Ziblatt 2004 Rethinking the Origins of Federalism}{13}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}\citet {Evansetal1985} Bringing State Back in}{13}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Theda Skocpol Bringing state back}{13}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Charles Tilly War Making and State Making as Organized Crime}{13}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Peter Evans transnational linkages and the economic role of the state}{14}{subsubsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.4}Peter Evans Dietrich Rueschemeyer and Theda Skocpol On the Road toward a More Adequate Understanding of the State}{14}{subsubsection.4.3.4}
+\contentsline {subsection}{\numberline {4.4}\citet {KingLieberman2009} A Comparative Perspective on the American State Building}{14}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}\citet {Krasner1984} Approaches to the State: Alternative conceptions and historical dynamics}{15}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Dan Slater 2008 Can Leviathan be Democratic?}{16}{subsection.4.6}
+\contentsline {section}{\numberline {5}State Breakdowns and Social Revolutions}{16}{section.5}
+\contentsline {subsection}{\numberline {5.1}\citet {Skocpol1979} State and Social Revolution}{16}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}John Dunn 1982 Understanding Revolutions}{17}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Barrington Moore 1966 Social Origins of Democracy and Dictatorship}{17}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Moore, Skocpol, Rueschemeyer, Stevens and Stevens,; Therborn and Luebbert}{17}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Dan Slater and Nicholas Rush Smith 2016 The Power of Counterrevolution}{18}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Ted Gurr 1970 Why Men Rebel}{18}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Jack A. Goldstone 2003 Comparative Historical Analysis and Knowledge Accumulation in the Study of Revolutions}{18}{subsection.5.7}
+\contentsline {subsection}{\numberline {5.8}James Scott 1985 Weapons of the Weak, Everyday From of Resistence}{19}{subsection.5.8}
+\contentsline {subsection}{\numberline {5.9}Steven Solnick 1996 The Breakdown of Hierachies in the Soviet Union and China}{20}{subsection.5.9}
+\contentsline {section}{\numberline {6}Democracy and Transitions}{20}{section.6}
+\contentsline {subsection}{\numberline {6.1}Rueschemeyer, Stephens and Stephens 1992 Capitalist Development and Democracy}{20}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Linz and Stephens 1995 Problems of Democratic Transition and Consolidation}{20}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}O'Donnell and Schmitter 1986 Transitions from authoritarian Rule Tentative Conclusions about Uncertain Democracies}{21}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}James Mahoney 2003 Knowledge Accumulation in Comparative Historical Research}{22}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Haggard Kaufman 2012}{22}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Robert Woodberry 2012 the missiornary Roots of Liberal Democracy}{22}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}Levitsky and Way 2010 Competitive Authoritariansim}{22}{subsection.6.7}
+\contentsline {subsection}{\numberline {6.8}Svolik 2008 Authoritarian Reversals and Democratic Consolidation}{22}{subsection.6.8}
+\contentsline {subsection}{\numberline {6.9}Svolik 2012 Politics of Authoritarian Rule}{23}{subsection.6.9}
+\contentsline {subsection}{\numberline {6.10}Haggard and Kaufman 1995 Political Economy of Democratic Transitions}{23}{subsection.6.10}
+\contentsline {subsection}{\numberline {6.11}Acemoglu and Robinson 2005}{23}{subsection.6.11}
+\contentsline {subsection}{\numberline {6.12}Carles Boix 2003 Democracy and Redistribution}{23}{subsection.6.12}
+\contentsline {subsection}{\numberline {6.13}Geddes 1999 what do we know about democratization after 20 years}{23}{subsection.6.13}
+\contentsline {subsection}{\numberline {6.14}Ross 2001}{23}{subsection.6.14}
+\contentsline {section}{\numberline {7}Institutions}{24}{section.7}
+\contentsline {subsection}{\numberline {7.1}Kathleen Thelen 2003 How Institutions Evolve}{24}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Peter Hall 1996 Political Science and the Three New Institutionalism}{24}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Greif and Latin 2004 Endogenous Institutional Change}{24}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}North 1990 Insitutions, institutional change, and economic performance.}{25}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}Gretchen Helmke and Steven Levitsky 2004 Information Institutions and Comparative Politics}{25}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.6}Paul Pierson 2000 Increasing Returns, Path Dependence and the Study of Politics}{25}{subsection.7.6}
+\contentsline {section}{\numberline {8}Political Parties}{26}{section.8}
+\contentsline {subsection}{\numberline {8.1}Lipset and Rokkan 1967}{26}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Katz and Mair 1995 Changing Models of Party Organization and Party Democracy}{26}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Ronald Inglehart 1971 The Silient Revolution: Intergenerational Changes}{26}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Bonnie Meguid 2005 Competition Between Unequals: The Role of Mainstream Party Strategy in Niche Party Success}{26}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Lijphart 1990 The Political Consequences of Electoral System}{27}{subsection.8.5}
+\contentsline {section}{\numberline {9}Political Culture}{27}{section.9}
+\contentsline {subsection}{\numberline {9.1}Almond and Verba The Civic Culture: Political Attitudes and Democracy in Five Nations 1963}{27}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Fearson and Laitin 1996 Explaining Interethnic Group Cooperation}{27}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Robert Putnam 1993 Making Democracy Work}{27}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Sheri Berman 1997 Civil Society and the Collapse of Weimar Republic}{28}{subsection.9.4}
+\contentsline {section}{\numberline {10}Welfare state and Political Economy}{28}{section.10}
+\contentsline {subsection}{\numberline {10.1}Kathleen Thelen 2009 Institutional Change in Advanced Political Economies}{28}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Robert Bates 1981 Market and States in Tropical Africa}{28}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Robert Bates 2001 Prosperity and Violence}{28}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.4}Acemoglu Johnson and Robinson 2001 The Colonial Origins of Comparative Development}{29}{subsection.10.4}
+\contentsline {subsection}{\numberline {10.5}Esping-Andersen 1990 The Three Worlds of Welfare Capitalism}{29}{subsection.10.5}
+\contentsline {section}{\numberline {11}Principal-Agent Problem}{29}{section.11}
+\contentsline {subsection}{\numberline {11.1}Bueno de Mesquita et al. 2003 The Logic of Political Survival}{29}{subsection.11.1}

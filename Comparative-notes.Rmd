@@ -6,7 +6,7 @@ output:
     keep_tex: false
     fig_caption: true
     latex_engine: pdflatex
-title: "American Comprehensive Exam Notes"
+title: "Comparative Politics Comprehensive Exam Notes"
 author: 
 - Hao Wang
 - Arizona State University
@@ -16,7 +16,7 @@ fontfamily: mathpazo
 fontsize: 12pt
 spacing: single
 papersize: letter
-bibliography: ~/Dropbox/bib/Haowang.bib
+bibliography: D:/Dropbox/bib/Haowang.bib
 biblio-style: apsr
 citecolor: blue
 header-includes: \usepackage{graphicx, longtable, float, subfigure}
@@ -93,9 +93,13 @@ Achievements and agendas
 
 Definitions of CHA: 1. concerned with explanation and causal identification 2. explicitly analyze historical sequences and take seriously the unfolding process over time. 3. engage in systematic and contextualizex comparisons of similar and contrasting cases. 
 
-## Snyder 2001 Scalding Down
+## Richard Snyder 2001 Scalding Down
 
+advocates for subnational analysis
 
+## Evan Lieberman 2005 Nested analysis as a mixed-method approach
+
+from large-N to small-N: theory building and hypothesis testing 
 
 ## James Mahoney Strategies of Causal Assessment in CHA 2003
 
@@ -402,7 +406,7 @@ CHA has a Bayesian style by heart.
 
 Scott introduces the idea that oppression and resistance are in constant flux, and that by focusing (as political scientists often do) on visible historic 'events' such as organised rebellions or collective action we can easily miss subtle but powerful forms of 'every day resistance'. Scott looks at peasant and slave societies and their ways of responding to domination, with a focus not on observable acts of rebellion but on forms of cultural resistance and non-cooperation that are employed over time through the course of persistent servitude.
 
-Scott’s research finds that overt peasant rebellions are actually rather uncommon, do not occur when and where expected, and often don’t have much impact.  Rather than seeing 'resistance as organisation', Scott looks at less visible, every-day forms of resistance such as 'foot-dragging, evasion, false compliance, pilfering, feigned ignorance, slander and sabotage'.  He finds these in rural and factory settings, and also among the middle class and elites (e.g. through tax evasion or conscription), but particularly among rural people who are physically dispersed and less politically organised than urban populations (Scott 1985).
+Scott's research finds that overt peasant rebellions are actually rather uncommon, do not occur when and where expected, and often don't have much impact.  Rather than seeing 'resistance as organisation', Scott looks at less visible, every-day forms of resistance such as 'foot-dragging, evasion, false compliance, pilfering, feigned ignorance, slander and sabotage'.  He finds these in rural and factory settings, and also among the middle class and elites (e.g. through tax evasion or conscription), but particularly among rural people who are physically dispersed and less politically organised than urban populations (Scott 1985).
 
 ## Steven Solnick 1996 The Breakdown of Hierachies in the Soviet Union and China
 
@@ -545,26 +549,31 @@ Social cleavage is the foundation of political parties, stable.
 
 from mass party to cartel party, in which collduing parties become agents of the state and employ the reousrces of the state to ensure their own survival. 
 
+mass party -- catch-all party -- cartel party
+
 ## Ronald Inglehart 1971 The Silient Revolution: Intergenerational Changes
 
-”The Silent Revolution in Europe” was the first presentation of the intergenerational value change hypothesis. It argued that the publics of postindustrial societies are shifting from giving top priority to “Materialist” goals such as economic and physical security to placing increasingly strong emphasis on self-expression and the quality of life. Throughout history, survival has been insecure for most people, forcing them to give top priority to survival needs. But in advanced industrial societies, the economic miracles of the postwar era and the emergence of the welfare state gave rise to conditions under which much of the postwar generation grew up taking survival for granted; they give increasingly high priority to “Postmaterialist” values such as belonging, self-expression, and free choice. Because people's basic values do not change overnight, those who experienced the insecurity of World War I, the Great Depression, and World War II would continue to emphasize Materialist values, but we would expect to find an intergenerational shift toward Postmaterialist values.
+The Silent Revolution in Europe was the first presentation of the intergenerational value change hypothesis. It argued that the publics of postindustrial societies are shifting from giving top priority to Materialist goals such as economic and physical security to placing increasingly strong emphasis on self-expression and the quality of life. Throughout history, survival has been insecure for most people, forcing them to give top priority to survival needs. But in advanced industrial societies, the economic miracles of the postwar era and the emergence of the welfare state gave rise to conditions under which much of the postwar generation grew up taking survival for granted; they give increasingly high priority to Postmaterialist values such as belonging, self-expression, and free choice. Because people's basic values do not change overnight, those who experienced the insecurity of World War I, the Great Depression, and World War II would continue to emphasize Materialist values, but we would expect to find an intergenerational shift toward Postmaterialist values.
 
 ## Bonnie Meguid 2005 Competition Between Unequals: The Role of Mainstream Party Strategy in Niche Party Success
 
+Niche parties: green parties, radical right parties, specific policy goals not shared with the mainstream party. 
+Maintream parties can either igore; accommodate or take adversarial strategies: either increase or decrease the issue salience of niche parties. 
+
+
 ## Lijphart 1990 The Political Consequences of Electoral System
 
+1. PR system is more proportional 2. large district magnitude decrease electoral disportionality 3. ballot structure is related to multiparty system. larger effect on disportionality, smaller effect on party system
 
 
-
-# Citizen-government relationship
 
 # Political Culture
 
 ## Almond and Verba The Civic Culture: Political Attitudes and Democracy in Five Nations  1963
 
-Parochial – Where citizens are only remotely aware of the presence of central government, and live their lives near enough regardless of the decisions taken by the state, distant and unaware of political phenomena. They have neither knowledge nor interest in politics. This type of political culture is in general congruent with a traditional political structure.
-Subject – Where citizens are aware of central government, and are heavily subjected to its decisions with little scope for dissent. The individual is aware of politics, its actors and institutions. It is affectively oriented towards politics, yet it is on the "downward flow" side of the politics. In general congruent with a centralized authoritarian structure.
-Participant – Citizens are able to influence the government in various ways and they are affected by it. The individual is oriented toward the system as a whole, to both the political and administrative structures and processes (to both the input and output aspects). In general congruent with a democratic political structure.
+Parochial: Where citizens are only remotely aware of the presence of central government, and live their lives near enough regardless of the decisions taken by the state, distant and unaware of political phenomena. They have neither knowledge nor interest in politics. This type of political culture is in general congruent with a traditional political structure.
+Subject: Where citizens are aware of central government, and are heavily subjected to its decisions with little scope for dissent. The individual is aware of politics, its actors and institutions. It is affectively oriented towards politics, yet it is on the "downward flow" side of the politics. In general congruent with a centralized authoritarian structure.
+Participant: Citizens are able to influence the government in various ways and they are affected by it. The individual is oriented toward the system as a whole, to both the political and administrative structures and processes (to both the input and output aspects). In general congruent with a democratic political structure.
 
 ## Fearson and Laitin 1996 Explaining Interethnic Group Cooperation
 
@@ -573,7 +582,13 @@ In the spiral equilibria, I deal as follows: with members of my group, I can det
 In the in-group policing game, I never play "defect" with members of the other group. When interacting with members of my group, I defect only if they are in punishment phase for defecting inappropriately against a member of EITHER group.
 
 
+## Robert Putnam 1993 Making Democracy Work
 
+social capital is key to high instituional performance and the maintainance of democracy 
+
+## Sheri Berman 1997 Civil Society and the Collapse of Weimar Republic
+
+Without stable instituion, civil society and participation undermines regime stability
 
 # Welfare state and Political Economy
 
@@ -591,6 +606,8 @@ According to Bates, the inefficient state that fails to monopolize power in a wa
 
 
 ## Acemoglu Johnson and Robinson 2001 The Colonial Origins of Comparative Development
+
+## Esping-Andersen 1990 The Three Worlds of Welfare Capitalism
 
 # Principal-Agent Problem
  
