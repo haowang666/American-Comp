@@ -1892,6 +1892,7 @@ Kahn and Kenny 2002 the Slant of News Editorail Endorsement Influence Campaign C
 Lau et al. 1999 Meta Analysis of Negative ADs on Tunrout: no support
 
 
+
 ## Media
 
 Iyengar and Kinder 1987 News that Matters: Media can change public opinion through priming, framing and agenda setting
@@ -1983,5 +1984,35 @@ Tea party as identity politics, Obama as a symbolic threat
 
 ## Political Knowledge Related
 
+<<<<<<< Updated upstream
 ### Arthur Lupia Uninformed 
+=======
+<<<<<<< HEAD
+### Arthur Lupia 2016 Uninformed Voters
+
+differences between information, competence and knowledge, competence is always with respect to a task and an evaluative criterion. An example will be a person's ability to choose a candidate for office that is most consistent with a relevant set of facts while also best aligning with a chosen set of values. Information is most valuable to an audience if it is necessary or sufficient to increase competence at high valued tasks. 
+
+Information that matters: 1. sufficient and necessary to improve perfromance; 2. leaners may pay sufficient attention to.
+
+Information is what educators can convey to others directly; knowledge is memories of how concepts and objects are related to one another. Knowledge requires information. 
+
+The importance of values: influencing how people perceive and process information; drive individuals to embrace certain types of information and rejects others; values often have these effects before perspective learners are conscious of them, and they have these effects even if prospective learners have trouble describing them. 
+
+attribution error; out-group stereotyping and motivated reasoning.
+
+## Motivated Reasoning and Affect
+
+Sinclair and Kunda 1999
+Druckman and Bolsen 2011
+
+
+
+
+
+
+
+=======
+### Arthur Lupia Uninformed 
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 
