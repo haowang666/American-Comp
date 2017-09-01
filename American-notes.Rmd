@@ -1984,10 +1984,8 @@ Tea party as identity politics, Obama as a symbolic threat
 
 ## Political Knowledge Related
 
-<<<<<<< Updated upstream
-### Arthur Lupia Uninformed 
-=======
-<<<<<<< HEAD
+
+
 ### Arthur Lupia 2016 Uninformed Voters
 
 differences between information, competence and knowledge, competence is always with respect to a task and an evaluative criterion. An example will be a person's ability to choose a candidate for office that is most consistent with a relevant set of facts while also best aligning with a chosen set of values. Information is most valuable to an audience if it is necessary or sufficient to increase competence at high valued tasks. 
@@ -2000,19 +1998,16 @@ The importance of values: influencing how people perceive and process informatio
 
 attribution error; out-group stereotyping and motivated reasoning.
 
+anes incorrect coding: Rehnquist as 'the head of the court'
+
 ## Motivated Reasoning and Affect
 
 Sinclair and Kunda 1999
 Druckman and Bolsen 2011
+Jerit and Barabas 2012: self-identified partisans are more likely to recall facts that favor theri partisan priorties. 
+
+Carpini and Keeter 1996 what Americans know about politics and why it matters. 
 
 
 
-
-
-
-
-=======
-### Arthur Lupia Uninformed 
->>>>>>> origin/master
->>>>>>> Stashed changes
 
