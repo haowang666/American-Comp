@@ -1528,9 +1528,25 @@ Unfamiliar and uncertain context -- anixety -- deliberative choice
 **Summary**
 
 The John Q. Public Model of automatic beliefs, attitudes, and behaviors. 
-Hot cognitiion hypothesis: the claim that with repeated co-activation socio-political concepts become positively or negatively charged and this afftective charge becomes directly linked to the concepts in long-term memory. Thereupon 'feelings' come to mind spontaneouly upon mere activation of the object represented in long-term memory, be it a person, a group, an issue or an event ect.
+Hot cognition hypothesis: the claim that with repeated co-activation socio-political concepts become positively or negatively charged and this afftective charge becomes directly linked to the concepts in long-term memory. Thereupon 'feelings' come to mind spontaneouly upon mere activation of the object represented in long-term memory, be it a person, a group, an issue or an event ect.
 
 Emotions come before rational judgements. Motivated reasoning exists. 
+
+Affect-driven, dual-processing model. Seven postulates of JQP model.
+
+1. Automaticity. What people think, feel, say and do is a direct funtion of the information that is mementarily accessible from memory. 
+
+2. Hot cognition, feeling and affect is in the center stage of information processing.
+
+3. Somatic embodiment of affect: connecting affect to attitudes, goals, choices and behaviors
+
+4. the primacy of affect: affect before cognition
+
+5. online updating of evaluation
+
+6. affect transfer
+
+7. affect contagion and motivated reasoner
 
 
 
@@ -2008,6 +2024,16 @@ Jerit and Barabas 2012: self-identified partisans are more likely to recall fact
 
 Carpini and Keeter 1996 what Americans know about politics and why it matters. 
 
+### Milton Lodge and Charles Taber 2013 The Rationalizing Voter
+
+affect-driven and dual-processing model of political reasoning 
+
+hints: face, appearance, age, gender, race, attrativeness, familarity. subliminal messages. 
+
+both affective and congtive reactions to external and internal events are triggered unconsciously. 
+
+
+### Lau and Redlawski 2006 How Voters Decid
 
 
 
